@@ -1,0 +1,1320 @@
+Age,Gender,Heart rate,Systolic blood pressure,Diastolic blood pressure,Blood sugar,CK-MB,Troponin,Result,Risk_Level,Recommendation
+63,1,66,160,83,160,1.8,0.012,negative,Moderate,Monitor closely and consult doctor
+20,1,94,98,46,296,6.75,1.06,positive,High,Immediate medical attention
+56,1,64,160,77,270,1.99,0.003,negative,Moderate,Monitor closely and consult doctor
+66,1,70,120,55,270,13.87,0.122,positive,High,Immediate medical attention
+54,1,64,112,65,300,1.08,0.003,negative,Moderate,Monitor closely and consult doctor
+52,0,61,112,58,87,1.83,0.004,negative,Low,Maintain healthy lifestyle
+38,0,40,179,68,102,0.71,0.003,negative,Moderate,Monitor closely and consult doctor
+61,1,60,214,82,87,300,2.37,positive,High,Immediate medical attention
+49,0,60,154,81,135,2.35,0.004,negative,Moderate,Monitor closely and consult doctor
+65,1,61,160,95,100,2.84,0.011,negative,Moderate,Monitor closely and consult doctor
+45,0,60,166,90,102,2.39,0.006,negative,Moderate,Monitor closely and consult doctor
+63,0,60,150,83,198,2.39,0.013,negative,Moderate,Monitor closely and consult doctor
+64,1,60,199,99,92,3.43,5.37,positive,High,Immediate medical attention
+54,0,94,122,67,97,1.42,0.012,negative,Low,Maintain healthy lifestyle
+47,1,76,120,70,319,2.57,0.003,negative,Moderate,Monitor closely and consult doctor
+61,1,81,118,66,134,1.49,0.017,positive,High,Immediate medical attention
+86,0,73,114,68,87,1.11,0.776,positive,High,Immediate medical attention
+45,0,70,100,68,96,0.606,0.004,negative,Low,Maintain healthy lifestyle
+37,0,72,107,86,274,2.89,0.003,negative,Moderate,Monitor closely and consult doctor
+45,1,60,109,65,89,1.6,0.02,positive,High,Immediate medical attention
+60,1,92,151,78,301,1.6,0.005,negative,Moderate,Monitor closely and consult doctor
+48,1,135,98,60,100,94.79,0.004,positive,High,Immediate medical attention
+52,1,76,109,85,227,0.665,0.491,positive,High,Immediate medical attention
+30,1,63,110,68,107,50.46,0.003,positive,High,Immediate medical attention
+50,1,63,104,63,269,38.72,0.612,positive,High,Immediate medical attention
+72,1,64,106,68,111,2.11,1.39,positive,High,Immediate medical attention
+42,1,65,150,68,101,2.93,0.003,negative,Moderate,Monitor closely and consult doctor
+72,0,64,152,60,95,1.61,0.006,negative,Moderate,Monitor closely and consult doctor
+47,0,66,134,57,279,300,0.007,positive,High,Immediate medical attention
+63,1,66,135,55,166,0.493,10,negative,High,Immediate medical attention
+54,1,125,131,82,95,1.31,8.3,positive,High,Immediate medical attention
+35,1,62,137,61,321,4.58,0.003,negative,Moderate,Monitor closely and consult doctor
+68,1,61,121,49,98,6.48,0.021,positive,High,Immediate medical attention
+56,0,60,145,62,105,0.929,0.013,negative,Moderate,Monitor closely and consult doctor
+50,1,61,136,70,136,1.37,1.15,positive,High,Immediate medical attention
+64,1,58,156,76,82,6.78,0.012,positive,High,Immediate medical attention
+65,1,60,166,82,117,4.24,0.004,negative,Moderate,Monitor closely and consult doctor
+64,1,65,155,75,107,1.3,0.004,negative,Moderate,Monitor closely and consult doctor
+50,0,93,120,71,120,0.609,0.013,negative,Low,Maintain healthy lifestyle
+34,1,96,105,75,136,15.23,0.003,positive,High,Immediate medical attention
+44,1,94,91,52,208,1.54,0.003,negative,Moderate,Monitor closely and consult doctor
+50,1,95,101,76,125,2.93,0.005,negative,Low,Maintain healthy lifestyle
+50,1,96,105,70,103,16.95,0.003,positive,High,Immediate medical attention
+55,1,97,105,80,100,2.97,0.146,positive,High,Immediate medical attention
+63,1,91,121,82,93,4.22,0.008,positive,High,Immediate medical attention
+58,0,96,111,74,99,1.29,0.026,positive,High,Immediate medical attention
+40,1,87,115,78,228,4.8,0.053,positive,High,Immediate medical attention
+45,1,76,133,75,238,1.83,0.004,negative,Moderate,Monitor closely and consult doctor
+46,1,77,153,76,96,1.33,0.009,negative,Moderate,Monitor closely and consult doctor
+38,0,80,152,78,133,1.19,0.003,negative,Moderate,Monitor closely and consult doctor
+47,1,82,125,61,136,2.11,0.067,positive,High,Immediate medical attention
+40,0,83,130,75,113,0.78,0.005,negative,Low,Maintain healthy lifestyle
+63,0,81,130,65,98,2.28,0.04,positive,High,Immediate medical attention
+57,0,82,121,62,91,4.39,0.007,negative,Low,Maintain healthy lifestyle
+28,0,78,127,61,114,19.47,0.01,positive,High,Immediate medical attention
+50,1,90,125,73,96,2.41,0.006,negative,Low,Maintain healthy lifestyle
+49,1,59,110,65,149,3.18,0.003,negative,Low,Maintain healthy lifestyle
+29,1,57,140,52,103,36.24,0.011,positive,High,Immediate medical attention
+80,0,76,150,81,110,2.21,0.031,positive,High,Immediate medical attention
+45,1,61,130,74,251,2.19,0.015,positive,High,Immediate medical attention
+47,1,98,110,76,87,5.33,0.076,positive,High,Immediate medical attention
+90,0,58,120,69,191,5.22,0.015,positive,High,Immediate medical attention
+45,1,83,150,94,334,1.63,0.052,positive,High,Immediate medical attention
+45,1,1111,141,95,109,1.33,1.01,positive,High,Immediate medical attention
+61,1,102,130,83,201,1.24,0.089,positive,High,Immediate medical attention
+54,1,103,120,83,101,5.8,0.004,negative,Low,Maintain healthy lifestyle
+62,1,105,128,80,167,3.29,0.028,positive,High,Immediate medical attention
+65,1,61,121,60,85,0.937,0.703,positive,High,Immediate medical attention
+45,1,59,137,81,112,2.28,0.012,negative,Low,Maintain healthy lifestyle
+46,1,78,115,65,123,4.45,0.007,negative,Low,Maintain healthy lifestyle
+52,1,63,123,82,86,4.02,0.007,negative,Low,Maintain healthy lifestyle
+58,0,91,120,80,177,18.15,0.005,positive,High,Immediate medical attention
+61,1,60,125,88,90,0.865,0.085,positive,High,Immediate medical attention
+54,0,58,130,80,125,3.3,0.006,negative,Low,Maintain healthy lifestyle
+52,1,66,94,63,115,0.718,0.219,positive,High,Immediate medical attention
+57,1,94,95,65,392,3.45,0.003,negative,Moderate,Monitor closely and consult doctor
+47,0,64,101,68,147,7.65,0.006,positive,High,Immediate medical attention
+58,1,70,117,61,87,4.3,0.01,negative,Low,Maintain healthy lifestyle
+50,1,64,110,58,90,0.994,0.864,positive,High,Immediate medical attention
+65,0,61,124,62,141,1.53,0.105,positive,High,Immediate medical attention
+53,1,80,118,64,147,31.97,0.008,positive,High,Immediate medical attention
+80,0,65,112,58,222,2.91,0.048,positive,High,Immediate medical attention
+50,1,93,119,63,174,300,0.888,positive,High,Immediate medical attention
+72,0,63,110,59,162,3.2,0.016,positive,High,Immediate medical attention
+62,1,60,140,80,219,9.35,0.005,positive,High,Immediate medical attention
+58,0,72,138,86,189,12.02,1.07,positive,High,Immediate medical attention
+40,1,76,157,93,193,4.66,0.003,negative,Moderate,Monitor closely and consult doctor
+45,1,74,140,85,85,4.18,0.003,negative,Low,Maintain healthy lifestyle
+80,0,85,119,76,87,5.81,0.022,positive,High,Immediate medical attention
+61,1,60,202,88,111,0.633,6.05,positive,High,Immediate medical attention
+65,1,60,175,88,181,2.69,0.006,negative,Moderate,Monitor closely and consult doctor
+62,1,60,124,58,387,1.06,0.01,negative,Moderate,Monitor closely and consult doctor
+60,0,60,144,54,121,4.82,0.071,positive,High,Immediate medical attention
+60,0,60,130,56,294,2.13,0.103,positive,High,Immediate medical attention
+75,1,60,138,58,116,2.85,0.023,positive,High,Immediate medical attention
+66,1,60,129,55,88,1.6,0.038,positive,High,Immediate medical attention
+40,1,60,97,44,167,6.91,0.051,positive,High,Immediate medical attention
+19,0,62,114,69,240,300,0.004,positive,High,Immediate medical attention
+58,1,75,116,71,132,1.98,0.028,positive,High,Immediate medical attention
+77,1,73,115,72,134,19.5,0.009,positive,High,Immediate medical attention
+71,1,71,119,76,159,0.468,0.029,positive,High,Immediate medical attention
+53,1,73,135,81,115,165.1,0.014,positive,High,Immediate medical attention
+43,0,68,116,74,81,1.64,0.015,positive,High,Immediate medical attention
+66,0,70,113,62,266,300,0.012,positive,High,Immediate medical attention
+67,1,87,148,89,142,1.87,0.01,negative,Moderate,Monitor closely and consult doctor
+51,0,85,140,82,101,1.69,0.008,negative,Low,Maintain healthy lifestyle
+50,1,83,140,81,244,3.27,2.23,positive,High,Immediate medical attention
+67,1,82,164,90,130,3.75,0.009,negative,Moderate,Monitor closely and consult doctor
+59,1,81,150,51,117,1.51,1.55,positive,High,Immediate medical attention
+20,1,60,156,60,103,5.22,1.84,positive,High,Immediate medical attention
+55,1,67,192,56,120,2.16,0.011,negative,Moderate,Monitor closely and consult doctor
+36,1,56,171,56,182,5.27,0.64,positive,High,Immediate medical attention
+38,0,89,111,57,94,1.96,0.003,negative,Low,Maintain healthy lifestyle
+57,1,88,110,70,83,40.99,7.67,positive,High,Immediate medical attention
+45,1,89,100,50,147,96.08,0.008,positive,High,Immediate medical attention
+62,0,78,101,54,241,51.9,0.01,positive,High,Immediate medical attention
+43,0,80,129,89,318,74.45,0.007,positive,High,Immediate medical attention
+66,1,73,108,61,93,8.84,0.061,positive,High,Immediate medical attention
+60,1,71,112,68,66,6.28,0.094,positive,High,Immediate medical attention
+67,1,74,111,71,91,2.2,0.027,positive,High,Immediate medical attention
+65,1,72,130,73,156,3.2,0.076,positive,High,Immediate medical attention
+60,0,78,134,68,123,1.54,0.054,positive,High,Immediate medical attention
+49,1,78,132,85,103,49.8,0.252,positive,High,Immediate medical attention
+60,1,62,115,75,125,1.64,1.79,positive,High,Immediate medical attention
+80,1,60,135,85,166,3.46,1.95,positive,High,Immediate medical attention
+47,1,125,121,60,89,2.27,0.392,positive,High,Immediate medical attention
+45,1,65,137,81,115,2.15,0.327,positive,High,Immediate medical attention
+38,0,90,135,75,108,0.452,0.046,positive,High,Immediate medical attention
+71,0,89,135,64,322,2,0.006,negative,Moderate,Monitor closely and consult doctor
+60,1,86,135,65,187,35.55,0.006,positive,High,Immediate medical attention
+30,1,85,135,65,105,3.25,0.005,negative,Low,Maintain healthy lifestyle
+60,1,81,113,61,122,21.61,1.24,positive,High,Immediate medical attention
+70,0,94,144,79,89,1.83,0.007,negative,Moderate,Monitor closely and consult doctor
+78,1,83,131,82,182,2.26,1.15,positive,High,Immediate medical attention
+63,1,80,140,83,116,14.21,0.178,positive,High,Immediate medical attention
+57,1,64,117,68,94,4.16,0.019,positive,High,Immediate medical attention
+67,1,58,119,72,109,1.5,0.009,negative,Low,Maintain healthy lifestyle
+67,0,62,109,63,362,1.73,0.006,negative,Moderate,Monitor closely and consult doctor
+56,1,79,85,44,97,1.28,0.006,negative,Low,Maintain healthy lifestyle
+43,0,79,89,57,98,2.46,0.006,negative,Low,Maintain healthy lifestyle
+45,0,79,87,47,82,2.38,0.003,negative,Low,Maintain healthy lifestyle
+50,1,80,98,52,110,4.61,0.003,negative,Low,Maintain healthy lifestyle
+64,1,79,99,55,105,1.36,1.97,positive,High,Immediate medical attention
+63,0,78,116,60,180,2.58,0.005,negative,Low,Maintain healthy lifestyle
+60,1,78,96,57,116,264.4,0.681,positive,High,Immediate medical attention
+53,0,77,105,58,92,0.687,0.009,negative,Low,Maintain healthy lifestyle
+60,0,89,95,70,93,20.71,0.106,positive,High,Immediate medical attention
+44,0,91,100,71,116,7.02,0.014,negative,Low,Maintain healthy lifestyle
+50,1,83,95,70,94,2.42,1.46,positive,High,Immediate medical attention
+69,1,82,86,70,87,4.37,0.017,positive,High,Immediate medical attention
+45,0,86,70,92,90,4.76,0.003,negative,Low,Maintain healthy lifestyle
+55,1,92,71,93,127,1.8,0.009,negative,Low,Maintain healthy lifestyle
+58,1,103,78,92,109,3.84,0.008,negative,Low,Maintain healthy lifestyle
+50,0,72,91,70,147,2.74,0.063,positive,High,Immediate medical attention
+55,1,78,136,82,131,1.65,0.007,negative,Low,Maintain healthy lifestyle
+70,0,75,128,74,84,1.27,0.005,negative,Low,Maintain healthy lifestyle
+70,1,70,127,77,132,1.3,1.23,positive,High,Immediate medical attention
+73,0,62,110,69,227,1.2,0.016,positive,High,Immediate medical attention
+68,1,61,122,66,95,3.45,0.013,negative,Low,Maintain healthy lifestyle
+41,1,60,131,70,134,0.743,2.86,positive,High,Immediate medical attention
+82,1,62,126,65,137,39.53,0.006,positive,High,Immediate medical attention
+32,1,72,136,80,111,5.6,0.003,negative,Low,Maintain healthy lifestyle
+57,1,70,144,75,111,3.58,0.164,positive,High,Immediate medical attention
+50,1,60,135,89,81,4.56,1.86,positive,High,Immediate medical attention
+60,1,65,140,89,242,3.26,0.011,negative,Moderate,Monitor closely and consult doctor
+67,1,61,134,89,106,2.37,0.032,positive,High,Immediate medical attention
+50,1,66,136,78,130,2.11,0.024,positive,High,Immediate medical attention
+60,0,100,170,103,197,3.36,0.012,negative,Moderate,Monitor closely and consult doctor
+46,0,76,169,95,152,2.19,0.006,negative,Moderate,Monitor closely and consult doctor
+46,1,78,150,76,169,3.43,0.008,negative,Moderate,Monitor closely and consult doctor
+55,1,83,169,78,109,1.49,0.025,positive,High,Immediate medical attention
+55,0,76,149,75,347,20.21,0.009,positive,High,Immediate medical attention
+75,1,71,144,74,104,4.43,0.013,negative,Moderate,Monitor closely and consult doctor
+40,0,75,148,73,117,3.32,0.008,negative,Moderate,Monitor closely and consult doctor
+45,1,72,154,67,98,16.08,0.01,positive,High,Immediate medical attention
+68,0,73,150,75,103,3.09,0.005,negative,Moderate,Monitor closely and consult doctor
+55,1,74,168,97,102,2,0.014,negative,Moderate,Monitor closely and consult doctor
+50,0,81,130,58,99,6.14,0.003,negative,Low,Maintain healthy lifestyle
+50,1,79,141,79,81,2.93,0.142,positive,High,Immediate medical attention
+68,1,67,191,110,165,2.58,0.01,negative,Moderate,Monitor closely and consult doctor
+60,1,60,120,60,126,1.3,0.046,positive,High,Immediate medical attention
+55,1,67,145,83,191,0.683,2.99,positive,High,Immediate medical attention
+61,1,60,138,81,321,6.17,0.001,negative,Moderate,Monitor closely and consult doctor
+51,1,72,141,89,133,8.57,0.008,positive,High,Immediate medical attention
+30,0,65,137,61,109,1.76,0.003,negative,Low,Maintain healthy lifestyle
+66,1,69,129,73,215,300,0.005,positive,High,Immediate medical attention
+62,0,61,193,86,96,2.99,0.004,negative,Moderate,Monitor closely and consult doctor
+70,1,61,145,68,61,286.9,0.004,positive,High,Immediate medical attention
+60,0,60,128,72,80,0.487,0.005,negative,Low,Maintain healthy lifestyle
+78,1,62,157,66,106,3.77,0.024,positive,High,Immediate medical attention
+58,0,80,167,97,92,1.67,0.017,positive,High,Immediate medical attention
+58,1,73,160,95,91,1.98,0.051,positive,High,Immediate medical attention
+46,1,69,165,94,95,2.82,0.009,negative,Moderate,Monitor closely and consult doctor
+58,0,81,146,84,195,0.998,0.014,negative,Moderate,Monitor closely and consult doctor
+46,1,65,115,66,112,25.74,0.007,positive,High,Immediate medical attention
+63,1,66,101,50,94,0.596,0.171,positive,High,Immediate medical attention
+57,1,56,93,65,133,16.62,0.017,positive,High,Immediate medical attention
+51,0,70,140,90,150,1.81,0.013,negative,Low,Maintain healthy lifestyle
+50,1,69,165,104,194,1.5,0.007,negative,Moderate,Monitor closely and consult doctor
+45,1,68,154,95,102,7.32,0.004,positive,High,Immediate medical attention
+47,0,67,128,92,114,5.27,0.01,positive,High,Immediate medical attention
+75,0,66,150,95,115,2.96,0.28,positive,High,Immediate medical attention
+48,0,65,136,88,104,4.55,0.011,negative,Low,Maintain healthy lifestyle
+25,1,64,153,93,110,3.09,0.097,positive,High,Immediate medical attention
+48,0,63,175,90,85,1.64,0.002,negative,Moderate,Monitor closely and consult doctor
+52,1,62,180,100,233,2.94,3.39,positive,High,Immediate medical attention
+63,0,75,116,73,95,4.69,0.006,negative,Low,Maintain healthy lifestyle
+60,1,77,154,76,462,2.14,1.33,positive,High,Immediate medical attention
+49,0,67,120,55,100,0.676,0.005,positive,High,Immediate medical attention
+60,1,68,42,64,106,0.879,0.426,negative,High,Immediate medical attention
+52,0,70,114,54,422,2.31,0.008,negative,Moderate,Monitor closely and consult doctor
+55,1,70,116,54,100,2.99,0.009,negative,Low,Maintain healthy lifestyle
+60,1,72,151,57,245,20.46,0.01,positive,High,Immediate medical attention
+65,0,71,149,64,168,25.36,0.013,positive,High,Immediate medical attention
+55,1,76,115,51,99,2.73,0.103,positive,High,Immediate medical attention
+45,1,72,136,46,187,1.42,0.004,negative,Low,Maintain healthy lifestyle
+67,1,74,117,42,101,3.7,0.068,positive,High,Immediate medical attention
+45,1,75,144,78,189,2.42,0.006,negative,Moderate,Monitor closely and consult doctor
+53,0,80,150,52,188,3.24,0.007,negative,Moderate,Monitor closely and consult doctor
+67,0,84,118,68,98,1.46,0.007,negative,Low,Maintain healthy lifestyle
+60,0,110,220,128,101,1.28,0.002,negative,Moderate,Monitor closely and consult doctor
+63,1,120,140,90,100,98.48,0.031,positive,High,Immediate medical attention
+55,1,122,147,95,96,3.86,0.005,negative,Moderate,Monitor closely and consult doctor
+63,1,119,170,107,129,2.61,0.005,negative,Moderate,Monitor closely and consult doctor
+75,0,116,144,82,96,4,0.012,negative,Moderate,Monitor closely and consult doctor
+63,0,114,152,91,200,3.35,0.008,negative,Moderate,Monitor closely and consult doctor
+48,1,80,129,77,110,4.73,0.006,negative,Low,Maintain healthy lifestyle
+70,0,79,150,85,146,4.29,0.061,positive,High,Immediate medical attention
+44,1,78,145,81,140,2.91,0.003,negative,Moderate,Monitor closely and consult doctor
+25,1,77,175,98,109,2.7,0.003,negative,Moderate,Monitor closely and consult doctor
+62,1,76,154,86,159,1.16,0.003,negative,Moderate,Monitor closely and consult doctor
+50,1,75,142,75,122,6.27,0.004,negative,Moderate,Monitor closely and consult doctor
+51,0,74,120,70,382,5.16,0.003,positive,High,Immediate medical attention
+56,1,73,123,74,217,3.85,0.005,negative,Moderate,Monitor closely and consult doctor
+55,1,55,120,79,94,1.42,0.353,positive,High,Immediate medical attention
+60,1,53,102,61,303,14.07,0.816,positive,High,Immediate medical attention
+63,1,64,107,69,112,101.9,0.017,positive,High,Immediate medical attention
+45,1,65,117,72,98,3,0.004,negative,Low,Maintain healthy lifestyle
+54,0,69,103,74,154,1.77,0.004,negative,Low,Maintain healthy lifestyle
+63,1,61,107,70,102,134.7,0.007,positive,High,Immediate medical attention
+36,1,55,101,72,115,2.78,0.016,positive,High,Immediate medical attention
+26,1,54,104,62,88,14.21,0.004,positive,High,Immediate medical attention
+41,1,54,87,54,221,0.722,0.014,negative,Moderate,Monitor closely and consult doctor
+65,0,62,101,64,89,2.27,0.598,positive,High,Immediate medical attention
+65,0,57,95,57,90,2.9,0.77,positive,High,Immediate medical attention
+59,1,60,86,50,104,2.35,0.019,positive,High,Immediate medical attention
+57,0,61,112,56,103,2.98,0.003,negative,Low,Maintain healthy lifestyle
+53,1,62,123,66,186,2.49,0.048,positive,High,Immediate medical attention
+50,0,63,129,67,94,3.23,0.003,negative,Low,Maintain healthy lifestyle
+72,1,64,112,62,112,2.04,0.025,positive,High,Immediate medical attention
+75,1,65,107,57,140,1.64,0.009,negative,Low,Maintain healthy lifestyle
+75,1,66,115,62,218,1.9,0.03,positive,High,Immediate medical attention
+68,0,67,124,62,87,3.14,0.009,negative,Low,Maintain healthy lifestyle
+66,1,68,109,59,127,16.55,0.034,positive,High,Immediate medical attention
+67,0,69,128,70,382,2.33,0.007,negative,Moderate,Monitor closely and consult doctor
+76,0,74,148,65,152,10.78,0.012,positive,High,Immediate medical attention
+58,1,73,123,68,222,1.81,0.2,positive,High,Immediate medical attention
+62,1,69,111,70,68,13.97,0.292,positive,High,Immediate medical attention
+62,1,71,140,71,125,1.72,0.004,negative,Low,Maintain healthy lifestyle
+44,1,71,143,71,104,1.19,0.07,positive,High,Immediate medical attention
+64,1,85,143,73,150,1.68,0.324,positive,High,Immediate medical attention
+52,1,78,139,76,175,2.03,0.006,negative,Low,Maintain healthy lifestyle
+60,1,92,136,69,92,1.82,0.008,negative,Low,Maintain healthy lifestyle
+60,1,100,178,84,99,2.05,1.18,positive,High,Immediate medical attention
+53,0,94,126,65,105,2.38,0.003,negative,Low,Maintain healthy lifestyle
+63,1,67,120,64,94,2.72,0.245,positive,High,Immediate medical attention
+63,1,60,137,78,177,7.64,0.013,positive,High,Immediate medical attention
+33,1,90,139,67,50,0.813,0.004,positive,High,Immediate medical attention
+50,1,71,117,61,94,5.86,0.011,negative,Low,Maintain healthy lifestyle
+60,0,61,99,62,92,43.83,0.008,positive,High,Immediate medical attention
+61,1,59,91,55,103,2.94,0.011,negative,Low,Maintain healthy lifestyle
+70,1,67,87,38,88,0.821,0.112,positive,High,Immediate medical attention
+49,1,57,101,59,203,2.7,0.006,negative,Moderate,Monitor closely and consult doctor
+38,0,59,100,56,92,15.67,0.006,positive,High,Immediate medical attention
+39,1,94,105,81,93,4,0.004,negative,Low,Maintain healthy lifestyle
+68,1,87,135,84,108,3.76,0.012,negative,Low,Maintain healthy lifestyle
+41,1,81,121,83,130,1.24,0.003,negative,Low,Maintain healthy lifestyle
+38,1,90,120,68,119,99.56,0.003,positive,High,Immediate medical attention
+63,1,88,104,62,77,2.12,5.05,positive,High,Immediate medical attention
+54,1,64,122,60,87,5.46,0.017,positive,High,Immediate medical attention
+50,1,79,118,55,431,2.73,0.004,negative,Moderate,Monitor closely and consult doctor
+68,0,57,110,60,202,3.64,0.02,positive,High,Immediate medical attention
+53,1,60,113,52,141,7.19,0.012,positive,High,Immediate medical attention
+70,0,61,102,64,142,6.09,0.012,positive,High,Immediate medical attention
+36,0,94,157,79,92,3.24,0.005,negative,Moderate,Monitor closely and consult doctor
+65,1,60,124,100,114,3.35,0.022,positive,High,Immediate medical attention
+50,0,77,100,68,166,1.63,0.003,negative,Low,Maintain healthy lifestyle
+44,0,117,112,74,113,2.64,0.009,negative,Low,Maintain healthy lifestyle
+63,1,89,87,53,81,0.961,0.015,positive,High,Immediate medical attention
+53,0,82,80,80,118,1.64,0.008,negative,Low,Maintain healthy lifestyle
+68,0,87,80,50,77,1.22,0.006,negative,Low,Maintain healthy lifestyle
+63,0,82,84,54,126,1.93,0.007,negative,Low,Maintain healthy lifestyle
+50,1,64,83,60,100,3.36,0.01,negative,Low,Maintain healthy lifestyle
+50,1,74,95,53,184,3.94,0.267,positive,High,Immediate medical attention
+58,1,61,96,48,91,2.2,0.188,positive,High,Immediate medical attention
+63,0,74,119,78,103,2.98,0.008,negative,Low,Maintain healthy lifestyle
+70,1,61,119,75,97,8.23,0.016,positive,High,Immediate medical attention
+91,1,80,65,53,94,5.37,0.013,negative,Low,Maintain healthy lifestyle
+60,1,83,126,76,246,2.9,0.019,positive,High,Immediate medical attention
+65,1,72,100,57,93,3.46,0.106,positive,High,Immediate medical attention
+42,1,82,120,80,111,1.41,0.003,negative,Low,Maintain healthy lifestyle
+51,1,83,102,68,157,2.5,0.036,positive,High,Immediate medical attention
+65,1,70,118,72,222,2,0.179,positive,High,Immediate medical attention
+41,1,92,147,78,155,7.01,0.003,positive,High,Immediate medical attention
+75,0,89,145,68,96,2.09,0.518,positive,High,Immediate medical attention
+58,1,90,150,84,94,1.43,0.425,positive,High,Immediate medical attention
+42,1,88,152,87,113,2.31,0.003,negative,Moderate,Monitor closely and consult doctor
+72,0,88,155,85,202,64.86,0.019,positive,High,Immediate medical attention
+60,1,83,153,91,104,0.51,0.01,negative,Moderate,Monitor closely and consult doctor
+58,1,60,144,79,99,1.65,0.431,positive,High,Immediate medical attention
+62,1,70,175,92,107,0.958,2.73,positive,High,Immediate medical attention
+63,1,74,208,100,100,2.54,0.145,positive,High,Immediate medical attention
+60,1,75,160,70,154,4.02,0.331,positive,High,Immediate medical attention
+78,1,74,150,90,105,1.53,0.034,positive,High,Immediate medical attention
+53,0,64,154,97,82,2.25,0.017,positive,High,Immediate medical attention
+49,1,86,146,92,118,1.93,0.006,negative,Moderate,Monitor closely and consult doctor
+70,0,80,130,85,230,0.921,0.401,positive,High,Immediate medical attention
+21,0,62,76,55,111,3.11,0.003,negative,Low,Maintain healthy lifestyle
+50,0,61,90,57,100,1.43,0.003,negative,Low,Maintain healthy lifestyle
+65,0,69,94,55,86,1.77,0.012,negative,Low,Maintain healthy lifestyle
+55,1,62,91,50,114,31.2,0.288,positive,High,Immediate medical attention
+26,1,70,92,55,108,1.45,0.003,negative,Low,Maintain healthy lifestyle
+66,1,68,91,61,111,2.22,0.015,positive,High,Immediate medical attention
+75,0,70,134,58,217,2.82,0.015,positive,High,Immediate medical attention
+45,1,77,130,79,116,23.97,0.003,positive,High,Immediate medical attention
+55,0,73,125,78,125,95.34,0.003,positive,High,Immediate medical attention
+55,0,89,141,93,95,7.97,0.032,positive,High,Immediate medical attention
+86,1,81,125,79,114,2.24,0.018,positive,High,Immediate medical attention
+60,0,83,104,57,87,104.3,0.005,positive,High,Immediate medical attention
+31,0,81,125,69,106,13.92,0.008,positive,High,Immediate medical attention
+34,0,80,109,67,225,3.76,0.009,negative,Moderate,Monitor closely and consult doctor
+46,1,84,87,48,368,6.4,0.042,positive,High,Immediate medical attention
+75,0,80,108,79,168,2.6,0.014,negative,Low,Maintain healthy lifestyle
+62,1,81,95,61,408,1.85,2.96,positive,High,Immediate medical attention
+33,1,82,138,93,100,1.77,0.025,positive,High,Immediate medical attention
+70,1,67,113,82,131,3.97,0.004,negative,Low,Maintain healthy lifestyle
+53,1,66,112,74,302,1.69,0.095,positive,High,Immediate medical attention
+48,0,74,118,78,141,18.96,0.007,positive,High,Immediate medical attention
+70,1,60,104,60,500,5.23,0.095,positive,High,Immediate medical attention
+75,0,59,125,72,102,4.28,0.008,negative,Low,Maintain healthy lifestyle
+56,0,61,117,78,99,25.97,0.006,positive,High,Immediate medical attention
+50,0,55,109,76,90,15.74,0.008,positive,High,Immediate medical attention
+56,1,65,129,75,145,3.98,0.015,positive,High,Immediate medical attention
+70,1,84,128,80,108,2.68,0.262,positive,High,Immediate medical attention
+60,1,112,115,69,87,5.43,0.013,negative,Low,Maintain healthy lifestyle
+29,1,108,111,70,541,1.5,0.089,positive,High,Immediate medical attention
+60,1,134,111,69,163,3.08,0.025,positive,High,Immediate medical attention
+70,0,111,125,71,98,1.93,0.008,negative,Low,Maintain healthy lifestyle
+50,1,101,102,63,114,12.3,0.005,positive,High,Immediate medical attention
+62,1,103,115,85,104,0.353,2.42,positive,High,Immediate medical attention
+41,1,108,100,71,105,3.86,0.005,negative,Low,Maintain healthy lifestyle
+69,1,119,113,79,184,8.87,0.005,positive,High,Immediate medical attention
+63,1,113,131,63,66,6.13,0.013,negative,Low,Maintain healthy lifestyle
+68,0,62,143,75,102,10.44,0.068,positive,High,Immediate medical attention
+63,0,51,130,70,77,3.2,0.006,negative,Low,Maintain healthy lifestyle
+43,0,52,125,68,100,0.979,0.007,negative,Low,Maintain healthy lifestyle
+61,1,52,157,75,76,5.83,0.026,positive,High,Immediate medical attention
+55,0,61,128,49,78,1.98,0.019,positive,High,Immediate medical attention
+65,1,68,130,70,274,12.41,0.012,positive,High,Immediate medical attention
+63,1,60,122,55,100,34.36,0.081,positive,High,Immediate medical attention
+56,1,58,145,62,188,3.04,0.007,negative,Moderate,Monitor closely and consult doctor
+73,1,60,136,68,87,3.04,0.053,positive,High,Immediate medical attention
+74,0,57,142,77,182,21.04,0.013,positive,High,Immediate medical attention
+55,1,60,130,72,96,2.8,0.117,positive,High,Immediate medical attention
+65,0,70,150,75,114,0.961,0.008,negative,Moderate,Monitor closely and consult doctor
+90,1,59,164,75,415,5.87,0.014,negative,Moderate,Monitor closely and consult doctor
+65,0,59,183,77,119,2.65,0.068,positive,High,Immediate medical attention
+63,1,59,111,49,95,7.91,0.003,positive,High,Immediate medical attention
+59,1,59,127,56,208,5.34,0.412,positive,High,Immediate medical attention
+78,1,59,113,65,80,2.65,0.693,positive,High,Immediate medical attention
+54,0,59,93,64,141,11.32,0.372,positive,High,Immediate medical attention
+68,1,59,96,55,118,3.93,0.035,positive,High,Immediate medical attention
+59,1,59,100,61,170,2.51,0.385,positive,High,Immediate medical attention
+65,1,80,150,78,108,1.47,1.25,positive,High,Immediate medical attention
+78,1,97,137,76,200,0.942,0.554,positive,High,Immediate medical attention
+62,1,74,124,67,102,8.15,1.83,positive,High,Immediate medical attention
+58,0,69,121,65,140,4.39,0.076,positive,High,Immediate medical attention
+55,1,89,95,70,230,6.11,1.35,positive,High,Immediate medical attention
+78,1,77,116,64,104,2.24,0.021,positive,High,Immediate medical attention
+45,1,77,88,60,202,0.583,0.003,negative,Moderate,Monitor closely and consult doctor
+29,1,90,129,90,135,8.93,0.003,positive,High,Immediate medical attention
+50,1,99,130,85,351,1.71,0.006,negative,Moderate,Monitor closely and consult doctor
+68,0,85,125,85,114,17.61,0.007,positive,High,Immediate medical attention
+31,1,71,131,73,96,1.05,0.007,negative,Low,Maintain healthy lifestyle
+53,1,78,157,78,147,3.28,0.023,positive,High,Immediate medical attention
+64,1,65,150,78,204,0.966,0.015,positive,High,Immediate medical attention
+64,1,97,137,76,149,3.52,0.929,positive,High,Immediate medical attention
+68,1,74,124,67,96,96.02,0.098,positive,High,Immediate medical attention
+65,1,69,121,65,443,0.345,0.005,negative,Moderate,Monitor closely and consult doctor
+67,1,77,116,69,113,7.44,0.053,positive,High,Immediate medical attention
+60,1,60,132,88,98,0.607,0.013,negative,Low,Maintain healthy lifestyle
+65,1,75,98,53,407,1.82,0.039,positive,High,Immediate medical attention
+65,1,67,108,76,319,2.38,0.094,positive,High,Immediate medical attention
+66,1,62,105,70,290,300,0.016,positive,High,Immediate medical attention
+65,0,69,120,80,117,2.85,1.96,positive,High,Immediate medical attention
+63,1,94,150,100,144,2.92,0.007,negative,Moderate,Monitor closely and consult doctor
+50,1,88,134,86,100,5.39,2.63,positive,High,Immediate medical attention
+49,0,76,151,97,99,4.66,0.003,negative,Moderate,Monitor closely and consult doctor
+39,0,86,158,104,97,5.36,0.003,positive,High,Immediate medical attention
+61,1,80,142,93,220,2.97,0.04,positive,High,Immediate medical attention
+52,1,73,161,90,77,1.26,0.011,negative,Moderate,Monitor closely and consult doctor
+28,0,79,166,103,215,4.8,0.003,negative,Moderate,Monitor closely and consult doctor
+66,1,80,154,98,381,2.18,0.023,positive,High,Immediate medical attention
+78,1,68,176,106,122,0.755,0.492,positive,High,Immediate medical attention
+72,1,79,159,110,175,2.92,1.55,positive,High,Immediate medical attention
+52,1,96,132,80,221,4.76,0.017,positive,High,Immediate medical attention
+75,0,80,90,41,86,4.71,0.062,positive,High,Immediate medical attention
+28,0,79,95,52,200,4.8,0.004,negative,Low,Maintain healthy lifestyle
+80,0,89,85,40,97,18.41,0.01,positive,High,Immediate medical attention
+70,1,90,105,52,85,2.55,0.005,negative,Low,Maintain healthy lifestyle
+70,0,89,107,50,92,17.95,0.023,positive,High,Immediate medical attention
+74,0,90,198,48,102,38.94,0.052,positive,High,Immediate medical attention
+65,1,63,150,95,122,6.9,0.988,positive,High,Immediate medical attention
+48,1,90,170,95,90,2.33,0.053,positive,High,Immediate medical attention
+55,1,72,154,84,196,1.34,0.02,positive,High,Immediate medical attention
+56,1,79,139,89,177,0.745,0.003,negative,Low,Maintain healthy lifestyle
+54,1,74,145,85,93,23.11,0.177,positive,High,Immediate medical attention
+63,1,82,135,80,106,12.22,0.003,positive,High,Immediate medical attention
+56,1,93,105,71,190,4.16,0.003,negative,Low,Maintain healthy lifestyle
+45,1,90,110,65,83,2.42,0.096,positive,High,Immediate medical attention
+41,0,71,91,57,92,1.73,0.003,negative,Low,Maintain healthy lifestyle
+80,1,82,91,56,267,1.78,3.28,positive,High,Immediate medical attention
+40,1,78,95,59,198,17.3,0.004,positive,High,Immediate medical attention
+80,1,76,90,60,256,3.48,0.019,positive,High,Immediate medical attention
+60,1,72,104,65,194,4.23,0.187,positive,High,Immediate medical attention
+60,0,60,106,73,134,2.82,0.009,negative,Low,Maintain healthy lifestyle
+21,1,85,138,98,257,9.9,0.003,positive,High,Immediate medical attention
+58,0,69,214,88,95,185.1,0.011,positive,High,Immediate medical attention
+21,1,85,204,84,93,2.71,0.002,negative,Moderate,Monitor closely and consult doctor
+44,0,65,200,80,261,207.5,0.004,positive,High,Immediate medical attention
+62,0,60,160,85,76,1.74,0.005,negative,Moderate,Monitor closely and consult doctor
+60,1,66,160,83,234,1.22,0.203,positive,High,Immediate medical attention
+63,1,68,139,83,104,1.92,1.62,positive,High,Immediate medical attention
+60,1,79,142,75,139,1.72,5.31,positive,High,Immediate medical attention
+61,1,74,140,77,129,1.03,3.23,positive,High,Immediate medical attention
+65,1,70,142,75,108,165,0.058,positive,High,Immediate medical attention
+42,1,75,138,67,107,2.22,0.003,negative,Low,Maintain healthy lifestyle
+65,1,65,137,75,87,1.6,0.085,positive,High,Immediate medical attention
+60,1,70,126,75,87,4.11,0.013,negative,Low,Maintain healthy lifestyle
+45,1,84,107,55,235,1.61,0.044,positive,High,Immediate medical attention
+52,1,96,147,84,93,1.6,0.005,negative,Moderate,Monitor closely and consult doctor
+59,1,88,119,66,404,2.85,0.008,negative,Moderate,Monitor closely and consult doctor
+46,0,79,156,82,147,2.19,0.271,positive,High,Immediate medical attention
+35,1,78,149,77,92,1.51,0.007,negative,Moderate,Monitor closely and consult doctor
+64,0,80,157,80,425,4.24,0.036,positive,High,Immediate medical attention
+30,1,74,127,76,131,266.3,0.009,positive,High,Immediate medical attention
+55,1,71,137,72,94,6.3,0.007,positive,High,Immediate medical attention
+50,1,73,135,79,238,1.87,0.005,negative,Moderate,Monitor closely and consult doctor
+46,0,91,153,82,366,1.94,4.32,positive,High,Immediate medical attention
+50,1,89,162,99,100,1.83,0.005,negative,Moderate,Monitor closely and consult doctor
+58,0,83,94,80,210,0.71,0.006,negative,Moderate,Monitor closely and consult doctor
+63,1,60,117,68,226,300,0.025,positive,High,Immediate medical attention
+62,0,53,114,80,112,2.35,1.21,positive,High,Immediate medical attention
+71,0,54,123,81,117,2.84,0.008,negative,Low,Maintain healthy lifestyle
+65,1,55,115,68,106,2.39,0.454,positive,High,Immediate medical attention
+63,1,56,121,60,98,7.52,1.18,positive,High,Immediate medical attention
+43,1,52,132,82,207,3.43,0.006,negative,Moderate,Monitor closely and consult doctor
+65,1,132,125,74,196,1.42,0.004,negative,Low,Maintain healthy lifestyle
+55,1,112,100,72,132,2.57,1.63,positive,High,Immediate medical attention
+65,0,125,92,60,136,1.49,0.012,negative,Low,Maintain healthy lifestyle
+44,0,67,177,105,169,1.11,0.011,negative,Moderate,Monitor closely and consult doctor
+55,0,77,176,89,95,0.606,2.48,positive,High,Immediate medical attention
+45,1,58,155,76,96,2.89,0.008,negative,Moderate,Monitor closely and consult doctor
+72,1,67,157,73,117,1.6,0.01,negative,Moderate,Monitor closely and consult doctor
+63,0,69,166,102,160,1.6,0.003,negative,Moderate,Monitor closely and consult doctor
+63,1,66,179,86,122,94.79,0.004,positive,High,Immediate medical attention
+60,0,79,120,68,162,0.665,5.48,positive,High,Immediate medical attention
+60,1,90,104,62,88,50.46,0.004,positive,High,Immediate medical attention
+70,0,64,122,60,150,38.72,0.138,positive,High,Immediate medical attention
+45,1,88,118,55,80,2.11,0.452,positive,High,Immediate medical attention
+60,1,57,110,60,197,2.93,0.058,positive,High,Immediate medical attention
+75,1,60,113,52,98,1.61,0.005,negative,Low,Maintain healthy lifestyle
+31,1,61,102,64,104,300,0.003,positive,High,Immediate medical attention
+64,0,63,104,87,227,0.493,0.011,negative,Moderate,Monitor closely and consult doctor
+41,1,86,113,68,100,4.58,0.003,negative,Low,Maintain healthy lifestyle
+58,0,80,107,67,166,6.48,9.11,positive,High,Immediate medical attention
+70,1,87,141,81,106,0.929,1.15,positive,High,Immediate medical attention
+62,0,90,113,72,92,1.37,0.98,positive,High,Immediate medical attention
+55,0,50,110,90,219,6.78,2.53,positive,High,Immediate medical attention
+75,1,75,134,85,88,4.24,0.017,positive,High,Immediate medical attention
+77,0,84,130,80,117,1.3,0.017,positive,High,Immediate medical attention
+73,1,80,115,62,161,0.609,0.014,negative,Low,Maintain healthy lifestyle
+71,1,90,135,82,91,15.23,0.009,positive,High,Immediate medical attention
+70,0,91,147,65,86,1.54,0.02,positive,High,Immediate medical attention
+60,0,89,140,100,93,2.93,0.016,positive,High,Immediate medical attention
+73,0,92,150,80,211,16.95,0.007,positive,High,Immediate medical attention
+63,1,74,223,118,161,2.97,0.628,positive,High,Immediate medical attention
+72,1,67,176,95,94,4.22,0.101,positive,High,Immediate medical attention
+40,0,67,101,69,258,1.29,0.758,positive,High,Immediate medical attention
+40,1,81,138,93,342,4.8,0.003,negative,Moderate,Monitor closely and consult doctor
+59,1,67,113,82,83,1.83,2.39,positive,High,Immediate medical attention
+37,1,66,119,74,107,1.33,0.003,negative,Low,Maintain healthy lifestyle
+42,1,74,118,78,84,1.19,0.004,negative,Low,Maintain healthy lifestyle
+28,1,60,104,60,94,2.11,0.003,negative,Low,Maintain healthy lifestyle
+37,1,59,125,72,122,0.78,0.003,negative,Low,Maintain healthy lifestyle
+41,0,82,107,57,135,1.03,0.003,negative,Low,Maintain healthy lifestyle
+50,1,61,117,78,276,4.39,2.34,positive,High,Immediate medical attention
+55,1,55,109,76,216,19.47,0.697,positive,High,Immediate medical attention
+53,1,65,129,75,95,2.41,0.024,positive,High,Immediate medical attention
+51,1,67,130,80,100,3.18,0.006,negative,Low,Maintain healthy lifestyle
+19,0,70,117,76,91,36.24,0.025,positive,High,Immediate medical attention
+59,0,62,76,55,130,2.21,0.145,positive,High,Immediate medical attention
+68,0,61,90,57,114,2.19,0.021,positive,High,Immediate medical attention
+70,0,69,94,55,88,5.33,0.019,positive,High,Immediate medical attention
+69,1,98,91,50,161,5.22,0.004,negative,Low,Maintain healthy lifestyle
+45,0,79,92,55,140,2.16,0.005,negative,Low,Maintain healthy lifestyle
+70,0,68,91,61,82,5.27,0.009,positive,High,Immediate medical attention
+55,1,60,145,67,175,1.96,0.853,positive,High,Immediate medical attention
+55,1,81,150,75,226,40.99,0.046,positive,High,Immediate medical attention
+65,1,90,136,68,131,96.08,0.015,positive,High,Immediate medical attention
+52,1,77,122,58,122,51.9,0.017,positive,High,Immediate medical attention
+50,1,73,128,63,124,40.6,0.992,positive,High,Immediate medical attention
+55,0,86,165,83,162,2.3,0.457,positive,High,Immediate medical attention
+42,1,94,98,46,123,1.3,0.006,negative,Low,Maintain healthy lifestyle
+72,1,60,178,109,156,17.04,0.627,positive,High,Immediate medical attention
+56,1,61,67,80,91,2.09,0.004,negative,Low,Maintain healthy lifestyle
+60,1,67,150,70,145,3.23,0.005,negative,Moderate,Monitor closely and consult doctor
+22,0,63,170,104,143,1.97,0.006,negative,Moderate,Monitor closely and consult doctor
+63,1,103,126,75,92,14.01,0.196,positive,High,Immediate medical attention
+52,1,100,119,66,127,11.73,0.018,positive,High,Immediate medical attention
+51,0,100,117,57,249,1.85,0.004,negative,Moderate,Monitor closely and consult doctor
+40,1,90,122,70,185,2.8,0.003,negative,Low,Maintain healthy lifestyle
+70,1,93,128,69,92,1.95,0.179,positive,High,Immediate medical attention
+63,1,102,124,71,123,8.37,0.018,positive,High,Immediate medical attention
+63,1,107,140,76,336,3.08,0.245,positive,High,Immediate medical attention
+49,0,100,107,64,84,3.05,0.012,negative,Low,Maintain healthy lifestyle
+70,0,100,105,62,165,4.01,0.009,negative,Low,Maintain healthy lifestyle
+63,0,96,112,62,244,1.95,0.003,negative,Moderate,Monitor closely and consult doctor
+47,0,89,123,73,324,1.97,0.007,negative,Moderate,Monitor closely and consult doctor
+43,0,62,142,80,83,1.58,0.003,negative,Moderate,Monitor closely and consult doctor
+31,0,64,130,70,263,142.6,0.003,positive,High,Immediate medical attention
+50,0,65,128,74,124,9.06,1.64,positive,High,Immediate medical attention
+53,1,51,118,50,60,1.78,0.007,negative,Low,Maintain healthy lifestyle
+22,1,56,126,63,128,5.41,0.004,negative,Low,Maintain healthy lifestyle
+42,1,84,125,55,150,1.68,0.003,negative,Low,Maintain healthy lifestyle
+55,0,67,155,89,97,22.91,0.119,positive,High,Immediate medical attention
+50,1,85,168,104,126,6.25,0.643,positive,High,Immediate medical attention
+53,1,82,147,103,346,5.11,0.006,negative,Moderate,Monitor closely and consult doctor
+52,0,89,130,80,181,1.95,0.02,positive,High,Immediate medical attention
+73,1,80,150,90,109,70.89,0.007,positive,High,Immediate medical attention
+55,1,70,146,95,163,1.93,1.76,positive,High,Immediate medical attention
+44,0,59,106,58,93,3.68,0.008,negative,Low,Maintain healthy lifestyle
+65,1,68,140,70,200,7.55,0.011,positive,High,Immediate medical attention
+60,1,70,120,55,82,4.49,0.037,positive,High,Immediate medical attention
+56,1,70,113,55,105,0.726,0.003,negative,Low,Maintain healthy lifestyle
+58,0,82,107,57,100,8.4,0.004,positive,High,Immediate medical attention
+72,0,82,138,82,195,1.79,0.008,negative,Low,Maintain healthy lifestyle
+56,0,89,141,79,94,5.82,0.007,positive,High,Immediate medical attention
+65,1,76,151,78,100,8.38,0.015,positive,High,Immediate medical attention
+32,0,67,126,68,151,4.47,0.006,negative,Low,Maintain healthy lifestyle
+32,0,77,88,60,100,7.29,0.006,positive,High,Immediate medical attention
+62,1,83,98,61,98,4.25,1.28,positive,High,Immediate medical attention
+50,1,104,128,79,111,6.25,0.653,positive,High,Immediate medical attention
+65,1,93,127,80,86,27.06,0.013,positive,High,Immediate medical attention
+47,1,91,110,77,107,12.39,2.47,positive,High,Immediate medical attention
+55,1,78,158,90,155,1.78,2.35,positive,High,Immediate medical attention
+60,1,70,125,85,85,11.24,0.024,positive,High,Immediate medical attention
+55,0,68,130,80,232,6.66,0.039,positive,High,Immediate medical attention
+35,1,61,125,80,100,7.66,0.003,positive,High,Immediate medical attention
+60,1,85,115,75,105,2.37,0.02,positive,High,Immediate medical attention
+60,1,60,179,83,347,1.25,0.043,positive,High,Immediate medical attention
+50,1,52,171,80,210,1.63,0.662,positive,High,Immediate medical attention
+70,1,49,170,80,151,5.73,0.025,positive,High,Immediate medical attention
+70,0,50,150,70,181,2.2,0.024,positive,High,Immediate medical attention
+51,1,52,150,75,85,3.49,0.003,negative,Moderate,Monitor closely and consult doctor
+59,1,80,149,75,134,5.41,0.192,positive,High,Immediate medical attention
+61,1,46,116,59,122,3.42,0.013,negative,Low,Maintain healthy lifestyle
+70,1,59,107,64,135,1.93,0.011,negative,Low,Maintain healthy lifestyle
+66,1,61,113,65,96,1.25,0.017,positive,High,Immediate medical attention
+63,0,62,124,66,271,0.657,0.021,positive,High,Immediate medical attention
+71,0,67,111,65,113,2.13,0.014,negative,Low,Maintain healthy lifestyle
+42,0,73,162,99,109,15.83,0.1,positive,High,Immediate medical attention
+72,0,83,123,67,283,2.12,0.026,positive,High,Immediate medical attention
+68,1,90,111,65,134,1.65,0.016,positive,High,Immediate medical attention
+37,1,64,109,60,148,0.604,0.006,negative,Low,Maintain healthy lifestyle
+52,1,63,105,64,95,1.63,0.032,positive,High,Immediate medical attention
+68,1,72,113,64,87,0.676,0.018,positive,High,Immediate medical attention
+41,1,66,105,59,162,0.515,0.003,negative,Low,Maintain healthy lifestyle
+60,0,64,113,64,293,1.63,2.87,positive,High,Immediate medical attention
+37,1,60,99,56,90,8.86,0.007,positive,High,Immediate medical attention
+32,1,59,100,53,87,10.33,0.154,positive,High,Immediate medical attention
+66,1,70,116,62,184,1.08,0.014,negative,Low,Maintain healthy lifestyle
+60,0,78,169,80,117,1.18,2.81,positive,High,Immediate medical attention
+44,1,74,155,77,81,61.1,0.044,positive,High,Immediate medical attention
+60,1,70,137,64,109,4.36,0.004,negative,Low,Maintain healthy lifestyle
+52,1,78,123,66,86,0.529,0.038,positive,High,Immediate medical attention
+60,1,98,144,66,98,1.54,0.025,positive,High,Immediate medical attention
+60,0,62,131,70,204,1.58,0.003,negative,Moderate,Monitor closely and consult doctor
+42,1,64,121,58,96,1.35,0.013,negative,Low,Maintain healthy lifestyle
+79,1,89,140,100,157,4.74,0.191,positive,High,Immediate medical attention
+55,0,64,121,58,103,13.98,0.866,positive,High,Immediate medical attention
+52,0,62,127,65,99,3.7,0.007,negative,Low,Maintain healthy lifestyle
+50,1,57,138,75,294,4.61,0.003,negative,Moderate,Monitor closely and consult doctor
+58,1,92,147,78,305,36.53,1.32,positive,High,Immediate medical attention
+60,0,89,145,68,93,1.96,0.011,negative,Moderate,Monitor closely and consult doctor
+35,0,90,150,84,90,2.67,0.003,negative,Moderate,Monitor closely and consult doctor
+82,0,88,152,87,99,1.21,0.004,negative,Moderate,Monitor closely and consult doctor
+29,1,88,155,85,107,5.51,0.003,negative,Moderate,Monitor closely and consult doctor
+42,1,83,153,91,98,5.46,0.003,negative,Moderate,Monitor closely and consult doctor
+71,1,82,138,82,96,5.61,0.165,positive,High,Immediate medical attention
+55,1,90,95,50,338,3.04,1.3,positive,High,Immediate medical attention
+78,1,58,93,78,135,3.03,0.106,positive,High,Immediate medical attention
+45,0,80,117,83,143,2.49,0.003,negative,Low,Maintain healthy lifestyle
+73,0,68,123,70,94,9.96,0.012,positive,High,Immediate medical attention
+20,1,78,109,69,294,3.1,0.008,negative,Moderate,Monitor closely and consult doctor
+50,1,73,138,79,198,11.48,1.36,positive,High,Immediate medical attention
+47,1,72,117,49,116,24.2,0.003,positive,High,Immediate medical attention
+62,0,75,125,79,116,259.7,0.209,positive,High,Immediate medical attention
+50,1,65,106,49,126,1.59,0.006,negative,Low,Maintain healthy lifestyle
+74,1,63,103,61,130,2.4,0.026,positive,High,Immediate medical attention
+50,1,63,98,57,111,2.55,0.006,negative,Low,Maintain healthy lifestyle
+73,1,65,83,43,101,2.85,0.2,positive,High,Immediate medical attention
+56,1,70,103,59,136,56.39,0.042,positive,High,Immediate medical attention
+69,1,89,160,67,96,33.87,0.021,positive,High,Immediate medical attention
+52,1,86,113,68,282,12.2,0.005,positive,High,Immediate medical attention
+22,1,84,160,79,102,2.25,0.006,negative,Moderate,Monitor closely and consult doctor
+73,0,82,130,72,79,1.4,0.007,negative,Low,Maintain healthy lifestyle
+60,1,80,135,75,94,147.4,3.85,positive,High,Immediate medical attention
+73,0,98,160,82,159,1.75,0.006,negative,Moderate,Monitor closely and consult doctor
+58,1,76,140,63,354,4.62,1.64,positive,High,Immediate medical attention
+70,1,74,156,74,140,1.77,0.122,positive,High,Immediate medical attention
+65,0,73,131,68,128,1.44,0.847,positive,High,Immediate medical attention
+47,0,82,103,58,89,1.66,0.004,negative,Low,Maintain healthy lifestyle
+55,1,67,126,68,277,0.649,0.006,negative,Moderate,Monitor closely and consult doctor
+54,1,89,126,64,153,8.32,0.009,positive,High,Immediate medical attention
+42,1,89,111,52,106,6.48,0.003,positive,High,Immediate medical attention
+48,1,87,101,45,164,4.06,0.523,positive,High,Immediate medical attention
+45,1,96,97,55,144,2.87,1.48,positive,High,Immediate medical attention
+60,1,89,91,51,115,2.56,0.099,positive,High,Immediate medical attention
+73,1,91,91,56,274,0.907,0.037,positive,High,Immediate medical attention
+61,0,85,106,63,114,4.1,0.013,negative,Low,Maintain healthy lifestyle
+71,1,82,80,42,102,1.18,0.01,negative,Low,Maintain healthy lifestyle
+45,1,63,153,66,144,1.13,1.47,positive,High,Immediate medical attention
+72,1,64,112,65,104,23.8,0.041,positive,High,Immediate medical attention
+60,0,70,120,60,82,1.21,0.036,positive,High,Immediate medical attention
+50,1,66,140,52,89,3.23,0.003,negative,Low,Maintain healthy lifestyle
+60,1,70,129,59,82,2.84,0.003,negative,Low,Maintain healthy lifestyle
+50,0,63,106,61,126,2.13,0.003,negative,Low,Maintain healthy lifestyle
+48,0,69,103,68,115,8.34,0.003,positive,High,Immediate medical attention
+58,1,64,160,77,328,1.11,1.5,positive,High,Immediate medical attention
+58,1,69,148,72,169,3.21,1.29,positive,High,Immediate medical attention
+60,0,64,119,73,100,1.37,0.031,positive,High,Immediate medical attention
+34,0,112,170,104,151,2.56,0.003,negative,Moderate,Monitor closely and consult doctor
+43,0,93,180,104,162,1.5,0.005,negative,Moderate,Monitor closely and consult doctor
+45,1,92,167,105,117,58.29,0.003,positive,High,Immediate medical attention
+47,0,81,200,110,97,13.73,0.959,positive,High,Immediate medical attention
+70,1,80,125,75,150,5.02,0.016,positive,High,Immediate medical attention
+70,0,75,150,95,91,2.51,0.015,positive,High,Immediate medical attention
+51,1,80,127,82,130,5.16,0.13,positive,High,Immediate medical attention
+60,0,81,135,81,119,1.66,0.003,negative,Low,Maintain healthy lifestyle
+64,0,103,157,83,223,0.676,0.049,positive,High,Immediate medical attention
+70,1,100,169,91,303,300,0.015,positive,High,Immediate medical attention
+70,1,103,170,90,104,0.937,0.007,negative,Moderate,Monitor closely and consult doctor
+70,0,101,142,96,99,2.13,0.136,positive,High,Immediate medical attention
+43,1,75,157,87,74,4.2,0.004,negative,Moderate,Monitor closely and consult doctor
+72,0,75,125,73,82,1.86,0.007,negative,Low,Maintain healthy lifestyle
+34,1,81,124,75,168,33.48,0.003,positive,High,Immediate medical attention
+35,1,75,116,72,129,8.95,0.003,positive,High,Immediate medical attention
+53,1,89,116,68,98,6.04,0.003,negative,Low,Maintain healthy lifestyle
+50,0,66,160,83,98,5.75,0.142,positive,High,Immediate medical attention
+60,1,94,98,46,215,2.85,0.218,positive,High,Immediate medical attention
+64,0,64,160,77,97,1.52,0.051,positive,High,Immediate medical attention
+47,1,70,120,55,161,1.13,0.937,positive,High,Immediate medical attention
+81,0,64,112,65,97,4.96,0.007,positive,High,Immediate medical attention
+62,1,75,134,85,109,5.77,0.01,negative,Low,Maintain healthy lifestyle
+27,0,61,112,58,112,2.25,0.003,negative,Low,Maintain healthy lifestyle
+53,1,40,179,68,197,2.37,3.21,positive,High,Immediate medical attention
+65,1,60,214,82,189,1.21,0.067,positive,High,Immediate medical attention
+36,0,60,154,81,239,19.01,0.044,positive,High,Immediate medical attention
+60,1,61,160,95,294,2.68,0.005,negative,Moderate,Monitor closely and consult doctor
+51,1,74,223,118,105,1.6,0.004,negative,Moderate,Monitor closely and consult doctor
+57,1,60,166,90,231,2.2,0.003,negative,Moderate,Monitor closely and consult doctor
+58,1,60,150,83,133,52.94,1.31,positive,High,Immediate medical attention
+47,1,60,199,99,123,1.16,0.817,positive,High,Immediate medical attention
+70,1,94,122,67,229,3.38,2.32,positive,High,Immediate medical attention
+74,1,76,120,70,111,1.24,1.17,positive,High,Immediate medical attention
+75,0,81,118,66,88,4.55,0.01,negative,Low,Maintain healthy lifestyle
+76,1,73,114,68,144,297.5,0.024,positive,High,Immediate medical attention
+63,1,70,100,68,90,3.73,0.005,negative,Low,Maintain healthy lifestyle
+43,0,72,107,86,67,2.26,0.003,negative,Low,Maintain healthy lifestyle
+29,1,60,109,65,62,15.69,0.005,positive,High,Immediate medical attention
+60,0,92,151,78,106,7.73,0.039,positive,High,Immediate medical attention
+68,1,135,98,60,96,254.4,0.025,positive,High,Immediate medical attention
+47,1,76,109,85,98,1.95,0.004,negative,Low,Maintain healthy lifestyle
+75,0,63,110,68,99,1.02,0.075,positive,High,Immediate medical attention
+39,1,63,104,63,154,2.49,0.003,negative,Low,Maintain healthy lifestyle
+70,1,64,106,68,240,10.04,1.43,positive,High,Immediate medical attention
+78,0,61,136,70,111,1.09,0.082,positive,High,Immediate medical attention
+45,1,58,156,76,97,2.86,0.003,negative,Moderate,Monitor closely and consult doctor
+55,1,60,166,82,97,1.37,0.008,negative,Moderate,Monitor closely and consult doctor
+55,1,65,155,75,107,1.47,0.314,positive,High,Immediate medical attention
+36,0,93,120,71,100,4.15,0.004,negative,Low,Maintain healthy lifestyle
+58,0,96,105,75,161,1.69,0.008,negative,Low,Maintain healthy lifestyle
+60,1,94,91,52,202,3.83,0.008,negative,Moderate,Monitor closely and consult doctor
+35,1,95,101,76,96,2.92,0.005,negative,Low,Maintain healthy lifestyle
+70,0,96,105,70,94,6.71,0.023,positive,High,Immediate medical attention
+69,1,97,105,80,121,3.28,3.83,positive,High,Immediate medical attention
+51,1,91,121,82,185,2.02,0.023,positive,High,Immediate medical attention
+63,1,96,111,74,98,4.71,0.049,positive,High,Immediate medical attention
+65,1,87,115,78,119,17.32,1.39,positive,High,Immediate medical attention
+66,1,76,133,75,99,14.22,0.024,positive,High,Immediate medical attention
+44,1,77,153,76,98,3.69,1.44,positive,High,Immediate medical attention
+34,1,80,152,78,87,4.72,0.003,negative,Moderate,Monitor closely and consult doctor
+48,0,82,125,61,125,3.47,0.003,negative,Low,Maintain healthy lifestyle
+73,1,83,130,75,108,1.63,0.008,negative,Low,Maintain healthy lifestyle
+83,1,81,130,65,87,1.62,0.028,positive,High,Immediate medical attention
+37,0,82,121,62,242,217.5,0.003,positive,High,Immediate medical attention
+48,1,78,127,61,98,4.61,0.006,negative,Low,Maintain healthy lifestyle
+42,1,20,110,90,108,4.93,0.01,negative,Low,Maintain healthy lifestyle
+60,0,90,125,73,174,3.14,0.006,negative,Low,Maintain healthy lifestyle
+55,0,59,110,65,208,2.53,0.024,positive,High,Immediate medical attention
+47,1,57,140,52,87,12.26,0.008,positive,High,Immediate medical attention
+56,1,76,150,81,262,3.95,0.05,positive,High,Immediate medical attention
+75,0,61,130,74,92,3.61,0.009,negative,Low,Maintain healthy lifestyle
+60,1,98,110,76,99,3.17,0.025,positive,High,Immediate medical attention
+60,0,58,120,69,115,8.8,0.021,positive,High,Immediate medical attention
+60,0,83,150,94,246.7,1.03,0.003,negative,Moderate,Monitor closely and consult doctor
+70,0,1111,141,95,138,3.87,0.028,positive,High,Immediate medical attention
+68,1,102,130,83,271,2.63,2.57,positive,High,Immediate medical attention
+70,1,103,120,83,85,2.05,1.33,positive,High,Immediate medical attention
+49,1,105,128,80,216,11.64,0.851,positive,High,Immediate medical attention
+52,1,61,121,60,99,0.799,0.076,positive,High,Immediate medical attention
+53,0,96,147,84,91,1.29,0.02,positive,High,Immediate medical attention
+36,0,59,137,81,99,4.15,0.003,negative,Low,Maintain healthy lifestyle
+52,1,78,115,65,109,8.12,0.005,positive,High,Immediate medical attention
+36,1,63,123,82,110,1.57,2.12,positive,High,Immediate medical attention
+40,1,91,120,80,101,2.74,0.005,negative,Low,Maintain healthy lifestyle
+56,1,60,125,88,95,2.12,0.037,positive,High,Immediate medical attention
+60,1,58,130,80,93,0.925,0.026,positive,High,Immediate medical attention
+53,1,66,94,63,202,2.84,0.003,negative,Moderate,Monitor closely and consult doctor
+49,1,94,95,65,157,3.11,1.6,positive,High,Immediate medical attention
+73,1,64,101,68,138,1.47,0.298,positive,High,Immediate medical attention
+60,1,70,117,61,146,300,0.007,positive,High,Immediate medical attention
+46,1,64,110,58,104,2.35,0.91,positive,High,Immediate medical attention
+45,1,61,124,62,391,1.7,0.006,negative,Moderate,Monitor closely and consult doctor
+65,1,80,118,64,120,4.68,0.114,positive,High,Immediate medical attention
+54,1,65,112,58,184,1.04,0.004,negative,Low,Maintain healthy lifestyle
+63,0,93,119,63,96,1.65,0.023,positive,High,Immediate medical attention
+59,1,63,110,59,221,4.03,0.03,positive,High,Immediate medical attention
+60,0,60,140,80,140,1.69,0.02,positive,High,Immediate medical attention
+60,0,72,138,86,124,15.88,0.043,positive,High,Immediate medical attention
+29,1,76,157,93,228,300,0.003,positive,High,Immediate medical attention
+63,0,74,140,85,94,4.8,0.011,negative,Low,Maintain healthy lifestyle
+49,1,85,119,76,35,5.68,0.05,positive,High,Immediate medical attention
+70,1,60,202,88,94,1.07,0.407,positive,High,Immediate medical attention
+44,1,60,175,88,99,1.59,0.003,negative,Moderate,Monitor closely and consult doctor
+68,0,60,124,58,180,1.08,0.003,negative,Low,Maintain healthy lifestyle
+24,0,60,144,54,136,4.6,0.003,negative,Moderate,Monitor closely and consult doctor
+38,1,60,130,56,197,6.01,0.003,negative,Low,Maintain healthy lifestyle
+62,1,60,138,58,252,3.4,0.013,negative,Moderate,Monitor closely and consult doctor
+80,0,60,129,55,166,3.35,0.01,negative,Low,Maintain healthy lifestyle
+34,1,60,97,44,75,5.15,0.023,positive,High,Immediate medical attention
+49,1,62,114,69,155,1.3,0.999,positive,High,Immediate medical attention
+49,1,75,116,71,98,37.69,10,positive,High,Immediate medical attention
+81,1,73,115,72,166,3.48,0.087,positive,High,Immediate medical attention
+55,1,63,104,87,98,3.65,0.008,negative,Low,Maintain healthy lifestyle
+48,1,62,114,69,234,1.11,0.485,positive,High,Immediate medical attention
+39,0,75,116,71,120,1.59,0.003,negative,Low,Maintain healthy lifestyle
+66,1,73,115,72,224,3.48,0.009,negative,Moderate,Monitor closely and consult doctor
+73,1,71,119,76,228,2.14,0.069,positive,High,Immediate medical attention
+69,0,73,135,81,69,4.95,0.007,negative,Low,Maintain healthy lifestyle
+55,0,68,116,74,143,1.34,0.094,positive,High,Immediate medical attention
+45,1,70,113,62,154,72.6,1.85,positive,High,Immediate medical attention
+70,1,87,148,89,142,32.77,2.06,positive,High,Immediate medical attention
+60,1,85,140,82,117,0.796,0.008,negative,Low,Maintain healthy lifestyle
+70,1,83,140,81,110,1.52,0.701,positive,High,Immediate medical attention
+58,1,82,164,90,162,0.704,0.003,negative,Moderate,Monitor closely and consult doctor
+42,1,81,150,51,101,1.41,0.003,negative,Moderate,Monitor closely and consult doctor
+58,1,60,156,60,82,1.18,0.004,negative,Moderate,Monitor closely and consult doctor
+49,1,67,192,56,134,2.34,0.029,positive,High,Immediate medical attention
+70,1,56,171,56,185,63.13,0.706,positive,High,Immediate medical attention
+76,0,89,111,57,272,7.48,0.019,positive,High,Immediate medical attention
+50,0,88,110,70,109,3.85,0.003,negative,Low,Maintain healthy lifestyle
+70,1,89,100,50,314,0.88,0.406,positive,High,Immediate medical attention
+40,1,78,101,54,108,31.4,0.005,positive,High,Immediate medical attention
+85,1,80,129,89,81,1.39,0.014,negative,Low,Maintain healthy lifestyle
+45,1,73,108,61,90,1.01,2.63,positive,High,Immediate medical attention
+67,1,71,112,68,98,2.93,0.008,negative,Low,Maintain healthy lifestyle
+75,0,74,111,71,247,1.62,0.188,positive,High,Immediate medical attention
+64,1,82,138,93,77,8.08,0.021,positive,High,Immediate medical attention
+50,1,57,101,59,253,0.457,0.005,negative,Moderate,Monitor closely and consult doctor
+78,0,89,214,88,434,7.26,0.009,positive,High,Immediate medical attention
+73,1,59,100,56,92,4.36,0.01,negative,Low,Maintain healthy lifestyle
+86,1,94,105,81,87,177.9,0.032,positive,High,Immediate medical attention
+41,1,87,135,84,80,42.15,0.03,positive,High,Immediate medical attention
+75,0,81,121,83,186,79.41,0.179,positive,High,Immediate medical attention
+55,0,90,120,68,217,1.82,0.02,positive,High,Immediate medical attention
+38,0,88,104,62,276,1.93,0.077,positive,High,Immediate medical attention
+52,1,64,122,60,217,4.45,0.003,negative,Moderate,Monitor closely and consult doctor
+74,1,79,118,55,147,2.34,0.014,negative,Low,Maintain healthy lifestyle
+28,1,57,110,60,101,0.92,0.003,negative,Low,Maintain healthy lifestyle
+48,1,60,113,52,100,43.06,0.003,positive,High,Immediate medical attention
+40,1,61,102,64,92,4.14,0.003,negative,Low,Maintain healthy lifestyle
+56,0,94,157,79,108,3.96,0.005,negative,Moderate,Monitor closely and consult doctor
+88,1,60,124,100,150,251.4,0.012,positive,High,Immediate medical attention
+70,1,77,100,68,124,3.61,1.58,positive,High,Immediate medical attention
+49,1,117,112,74,150,0.982,5.87,positive,High,Immediate medical attention
+75,1,89,87,53,139,9.05,0.109,positive,High,Immediate medical attention
+56,0,82,80,80,77,6.38,0.006,positive,High,Immediate medical attention
+79,1,87,80,50,149,2.79,0.61,positive,High,Immediate medical attention
+47,0,82,84,54,134,89.61,0.003,positive,High,Immediate medical attention
+53,0,64,83,60,152,17.63,0.007,positive,High,Immediate medical attention
+41,1,74,95,53,145,5.1,0.016,positive,High,Immediate medical attention
+49,1,61,96,48,93,0.674,0.006,negative,Low,Maintain healthy lifestyle
+70,0,74,119,78,64,2.09,0.099,positive,High,Immediate medical attention
+59,1,61,119,75,123,1.72,0.006,negative,Low,Maintain healthy lifestyle
+40,1,80,65,53,139,190.7,0.003,positive,High,Immediate medical attention
+70,1,83,126,76,103,0.529,1.01,positive,High,Immediate medical attention
+65,0,72,100,57,96,144.9,0.034,positive,High,Immediate medical attention
+50,1,82,120,80,202,201.7,2.63,positive,High,Immediate medical attention
+70,1,83,102,68,90,2.28,0.863,positive,High,Immediate medical attention
+67,1,70,118,72,302,1.43,0.722,positive,High,Immediate medical attention
+71,1,70,134,58,107,2.59,0.006,negative,Low,Maintain healthy lifestyle
+38,1,77,130,79,104,1.41,0.003,negative,Low,Maintain healthy lifestyle
+50,0,73,125,78,336,6.36,0.005,positive,High,Immediate medical attention
+71,0,89,141,93,90,1.16,0.012,negative,Moderate,Monitor closely and consult doctor
+60,0,81,125,79,123,25.1,0.009,positive,High,Immediate medical attention
+60,1,83,104,57,134,2.25,0.003,negative,Low,Maintain healthy lifestyle
+37,1,84,126,75,92,1.66,0.325,positive,High,Immediate medical attention
+72,0,81,125,69,155,6.3,0.012,positive,High,Immediate medical attention
+58,1,80,109,67,150,6.19,0.014,negative,Low,Maintain healthy lifestyle
+70,1,112,170,104,111,1.2,1.38,positive,High,Immediate medical attention
+70,0,84,87,48,100,89.22,0.023,positive,High,Immediate medical attention
+24,1,80,108,79,169,1.76,0.003,negative,Low,Maintain healthy lifestyle
+57,1,81,95,61,93,1.17,0.016,positive,High,Immediate medical attention
+57,1,82,138,93,297,6.75,0.02,positive,High,Immediate medical attention
+47,0,67,113,82,143,3.3,0.003,negative,Low,Maintain healthy lifestyle
+50,1,66,112,74,146,10.11,1.4,positive,High,Immediate medical attention
+70,1,74,118,78,165,3.15,0.649,positive,High,Immediate medical attention
+70,1,59,164,75,99,1.41,0.017,positive,High,Immediate medical attention
+41,1,60,104,60,104,9.82,0.003,positive,High,Immediate medical attention
+72,0,59,125,72,121,1.33,0.005,negative,Low,Maintain healthy lifestyle
+83,1,61,117,78,122,1.62,0.01,negative,Low,Maintain healthy lifestyle
+76,0,55,109,76,65,1.06,0.357,positive,High,Immediate medical attention
+41,1,65,129,75,100,63.08,0.003,positive,High,Immediate medical attention
+76,1,84,128,80,105,9.09,2.43,positive,High,Immediate medical attention
+50,1,132,125,74,133,3.18,0.354,positive,High,Immediate medical attention
+63,1,55,109,76,217,2.19,0.018,positive,High,Immediate medical attention
+64,1,65,129,75,406,1.16,0.008,negative,Moderate,Monitor closely and consult doctor
+39,1,84,128,80,206,1.48,0.006,negative,Moderate,Monitor closely and consult doctor
+30,1,112,115,69,109,1.52,0.011,negative,Low,Maintain healthy lifestyle
+77,0,108,111,70,277,3.17,0.021,positive,High,Immediate medical attention
+63,1,134,111,69,132,44.18,0.065,positive,High,Immediate medical attention
+60,0,111,125,71,151,3.53,0.003,negative,Low,Maintain healthy lifestyle
+56,0,101,102,63,211,4.26,0.208,positive,High,Immediate medical attention
+41,0,103,115,85,171,1.64,0.015,positive,High,Immediate medical attention
+43,1,108,100,71,259,4.21,0.005,negative,Moderate,Monitor closely and consult doctor
+54,0,82,103,58,136,5.46,0.452,positive,High,Immediate medical attention
+69,1,119,113,79,102,19.98,0.129,positive,High,Immediate medical attention
+60,1,113,131,63,117,1.1,0.141,positive,High,Immediate medical attention
+29,1,62,143,75,95,5.49,0.003,negative,Moderate,Monitor closely and consult doctor
+65,1,61,96,48,94,0.856,0.402,positive,High,Immediate medical attention
+57,1,51,130,70,92,4.25,0.008,negative,Low,Maintain healthy lifestyle
+50,0,52,125,68,263,3.39,0.003,negative,Moderate,Monitor closely and consult doctor
+41,1,58,93,48,122,3.59,0.048,positive,High,Immediate medical attention
+65,1,67,177,105,120,3.68,0.011,negative,Moderate,Monitor closely and consult doctor
+85,1,89,107,50,83,1.53,0.058,positive,High,Immediate medical attention
+58,0,90,198,48,206,2.73,0.003,negative,Moderate,Monitor closely and consult doctor
+75,0,63,150,95,155,1.5,0.014,negative,Moderate,Monitor closely and consult doctor
+70,1,90,170,95,87,1.12,0.912,positive,High,Immediate medical attention
+54,1,72,154,84,127,2.97,0.007,negative,Moderate,Monitor closely and consult doctor
+63,0,79,139,89,274,1.22,0.012,negative,Moderate,Monitor closely and consult doctor
+44,1,74,145,85,115,2.11,0.193,positive,High,Immediate medical attention
+60,1,82,135,80,100,2.59,2.99,positive,High,Immediate medical attention
+49,1,93,105,71,93,3.33,0.041,positive,High,Immediate medical attention
+77,0,90,110,65,137,3.12,0.043,positive,High,Immediate medical attention
+70,1,71,91,57,223,0.858,0.024,positive,High,Immediate medical attention
+75,0,82,91,56,97,3.59,0.007,negative,Low,Maintain healthy lifestyle
+60,0,78,95,59,100,21.51,0.006,positive,High,Immediate medical attention
+33,0,76,90,60,180,1.5,0.003,negative,Low,Maintain healthy lifestyle
+60,0,72,104,65,181,66.32,0.045,positive,High,Immediate medical attention
+50,1,93,105,71,174,3.95,1.1,positive,High,Immediate medical attention
+70,0,96,147,84,160,1.49,0.031,positive,High,Immediate medical attention
+65,1,88,119,66,129,3.04,0.014,negative,Low,Maintain healthy lifestyle
+48,0,64,140,90,168,3.53,0.026,positive,High,Immediate medical attention
+47,1,79,156,82,206,6.13,0.004,negative,Moderate,Monitor closely and consult doctor
+48,1,72,150,95,121,0.516,0.009,negative,Moderate,Monitor closely and consult doctor
+60,1,94,122,67,115,2.1,2.2,positive,High,Immediate medical attention
+48,1,60,132,88,247,107.3,0.104,positive,High,Immediate medical attention
+48,1,90,111,65,117,1.13,0.003,negative,Low,Maintain healthy lifestyle
+60,1,64,109,60,265,25.63,0.096,positive,High,Immediate medical attention
+54,1,63,105,64,121,11.94,0.005,positive,High,Immediate medical attention
+60,1,72,113,64,161,2.93,0.014,negative,Low,Maintain healthy lifestyle
+56,1,76,150,100,103,2.36,0.019,positive,High,Immediate medical attention
+60,0,65,129,75,132,28.41,0.054,positive,High,Immediate medical attention
+60,0,67,130,80,216,5.85,0.03,positive,High,Immediate medical attention
+35,1,70,117,76,111,2.16,0.003,negative,Low,Maintain healthy lifestyle
+25,0,62,76,55,104,1.12,0.003,negative,Low,Maintain healthy lifestyle
+71,1,59,107,64,97,1.97,1.45,positive,High,Immediate medical attention
+65,1,77,122,58,106,1.57,0.484,positive,High,Immediate medical attention
+57,0,74,155,77,99,1.3,0.74,positive,High,Immediate medical attention
+56,0,73,128,63,250,2.12,0.009,negative,Moderate,Monitor closely and consult doctor
+53,0,86,165,83,99,1.41,0.011,negative,Moderate,Monitor closely and consult doctor
+54,0,65,191,110,140,2.59,0.54,positive,High,Immediate medical attention
+66,1,83,153,91,98,1.8,0.022,positive,High,Immediate medical attention
+68,0,84,160,79,171,2.83,0.83,positive,High,Immediate medical attention
+100,1,60,209,75,329,5.66,0.84,positive,High,Immediate medical attention
+23,1,82,138,82,89,1.46,0.005,negative,Low,Maintain healthy lifestyle
+60,1,68,116,74,85,1.73,1.75,positive,High,Immediate medical attention
+14,0,89,111,57,133,2.62,0.012,negative,Low,Maintain healthy lifestyle
+57,0,61,67,80,204,33.09,0.003,positive,High,Immediate medical attention
+71,0,67,150,70,131,4.73,0.027,positive,High,Immediate medical attention
+70,1,63,170,104,144,2.41,0.016,positive,High,Immediate medical attention
+51,1,103,126,75,188,1.6,0.011,negative,Low,Maintain healthy lifestyle
+46,1,100,119,66,114,4.07,0.009,negative,Low,Maintain healthy lifestyle
+60,1,100,117,57,111,1.9,0.006,negative,Low,Maintain healthy lifestyle
+49,1,61,119,75,133,2.2,0.88,positive,High,Immediate medical attention
+47,1,70,149,79,82,3.33,0.94,positive,High,Immediate medical attention
+48,1,73,138,79,100,1.29,0.005,negative,Low,Maintain healthy lifestyle
+85,0,72,117,49,272,81.65,0.015,positive,High,Immediate medical attention
+45,1,64,120,68,97,1.01,0.116,positive,High,Immediate medical attention
+74,1,51,143,75,96,2.05,0.015,positive,High,Immediate medical attention
+51,1,92,147,78,88,4.08,0.22,positive,High,Immediate medical attention
+55,1,81,150,51,138,17.22,2.8,positive,High,Immediate medical attention
+55,1,74,134,58,319,2.6,0.76,positive,High,Immediate medical attention
+54,1,70,117,76,285,1.82,0.005,negative,Moderate,Monitor closely and consult doctor
+64,1,61,90,57,79,1.82,0.008,negative,Low,Maintain healthy lifestyle
+68,0,69,94,55,93,3.08,0.007,negative,Low,Maintain healthy lifestyle
+27,1,98,91,50,147,1.2,0.005,negative,Low,Maintain healthy lifestyle
+47,1,79,92,55,192,1.93,0.013,negative,Low,Maintain healthy lifestyle
+28,1,68,91,61,239,208.6,0.003,positive,High,Immediate medical attention
+41,1,60,145,67,120,3.41,0.003,negative,Moderate,Monitor closely and consult doctor
+62,1,81,150,75,130,3.5,0.024,positive,High,Immediate medical attention
+69,1,90,136,68,187,1.87,0.405,positive,High,Immediate medical attention
+73,0,90,95,50,98,300,0.015,positive,High,Immediate medical attention
+67,1,58,93,78,108,3.13,0.009,negative,Low,Maintain healthy lifestyle
+51,1,57,208,40,247,11.07,0.23,positive,High,Immediate medical attention
+66,0,80,117,83,132,6.61,0.003,positive,High,Immediate medical attention
+65,0,68,123,70,201,2.22,0.003,negative,Moderate,Monitor closely and consult doctor
+60,1,78,109,69,93,4.6,0.019,positive,High,Immediate medical attention
+74,0,117,100,68,203,1.36,3.85,positive,High,Immediate medical attention
+66,0,80,135,75,331,1.21,0.006,negative,Moderate,Monitor closely and consult doctor
+71,1,112,115,69,134,1.06,0.023,positive,High,Immediate medical attention
+58,1,72,130,80,117,4.4,0.009,negative,Low,Maintain healthy lifestyle
+53,1,98,160,82,103,0.722,0.224,positive,High,Immediate medical attention
+70,0,80,90,41,85,1.29,6.01,positive,High,Immediate medical attention
+44,1,85,129,90,192,1.47,0.049,positive,High,Immediate medical attention
+70,1,76,140,63,87,4.78,0.018,positive,High,Immediate medical attention
+69,1,74,156,74,135,1.59,0.299,positive,High,Immediate medical attention
+53,1,73,131,68,100,0.785,0.609,positive,High,Immediate medical attention
+60,0,82,103,58,102,1.74,0.006,negative,Low,Maintain healthy lifestyle
+50,0,67,126,68,100,15.32,0.004,positive,High,Immediate medical attention
+55,1,89,126,64,92,3.78,0.02,positive,High,Immediate medical attention
+43,0,89,111,52,97,1.69,0.005,negative,Low,Maintain healthy lifestyle
+33,1,87,101,45,319,1.32,0.006,negative,Moderate,Monitor closely and consult doctor
+46,1,96,97,55,134,13.7,0.068,positive,High,Immediate medical attention
+46,0,89,91,51,87,111,0.004,positive,High,Immediate medical attention
+74,1,91,91,56,96,1.01,0.032,positive,High,Immediate medical attention
+45,1,85,106,63,274,3.24,0.013,negative,Moderate,Monitor closely and consult doctor
+68,1,82,80,42,89,1.2,0.011,negative,Low,Maintain healthy lifestyle
+34,1,63,153,66,301,3.85,0.004,negative,Moderate,Monitor closely and consult doctor
+67,1,64,112,65,100,1.83,0.011,negative,Low,Maintain healthy lifestyle
+37,1,70,120,60,227,1.95,0.003,negative,Moderate,Monitor closely and consult doctor
+74,1,62,131,70,107,1.18,0.023,positive,High,Immediate medical attention
+37,1,66,140,52,269,10.18,0.003,positive,High,Immediate medical attention
+45,1,62,142,80,111,1.32,0.007,negative,Moderate,Monitor closely and consult doctor
+40,1,64,160,77,101,6.63,0.003,positive,High,Immediate medical attention
+61,1,69,148,72,95,1.48,0.003,negative,Moderate,Monitor closely and consult doctor
+52,1,84,128,80,279,2.39,0.031,positive,High,Immediate medical attention
+39,1,103,126,75,166,1.79,0.79,positive,High,Immediate medical attention
+47,0,85,138,98,321,1.88,0.88,positive,High,Immediate medical attention
+62,0,70,129,59,98,3.23,0.007,negative,Low,Maintain healthy lifestyle
+35,1,63,106,61,105,4.79,0.003,negative,Low,Maintain healthy lifestyle
+75,1,69,103,68,136,1.81,0.016,positive,High,Immediate medical attention
+52,1,64,119,73,82,60.68,0.01,positive,High,Immediate medical attention
+70,1,112,170,104,117,3.95,0.012,negative,Moderate,Monitor closely and consult doctor
+65,1,62,76,55,107,1.68,0.024,positive,High,Immediate medical attention
+82,0,93,180,104,120,1.76,0.325,positive,High,Immediate medical attention
+50,0,92,167,105,136,0.898,0.016,positive,High,Immediate medical attention
+63,1,81,200,110,208,2.5,0.009,negative,Moderate,Monitor closely and consult doctor
+53,0,80,125,75,125,4.76,0.003,negative,Low,Maintain healthy lifestyle
+43,0,75,150,95,103,81.84,0.005,positive,High,Immediate medical attention
+60,1,80,127,82,100,247.8,0.007,positive,High,Immediate medical attention
+36,1,81,135,81,93,3.07,0.006,negative,Low,Maintain healthy lifestyle
+46,0,80,129,89,99,2.38,0.71,positive,High,Immediate medical attention
+63,1,101,142,96,228,2.47,0.011,negative,Moderate,Monitor closely and consult doctor
+47,0,75,157,87,238,4.84,0.003,negative,Moderate,Monitor closely and consult doctor
+71,0,82,164,90,96,3.72,0.02,positive,High,Immediate medical attention
+55,1,83,94,80,133,2.43,1.47,positive,High,Immediate medical attention
+63,1,103,170,90,136,2.73,0.026,positive,High,Immediate medical attention
+65,1,62,76,55,113,1.67,0.023,positive,High,Immediate medical attention
+21,1,97,150,78,98,10.75,0.602,positive,High,Immediate medical attention
+60,0,75,125,73,91,5.01,0.003,positive,High,Immediate medical attention
+50,0,81,124,75,114,0.321,0.003,negative,Low,Maintain healthy lifestyle
+43,1,75,116,72,96,2.13,0.004,negative,Low,Maintain healthy lifestyle
+62,1,89,116,68,149,3.63,0.152,positive,High,Immediate medical attention
+66,1,66,160,83,103,71.77,0.015,positive,High,Immediate medical attention
+52,1,60,117,68,110,1.04,0.81,positive,High,Immediate medical attention
+57,1,95,129,77,251,4.34,10.3,positive,High,Immediate medical attention
+55,1,94,98,46,87,1.93,0.01,negative,Low,Maintain healthy lifestyle
+43,0,64,160,77,191,1.15,0.011,negative,Moderate,Monitor closely and consult doctor
+55,1,70,120,55,334,2.49,0.008,negative,Moderate,Monitor closely and consult doctor
+72,0,64,112,65,109,1.32,0.076,positive,High,Immediate medical attention
+75,0,75,134,85,201,1.24,0.007,negative,Moderate,Monitor closely and consult doctor
+48,1,61,112,58,101,31.85,0.012,positive,High,Immediate medical attention
+32,1,40,179,68,167,9.63,0.004,positive,High,Immediate medical attention
+63,0,60,214,82,85,1.21,0.003,negative,Moderate,Monitor closely and consult doctor
+86,1,60,154,81,112,300,1.79,positive,High,Immediate medical attention
+40,0,61,160,95,123,11.87,0.03,positive,High,Immediate medical attention
+29,0,74,223,118,86,4.93,0.003,positive,High,Immediate medical attention
+50,1,67,101,69,177,4.67,0.016,positive,High,Immediate medical attention
+42,1,60,166,90,90,3.4,0.014,negative,Moderate,Monitor closely and consult doctor
+50,1,60,150,83,125,2.67,0.003,negative,Moderate,Monitor closely and consult doctor
+68,1,60,199,99,115,2.67,10,positive,High,Immediate medical attention
+72,0,94,122,67,392,1.09,0.016,positive,High,Immediate medical attention
+68,1,76,120,70,147,1.87,0.036,positive,High,Immediate medical attention
+60,1,81,118,66,87,3.96,0.029,positive,High,Immediate medical attention
+40,1,73,114,68,90,1.4,0.022,positive,High,Immediate medical attention
+27,1,94,157,79,141,6.25,0.003,positive,High,Immediate medical attention
+55,0,72,107,86,147,3.46,0.003,negative,Low,Maintain healthy lifestyle
+35,1,60,109,65,222,3.27,0.003,negative,Moderate,Monitor closely and consult doctor
+75,0,92,151,78,174,3.87,0.028,positive,High,Immediate medical attention
+65,1,135,98,60,162,7.67,0.025,positive,High,Immediate medical attention
+37,0,76,109,85,219,2.55,0.003,negative,Moderate,Monitor closely and consult doctor
+33,0,63,110,68,189,2.52,0.005,negative,Low,Maintain healthy lifestyle
+61,1,63,104,63,193,4.87,0.046,positive,High,Immediate medical attention
+63,1,64,106,68,85,2.39,0.012,negative,Low,Maintain healthy lifestyle
+70,0,61,136,70,87,2.94,0.037,positive,High,Immediate medical attention
+65,1,58,156,76,111,1.79,0.003,negative,Moderate,Monitor closely and consult doctor
+27,1,60,166,82,181,1.09,0.003,negative,Moderate,Monitor closely and consult doctor
+42,0,65,155,75,387,1.08,0.004,negative,Moderate,Monitor closely and consult doctor
+61,0,93,120,71,121,79.62,0.007,positive,High,Immediate medical attention
+28,0,96,105,75,294,1.45,0.003,negative,Moderate,Monitor closely and consult doctor
+77,0,94,91,52,116,1.42,0.026,positive,High,Immediate medical attention
+65,1,36,106,58,88,1.25,0.088,positive,High,Immediate medical attention
+40,1,95,101,76,167,3.57,0.029,positive,High,Immediate medical attention
+64,1,67,120,60,240,5.22,0.009,negative,Moderate,Monitor closely and consult doctor
+48,1,92,147,78,132,32.53,0.003,positive,High,Immediate medical attention
+68,1,89,145,68,134,0.706,10,positive,High,Immediate medical attention
+61,1,90,150,84,159,3.75,1.43,positive,High,Immediate medical attention
+67,0,88,152,87,115,2.02,0.005,negative,Moderate,Monitor closely and consult doctor
+63,1,88,155,85,81,1.35,0.032,positive,High,Immediate medical attention
+54,1,83,153,91,266,1.86,0.012,negative,Moderate,Monitor closely and consult doctor
+73,1,60,144,79,142,4.19,0.014,negative,Moderate,Monitor closely and consult doctor
+87,1,70,175,92,101,2.24,0.041,positive,High,Immediate medical attention
+50,1,74,208,100,244,3.2,0.008,negative,Moderate,Monitor closely and consult doctor
+72,0,75,160,70,130,8.54,0.015,positive,High,Immediate medical attention
+55,1,74,150,90,117,7.61,0.104,positive,High,Immediate medical attention
+33,1,64,154,97,103,2.63,0.005,negative,Moderate,Monitor closely and consult doctor
+103,0,86,146,92,120,69.32,0.059,positive,High,Immediate medical attention
+60,1,80,130,85,182,2.09,0.407,positive,High,Immediate medical attention
+35,1,62,76,55,94,1.93,0.003,negative,Low,Maintain healthy lifestyle
+70,0,61,90,57,83,1.33,0.009,negative,Low,Maintain healthy lifestyle
+40,1,69,94,55,147,2.85,0.023,positive,High,Immediate medical attention
+29,1,62,91,50,241,2.65,0.003,negative,Moderate,Monitor closely and consult doctor
+60,0,70,92,55,318,2.33,0.004,negative,Moderate,Monitor closely and consult doctor
+30,0,68,91,61,93,3.93,0.003,negative,Low,Maintain healthy lifestyle
+55,0,96,105,70,66,300,0.003,positive,High,Immediate medical attention
+68,1,97,105,80,91,1.16,10,positive,High,Immediate medical attention
+65,0,91,121,82,156,1.67,0.06,positive,High,Immediate medical attention
+79,1,96,111,74,123,4.41,0.553,positive,High,Immediate medical attention
+66,0,87,115,78,103,3.78,0.074,positive,High,Immediate medical attention
+65,1,76,133,75,125,4.57,0.549,positive,High,Immediate medical attention
+74,1,77,153,76,166,2.05,0.012,negative,Moderate,Monitor closely and consult doctor
+50,1,80,152,78,89,1.1,0.004,negative,Moderate,Monitor closely and consult doctor
+77,0,82,125,61,115,2.14,0.039,positive,High,Immediate medical attention
+74,1,83,130,75,108,11.45,0.795,positive,High,Immediate medical attention
+31,1,81,130,65,322,7.3,0.005,positive,High,Immediate medical attention
+37,1,82,121,62,187,4.84,0.004,negative,Low,Maintain healthy lifestyle
+67,0,78,127,61,105,6.57,0.327,positive,High,Immediate medical attention
+63,0,20,110,90,122,0.68,1.51,positive,High,Immediate medical attention
+82,0,90,125,73,89,2.04,0.147,positive,High,Immediate medical attention
+41,1,59,110,65,182,7.03,2.29,positive,High,Immediate medical attention
+66,0,57,140,52,116,1.13,0.007,negative,Low,Maintain healthy lifestyle
+67,1,76,150,81,94,4.61,2.5,positive,High,Immediate medical attention
+65,1,61,130,74,109,19.63,0.017,positive,High,Immediate medical attention
+54,1,98,110,76,362,2.27,0.036,positive,High,Immediate medical attention
+52,0,58,120,69,97,5.17,0.083,positive,High,Immediate medical attention
+48,1,83,150,94,98,2.04,0.01,negative,Moderate,Monitor closely and consult doctor
+32,0,1111,141,95,82,2.66,0.008,negative,Moderate,Monitor closely and consult doctor
+51,1,102,130,83,110,8.66,0.006,positive,High,Immediate medical attention
+75,1,103,120,83,105,1.08,0.017,positive,High,Immediate medical attention
+32,1,105,128,80,180,5.75,0.007,negative,Low,Maintain healthy lifestyle
+87,1,61,121,60,116,61.2,0.017,positive,High,Immediate medical attention
+41,1,96,147,84,92,2.53,0.013,negative,Moderate,Monitor closely and consult doctor
+80,0,59,137,81,93,2.41,0.013,negative,Low,Maintain healthy lifestyle
+65,0,78,115,65,116,2.11,0.011,negative,Low,Maintain healthy lifestyle
+35,1,63,123,82,94,1.21,0.081,positive,High,Immediate medical attention
+55,1,91,120,80,87,14.97,0.086,positive,High,Immediate medical attention
+38,0,60,125,88,90,1.04,0.003,negative,Low,Maintain healthy lifestyle
+47,1,58,130,80,127,3.87,0.003,negative,Low,Maintain healthy lifestyle
+35,1,66,94,63,109,3.71,0.003,negative,Low,Maintain healthy lifestyle
+43,1,94,95,65,147,4.13,0.02,positive,High,Immediate medical attention
+39,1,64,101,68,131,5.17,1.15,positive,High,Immediate medical attention
+65,1,70,117,61,84,1.58,0.397,positive,High,Immediate medical attention
+60,1,64,110,58,132,1.66,0.041,positive,High,Immediate medical attention
+48,0,61,124,62,227,2.49,0.004,negative,Moderate,Monitor closely and consult doctor
+57,0,80,118,64,95,0.863,0.006,negative,Low,Maintain healthy lifestyle
+68,1,65,112,58,134,7.47,0.022,positive,High,Immediate medical attention
+27,0,93,119,63,137,6.74,0.003,positive,High,Immediate medical attention
+75,0,63,110,59,111,1.8,0.043,positive,High,Immediate medical attention
+52,0,60,140,80,111,1.75,0.998,positive,High,Immediate medical attention
+70,0,72,138,86,81,1.04,1.26,positive,High,Immediate medical attention
+29,1,76,157,93,242,4.79,0.004,negative,Moderate,Monitor closely and consult doctor
+65,1,74,140,85,106,4.35,10,positive,High,Immediate medical attention
+50,0,85,119,76,130,16.1,0.009,positive,High,Immediate medical attention
+30,1,60,202,88,197,12.89,0.003,positive,High,Immediate medical attention
+57,0,60,175,88,152,3,0.004,negative,Moderate,Monitor closely and consult doctor
+54,1,60,124,58,169,2.99,0.023,positive,High,Immediate medical attention
+43,0,60,144,54,109,10.26,0.016,positive,High,Immediate medical attention
+65,0,60,130,56,347,2.8,0.004,negative,Moderate,Monitor closely and consult doctor
+77,0,60,138,58,104,3.29,0.035,positive,High,Immediate medical attention
+65,1,60,129,55,117,1.9,0.078,positive,High,Immediate medical attention
+55,0,60,97,44,98,2.55,0.01,negative,Low,Maintain healthy lifestyle
+65,0,62,114,69,103,18.43,0.008,positive,High,Immediate medical attention
+40,0,75,116,71,102,1.39,0.003,negative,Low,Maintain healthy lifestyle
+68,1,73,115,72,99,2.05,0.009,negative,Low,Maintain healthy lifestyle
+63,1,63,104,87,81,8.47,0.006,positive,High,Immediate medical attention
+70,1,62,114,69,165,8.49,0.011,positive,High,Immediate medical attention
+50,1,75,116,71,126,2.24,0.053,positive,High,Immediate medical attention
+63,1,73,115,72,191,24.64,0.022,positive,High,Immediate medical attention
+56,0,71,119,76,321,43.51,0.003,positive,High,Immediate medical attention
+60,1,73,135,81,133,46.1,0.003,positive,High,Immediate medical attention
+63,1,68,116,74,109,88.28,0.024,positive,High,Immediate medical attention
+45,1,70,113,62,215,0.569,0.007,negative,Moderate,Monitor closely and consult doctor
+64,1,74,148,65,96,2.24,1.5,positive,High,Immediate medical attention
+63,1,61,122,66,61,2.49,0.029,positive,High,Immediate medical attention
+70,1,87,148,89,80,7.06,0.003,positive,High,Immediate medical attention
+40,0,85,140,82,106,2.33,0.003,negative,Low,Maintain healthy lifestyle
+67,1,85,115,75,92,33.95,0.026,positive,High,Immediate medical attention
+64,1,83,140,81,91,1.63,0.023,positive,High,Immediate medical attention
+63,1,82,164,90,95,2.6,0.507,positive,High,Immediate medical attention
+63,1,81,150,51,195,5.57,0.005,negative,Moderate,Monitor closely and consult doctor
+44,1,60,156,60,112,3.63,0.006,negative,Moderate,Monitor closely and consult doctor
+44,0,67,192,56,94,0.718,0.003,negative,Moderate,Monitor closely and consult doctor
+55,0,75,144,78,133,1.79,0.011,negative,Moderate,Monitor closely and consult doctor
+103,0,56,171,56,150,51.96,0.044,positive,High,Immediate medical attention
+60,0,89,111,57,194,2.17,0.348,positive,High,Immediate medical attention
+26,0,88,110,70,102,3.21,0.006,negative,Low,Maintain healthy lifestyle
+75,1,89,100,50,114,0.681,0.088,positive,High,Immediate medical attention
+57,1,78,101,54,115,0.826,0.014,negative,Low,Maintain healthy lifestyle
+57,1,70,144,79,104,0.89,5.4,positive,High,Immediate medical attention
+43,1,90,124,100,110,9.71,0.006,positive,High,Immediate medical attention
+65,0,80,129,89,85,2.79,0.004,negative,Low,Maintain healthy lifestyle
+70,1,76,136,82,233,2.56,2.16,positive,High,Immediate medical attention
+78,0,73,108,61,95,10.42,0.011,positive,High,Immediate medical attention
+63,1,71,112,68,462,2.54,0.013,negative,Moderate,Monitor closely and consult doctor
+38,1,74,111,71,100,1,0.008,negative,Low,Maintain healthy lifestyle
+51,1,82,138,93,106,1.65,0.019,positive,High,Immediate medical attention
+60,0,57,101,59,422,1.65,0.005,negative,Moderate,Monitor closely and consult doctor
+40,1,89,214,88,100,6.03,0.003,negative,Moderate,Monitor closely and consult doctor
+66,1,59,100,56,245,2.12,0.003,negative,Moderate,Monitor closely and consult doctor
+63,1,94,105,81,168,1.58,0.005,negative,Low,Maintain healthy lifestyle
+74,1,87,135,84,99,1.17,0.043,positive,High,Immediate medical attention
+76,0,81,121,83,187,2.14,3.77,positive,High,Immediate medical attention
+79,0,90,120,68,101,1.5,0.006,negative,Low,Maintain healthy lifestyle
+53,1,88,104,62,189,1.51,0.003,negative,Low,Maintain healthy lifestyle
+63,1,64,122,60,188,2.19,0.046,positive,High,Immediate medical attention
+48,1,79,118,55,98,2.19,0.048,positive,High,Immediate medical attention
+56,1,57,110,60,101,4.05,0.017,positive,High,Immediate medical attention
+53,1,60,113,52,100,2.68,0.015,positive,High,Immediate medical attention
+85,0,61,102,64,96,99.62,0.01,positive,High,Immediate medical attention
+60,0,94,157,79,129,0.728,0.009,negative,Moderate,Monitor closely and consult doctor
+70,0,73,85,44,96,2.02,5.11,positive,High,Immediate medical attention
+71,0,60,124,100,200,1.18,0.014,negative,Low,Maintain healthy lifestyle
+63,1,77,100,68,110,2.79,0.003,negative,Low,Maintain healthy lifestyle
+64,0,117,112,74,146,2.88,0.088,positive,High,Immediate medical attention
+41,1,89,87,53,140,2.14,0.003,negative,Low,Maintain healthy lifestyle
+52,0,71,143,71,109,5.65,0.93,positive,High,Immediate medical attention
+68,0,82,80,80,159,1.06,0.08,positive,High,Immediate medical attention
+48,0,78,132,85,122,4.17,0.003,negative,Low,Maintain healthy lifestyle
+25,1,87,80,50,382,1.95,0.003,negative,Moderate,Monitor closely and consult doctor
+60,1,100,170,103,217,3.32,0.012,negative,Moderate,Monitor closely and consult doctor
+73,0,82,84,54,94,1.57,0.011,negative,Low,Maintain healthy lifestyle
+52,1,61,167,80,303,25.36,0.013,positive,High,Immediate medical attention
+61,1,64,83,60,112,0.684,0.01,negative,Low,Maintain healthy lifestyle
+56,1,74,95,53,98,1.72,0.043,positive,High,Immediate medical attention
+55,0,61,96,48,154,3.43,0.7,positive,High,Immediate medical attention
+33,0,74,119,78,102,2.57,0.003,negative,Low,Maintain healthy lifestyle
+53,1,61,119,75,115,6.67,0.028,positive,High,Immediate medical attention
+43,1,80,65,53,88,2.54,0.007,negative,Low,Maintain healthy lifestyle
+38,1,83,126,76,221,1.11,0.008,negative,Moderate,Monitor closely and consult doctor
+30,1,72,100,57,89,19.26,0.026,positive,High,Immediate medical attention
+50,1,82,120,80,90,31.06,0.026,positive,High,Immediate medical attention
+37,0,83,102,68,104,1.35,0.007,negative,Low,Maintain healthy lifestyle
+60,0,70,118,72,103,39.63,0.041,positive,High,Immediate medical attention
+45,1,70,134,58,186,2.87,0.007,negative,Low,Maintain healthy lifestyle
+60,0,77,130,79,94,2.86,0.008,negative,Low,Maintain healthy lifestyle
+66,1,73,125,78,112,2.87,0.028,positive,High,Immediate medical attention
+40,1,89,141,93,140,2.86,0.006,negative,Moderate,Monitor closely and consult doctor
+36,1,81,125,79,218,78.89,0.128,positive,High,Immediate medical attention
+90,0,125,121,60,87,6.15,1.81,positive,High,Immediate medical attention
+70,0,83,104,57,127,1.32,1.94,positive,High,Immediate medical attention
+65,1,84,126,75,382,1.01,0.018,positive,High,Immediate medical attention
+34,0,81,125,69,152,2.07,0.013,negative,Low,Maintain healthy lifestyle
+38,0,80,109,67,222,2.65,0.007,negative,Moderate,Monitor closely and consult doctor
+29,1,112,170,104,68,1.33,0.006,negative,Moderate,Monitor closely and consult doctor
+73,0,81,150,75,125,1.44,0.014,negative,Moderate,Monitor closely and consult doctor
+29,1,84,87,48,104,1.58,0.003,negative,Low,Maintain healthy lifestyle
+75,0,80,108,79,150,1.69,0.017,positive,High,Immediate medical attention
+70,0,45,130,58,175,2.84,0.053,positive,High,Immediate medical attention
+62,0,82,138,93,92,2.53,0.019,positive,High,Immediate medical attention
+60,1,67,113,82,99,1.65,0.057,positive,High,Immediate medical attention
+68,1,66,112,74,105,3.65,0.119,positive,High,Immediate medical attention
+51,1,74,118,78,94,1.32,0.005,negative,Low,Maintain healthy lifestyle
+39,1,59,164,75,177,3.29,0.003,negative,Moderate,Monitor closely and consult doctor
+54,0,60,104,60,50,8.14,0.006,positive,High,Immediate medical attention
+31,1,59,125,72,94,2.85,0.007,negative,Low,Maintain healthy lifestyle
+61,1,61,117,78,92,42.5,0.043,positive,High,Immediate medical attention
+70,1,55,109,76,103,25.56,0.028,positive,High,Immediate medical attention
+84,0,65,129,75,88,31.22,0.013,positive,High,Immediate medical attention
+59,1,84,128,80,203,5.08,0.025,positive,High,Immediate medical attention
+31,1,132,125,74,92,8.69,0.003,positive,High,Immediate medical attention
+65,1,77,76,154,93,3.81,0.029,positive,High,Immediate medical attention
+58,1,75,116,73,108,27.31,0.049,positive,High,Immediate medical attention
+55,1,55,109,76,130,9.51,0.635,positive,High,Immediate medical attention
+59,1,85,140,82,119,8.21,0.98,positive,High,Immediate medical attention
+50,0,82,108,61,77,1.19,0.916,positive,High,Immediate medical attention
+58,0,65,129,75,87,5.58,0.014,positive,High,Immediate medical attention
+59,1,87,148,89,431,300,1.23,positive,High,Immediate medical attention
+58,0,84,128,80,202,3.18,0.011,negative,Moderate,Monitor closely and consult doctor
+70,0,112,115,69,141,2.9,0.06,positive,High,Immediate medical attention
+45,1,108,111,70,142,4.64,0.012,negative,Low,Maintain healthy lifestyle
+76,1,134,111,69,92,2.37,0.031,positive,High,Immediate medical attention
+66,1,111,125,71,114,0.746,0.016,positive,High,Immediate medical attention
+63,1,101,102,63,166,300,0.022,positive,High,Immediate medical attention
+45,1,103,115,85,113,2.74,0.066,positive,High,Immediate medical attention
+73,0,108,100,71,81,11.4,0.02,positive,High,Immediate medical attention
+38,1,82,103,58,118,1.67,0.004,negative,Low,Maintain healthy lifestyle
+62,1,119,113,79,77,1.79,0.003,negative,Low,Maintain healthy lifestyle
+65,1,113,131,63,126,25.04,0.067,positive,High,Immediate medical attention
+52,1,62,143,75,100,6.41,0.055,positive,High,Immediate medical attention
+69,1,61,96,48,184,1.74,0.013,negative,Low,Maintain healthy lifestyle
+57,1,51,130,70,91,0.483,0.279,positive,High,Immediate medical attention
+78,0,52,125,68,103,33.7,3.34,positive,High,Immediate medical attention
+46,0,58,93,48,97,10.33,0.923,positive,High,Immediate medical attention
+40,1,67,177,105,94,0.973,1.25,positive,High,Immediate medical attention
+54,1,89,107,50,246,3.15,0.003,negative,Moderate,Monitor closely and consult doctor
+63,1,90,198,48,93,5.02,0.023,positive,High,Immediate medical attention
+75,1,63,150,95,111,1.89,0.092,positive,High,Immediate medical attention
+61,1,90,170,95,157,4.67,0.057,positive,High,Immediate medical attention
+80,1,72,154,84,222,4.32,0.017,positive,High,Immediate medical attention
+62,1,79,139,89,155,6.47,0.065,positive,High,Immediate medical attention
+49,1,74,145,85,96,1.33,0.004,negative,Moderate,Monitor closely and consult doctor
+54,0,82,135,80,94,4.39,0.01,negative,Low,Maintain healthy lifestyle
+47,1,93,105,71,113,1.73,0.434,positive,High,Immediate medical attention
+52,1,90,110,65,202,1.83,0.009,negative,Moderate,Monitor closely and consult doctor
+70,1,71,91,57,104,1.31,0.014,negative,Low,Maintain healthy lifestyle
+68,0,82,91,56,99,1.53,0.295,positive,High,Immediate medical attention
+37,1,78,95,59,107,39.34,0.022,positive,High,Immediate medical attention
+48,1,76,90,60,100,27.57,0.012,positive,High,Immediate medical attention
+70,0,72,104,65,154,1.67,1.63,positive,High,Immediate medical attention
+27,1,93,105,71,105,2.73,0.461,positive,High,Immediate medical attention
+23,1,96,147,84,82,12.57,0.005,positive,High,Immediate medical attention
+37,1,88,119,66,118,5.78,0.006,negative,Low,Maintain healthy lifestyle
+60,1,64,140,90,230,1.25,0.009,negative,Moderate,Monitor closely and consult doctor
+45,0,79,156,82,111,1.73,0.006,negative,Moderate,Monitor closely and consult doctor
+48,1,72,150,95,100,14.72,0.014,positive,High,Immediate medical attention
+50,0,94,122,67,86,7.05,0.003,positive,High,Immediate medical attention
+72,1,60,132,88,114,261,0.037,positive,High,Immediate medical attention
+65,0,90,111,65,108,1.67,0.01,negative,Low,Maintain healthy lifestyle
+60,1,64,109,60,111,50.89,0.006,positive,High,Immediate medical attention
+70,0,63,105,64,217,1.8,10,positive,High,Immediate medical attention
+65,1,72,113,64,116,6.75,0.01,positive,High,Immediate medical attention
+46,1,76,150,100,125,1.99,0.005,negative,Moderate,Monitor closely and consult doctor
+55,0,65,129,75,95,13.87,0.004,positive,High,Immediate medical attention
+60,0,67,130,80,114,1.08,0.008,negative,Low,Maintain healthy lifestyle
+49,1,70,117,76,87,1.83,0.051,positive,High,Immediate medical attention
+33,1,62,76,55,106,0.71,0.007,negative,Low,Maintain healthy lifestyle
+68,0,59,107,64,225,300,0.016,positive,High,Immediate medical attention
+67,1,77,122,58,368,2.35,0.008,negative,Moderate,Monitor closely and consult doctor
+79,1,74,155,77,168,2.84,0.023,positive,High,Immediate medical attention
+44,1,73,128,63,408,2.39,0.005,negative,Moderate,Monitor closely and consult doctor
+28,0,86,165,83,100,2.39,0.004,negative,Moderate,Monitor closely and consult doctor
+60,1,65,191,110,131,3.43,0.018,positive,High,Immediate medical attention
+41,1,83,153,91,302,1.42,0.005,negative,Moderate,Monitor closely and consult doctor
+66,1,84,160,79,141,2.57,0.01,negative,Moderate,Monitor closely and consult doctor
+60,0,60,209,75,500,1.49,0.019,positive,High,Immediate medical attention
+50,1,82,138,82,102,1.11,1.4,positive,High,Immediate medical attention
+19,1,68,116,74,99,0.606,0.003,negative,Low,Maintain healthy lifestyle
+29,1,89,111,57,90,2.89,0.004,negative,Low,Maintain healthy lifestyle
+39,0,61,67,80,145,1.6,0.005,negative,Low,Maintain healthy lifestyle
+51,1,67,150,70,108,1.6,0.018,positive,High,Immediate medical attention
+60,1,63,170,104,87,94.79,0.015,positive,High,Immediate medical attention
+70,1,103,126,75,541,0.665,0.014,negative,Moderate,Monitor closely and consult doctor
+42,0,100,119,66,163,50.46,0.003,positive,High,Immediate medical attention
+54,1,100,117,57,98,38.72,0.007,positive,High,Immediate medical attention
+70,0,61,119,75,114,2.11,0.022,positive,High,Immediate medical attention
+49,1,70,149,79,104,2.93,0.023,positive,High,Immediate medical attention
+55,0,73,138,79,105,1.61,0.009,negative,Low,Maintain healthy lifestyle
+31,1,72,117,49,184,300,0.005,positive,High,Immediate medical attention
+56,1,64,120,68,66,0.493,0.015,positive,High,Immediate medical attention
+67,0,51,143,75,102,1.31,0.03,positive,High,Immediate medical attention
+36,1,92,147,78,77,4.58,0.004,negative,Moderate,Monitor closely and consult doctor
+29,1,81,150,51,100,6.48,0.003,positive,High,Immediate medical attention
+50,0,120,220,128,76,0.929,0.072,positive,High,Immediate medical attention
+35,1,74,134,58,78,1.37,0.003,negative,Low,Maintain healthy lifestyle
+65,0,104,128,79,274,6.78,0.197,positive,High,Immediate medical attention
+42,0,70,117,76,100,4.24,0.003,negative,Low,Maintain healthy lifestyle
+55,1,61,90,57,188,1.3,0.11,positive,High,Immediate medical attention
+60,1,69,94,55,87,0.609,0.016,positive,High,Immediate medical attention
+58,1,98,91,50,182,15.23,0.013,positive,High,Immediate medical attention
+50,1,64,109,60,96,1.54,0.93,positive,High,Immediate medical attention
+53,1,55,120,79,114,2.93,0.03,positive,High,Immediate medical attention
+50,0,79,92,55,415,16.95,0.005,positive,High,Immediate medical attention
+64,0,68,91,61,119,2.97,1.53,positive,High,Immediate medical attention
+65,1,60,112,56,95,4.22,1.04,positive,High,Immediate medical attention
+62,0,60,145,67,208,1.29,0.009,negative,Moderate,Monitor closely and consult doctor
+67,0,81,150,75,80,4.8,0.009,negative,Moderate,Monitor closely and consult doctor
+62,1,90,136,68,141,1.83,0.014,negative,Low,Maintain healthy lifestyle
+43,1,90,95,50,118,1.33,0.544,positive,High,Immediate medical attention
+47,0,58,93,78,170,1.19,0.068,positive,High,Immediate medical attention
+40,1,57,208,40,108,2.11,0.003,negative,Moderate,Monitor closely and consult doctor
+55,0,80,117,83,200,0.78,0.052,positive,High,Immediate medical attention
+56,0,68,123,70,102,2.28,0.255,positive,High,Immediate medical attention
+47,1,71,117,61,140,4.39,1.37,positive,High,Immediate medical attention
+60,0,78,109,69,230,19.47,0.003,positive,High,Immediate medical attention
+56,1,75,157,67,104,2.41,0.45,positive,High,Immediate medical attention
+45,1,117,100,68,202,3.18,0.003,negative,Moderate,Monitor closely and consult doctor
+47,1,94,105,81,135,36.24,0.263,positive,High,Immediate medical attention
+70,0,80,135,75,351,2.21,10,positive,High,Immediate medical attention
+85,1,112,115,69,114,2.19,0.062,positive,High,Immediate medical attention
+48,1,84,118,68,96,5.33,0.006,negative,Low,Maintain healthy lifestyle
+86,0,40,179,68,147,5.22,0.011,negative,Moderate,Monitor closely and consult doctor
+44,1,94,122,67,204,1.63,0.006,negative,Moderate,Monitor closely and consult doctor
+66,1,84,125,55,149,1.33,0.172,positive,High,Immediate medical attention
+45,1,85,168,104,96,1.24,4.25,positive,High,Immediate medical attention
+54,1,58,117,68,443,5.8,0.359,positive,High,Immediate medical attention
+51,1,94,157,79,134,50.89,1.77,positive,High,Immediate medical attention
