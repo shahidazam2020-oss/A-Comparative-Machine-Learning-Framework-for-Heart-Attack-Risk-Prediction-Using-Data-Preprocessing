@@ -277,7 +277,7 @@ The objective is to obtain a more reliable estimate of model performance and red
 
 # 📊 Evaluation Metrics
 
-Multiple metrics are used because healthcare prediction requires more than simply measuring overall accuracy.
+**Multiple metrics are used because healthcare prediction requires more than simply measuring overall accuracy.**
 
 ### 🎯 Accuracy
 
