@@ -159,7 +159,7 @@ The research incorporates **Synthetic Minority Oversampling Technique (SMOTE)** 
 
 ### 🔵 Original Distribution
 
-The dataset contained:
+**The dataset contained:**
 
 ```text
 2511 → No Heart Attack Risk
