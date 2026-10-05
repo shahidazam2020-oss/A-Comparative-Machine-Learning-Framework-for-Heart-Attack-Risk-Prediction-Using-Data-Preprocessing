@@ -147,7 +147,7 @@ Before model development, the dataset was examined for:
 
 *Descriptive statistics were used to understand the characteristics of the dataset before model development.*
 
-Feature selection was subsequently performed to identify variables considered most relevant to heart attack prediction.
+*Feature selection was subsequently performed to identify variables considered most relevant to heart attack prediction.*
 
 ---
 
