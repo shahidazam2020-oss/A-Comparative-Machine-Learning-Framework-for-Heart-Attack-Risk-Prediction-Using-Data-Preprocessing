@@ -76,7 +76,7 @@ Heart Attack Risk
 * Sleep
 * Other patient-related characteristics
 
-The research methodology describes the target as a binary dependent variable and identifies age, sex, cholesterol, blood pressure, smoking, and diabetes among the predictor variables.
+**The research methodology describes the target as a binary dependent variable and identifies age, sex, cholesterol, blood pressure, smoking, and diabetes among the predictor variables.**
 
 ---
 
