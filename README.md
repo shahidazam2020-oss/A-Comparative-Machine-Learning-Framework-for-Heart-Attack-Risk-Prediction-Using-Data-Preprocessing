@@ -24,7 +24,7 @@ The study emphasizes that **accuracy alone is not sufficient for evaluating heal
 
 # 🎯 Research Objectives
 
-The main objectives of this research are to:
+**The main objectives of this research are to:**
 
 * 🫀 Develop a machine learning framework for heart attack risk prediction
 * 🧹 Apply systematic data preprocessing
