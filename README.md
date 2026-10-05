@@ -56,7 +56,7 @@ Heart Attack Risk
 0 → No Heart Attack Risk
 ```
 
-The study considers demographic, physiological, lifestyle, and clinical-related variables. Examples include:
+**The study considers demographic, physiological, lifestyle, and clinical-related variables. Examples include:**
 
 * Age
 * Sex
