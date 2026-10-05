@@ -82,7 +82,7 @@ Heart Attack Risk
 
 # 🔬 Research Methodology
 
-The study follows a quantitative machine-learning research methodology.
+**The study follows a quantitative machine-learning research methodology.**
 
 ```text
                   🫀 HEART ATTACK DATA
