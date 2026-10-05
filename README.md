@@ -49,7 +49,7 @@ The target variable is:
 Heart Attack Risk
 ```
 
-It is treated as a binary classification problem:
+**It is treated as a binary classification problem:**
 
 ```text
 1 → Heart Attack Risk
