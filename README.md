@@ -179,7 +179,7 @@ After SMOTE:
 4499 → Class 1
 ```
 
-SMOTE increased the training representation to provide a larger balanced training set.
+*SMOTE increased the training representation to provide a larger balanced training set.*
 
 ---
 
