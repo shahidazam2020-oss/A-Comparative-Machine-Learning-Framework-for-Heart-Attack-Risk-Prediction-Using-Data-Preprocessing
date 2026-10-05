@@ -41,7 +41,7 @@ The study emphasizes that **accuracy alone is not sufficient for evaluating heal
 
 # 📊 Dataset
 
-The research uses a **Heart Attack Risk Prediction Dataset obtained from Kaggle**.
+*The research uses a **Heart Attack Risk Prediction Dataset obtained from Kaggle**.*
 
 The target variable is:
 
