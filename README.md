@@ -131,7 +131,7 @@ The study follows a quantitative machine-learning research methodology.
                      🏆 COMPARISON
 ```
 
-The dataset was divided into **80% training and 20% testing data**, followed by five-fold cross-validation for more robust performance estimation and reduced overfitting risk.
+**The dataset was divided into **80% training and 20% testing data**, followed by five-fold cross-validation for more robust performance estimation and reduced overfitting risk.**
 
 ---
 
