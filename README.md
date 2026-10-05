@@ -564,7 +564,7 @@ The repository is intended to support:
 
 This project is intended for **academic and research purposes**. The machine-learning models presented in this study are experimental predictive models and **are not intended to replace professional medical diagnosis, clinical judgment, or validated clinical decision-support systems**.
 
-The reported results are based on the dataset and experimental methodology described in the research paper.
+**The reported results are based on the dataset and experimental methodology described in the research paper.**
 
 ---
 
