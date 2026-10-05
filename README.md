@@ -4,7 +4,7 @@
 
 ### 🤖 Machine Learning • Healthcare Analytics • Predictive Modeling • Clinical Risk Prediction
 
-**A systematic machine learning framework integrating data preprocessing, class-imbalance handling, hyperparameter optimization, and five-fold cross-validation for heart attack risk prediction.**
+A systematic machine learning framework integrating data preprocessing, class-imbalance handling, hyperparameter optimization, and five-fold cross-validation for heart attack risk prediction.
 
 </p>
 
