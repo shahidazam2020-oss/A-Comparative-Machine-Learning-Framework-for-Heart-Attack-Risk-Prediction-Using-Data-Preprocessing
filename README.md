@@ -401,7 +401,7 @@ These results indicate that the models had **limited class-separation capability
 
 # 🔄 Cross-Validation Results
 
-The five-fold cross-validation results reported approximately:
+**The five-fold cross-validation results reported approximately:**
 
 ```text
 Accuracy  → 60%
