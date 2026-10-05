@@ -545,7 +545,7 @@ Heart-Attack-Risk-Prediction/
 
 # 📌 Repository Purpose
 
-This repository provides the research materials and supporting resources for the study:
+**This repository provides the research materials and supporting resources for the study:**
 
 > **“A Comparative Machine Learning Framework for Heart Attack Risk Prediction Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.”**
 
