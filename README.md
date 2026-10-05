@@ -257,7 +257,7 @@ Final Evaluation
 
 # 🔄 Five-Fold Cross-Validation
 
-The study applies **5-fold cross-validation**.
+*The study applies **5-fold cross-validation***
 
 ```text
 Fold 1 → Train / Validate
