@@ -185,7 +185,7 @@ SMOTE increased the training representation to provide a larger balanced trainin
 
 # 🤖 Machine Learning Models
 
-The research compares multiple supervised machine learning algorithms.
+**The research compares multiple supervised machine learning algorithms.**
 
 ## 1. 📈 Logistic Regression
 
