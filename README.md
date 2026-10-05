@@ -460,7 +460,7 @@ These findings support the paper's conclusion that **no single model is best acr
 🫀 Heart Attack Risk Prediction
 ```
 
-Rather than evaluating machine learning algorithms using accuracy alone, the framework emphasizes the importance of **recall, precision, F1-score, ROC-AUC, and confusion matrices**, especially for identifying high-risk cases.
+**Rather than evaluating machine learning algorithms using accuracy alone, the framework emphasizes the importance of **recall, precision, F1-score, ROC-AUC, and confusion matrices**, especially for identifying high-risk cases.**
 
 ---
 
