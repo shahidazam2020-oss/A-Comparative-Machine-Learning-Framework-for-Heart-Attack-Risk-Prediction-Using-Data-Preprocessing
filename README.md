@@ -168,7 +168,7 @@ The dataset contained:
 Total = 5022 observations
 ```
 
-The original classes were therefore balanced in the analyzed dataset.
+**The original classes were therefore balanced in the analyzed dataset.**
 
 ### 🟣 SMOTE Distribution
 
