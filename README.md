@@ -359,7 +359,7 @@ Accuracy  → 0.643
 Precision → 0.494
 ```
 
-It produced the strongest overall positive-class accuracy and precision among the compared models in the reported experiment.
+**It produced the strongest overall positive-class accuracy and precision among the compared models in the reported experiment.**
 
 ---
 
