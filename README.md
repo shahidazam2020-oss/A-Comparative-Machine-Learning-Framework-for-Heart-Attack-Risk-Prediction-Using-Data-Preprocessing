@@ -137,7 +137,7 @@ Heart Attack Risk
 
 # 🧹 Data Preprocessing
 
-Before model development, the dataset was examined for:
+**Before model development, the dataset was examined for:**
 
 * Missing values
 * Duplicate records
