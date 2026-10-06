@@ -325,7 +325,7 @@ The experiments demonstrate that different models perform better under different
 | 🌳 Decision Tree       |         **~54%** | Better minority-class detection    |
 | 🧠 MLP Neural Network  |         **~54%** | Better heart-attack case detection |
 
-The reported results show Random Forest and Logistic Regression achieving approximately 0.64 accuracy, while Gradient Boosting and LightGBM achieved above 0.62.
+**The reported results show Random Forest and Logistic Regression achieving approximately 0.64 accuracy, while Gradient Boosting and LightGBM achieved above 0.62.**
 
 ---
 
