@@ -376,7 +376,7 @@ Its confusion matrix showed:
 ❌ Non-Risk → Risk          → 400
 ```
 
-Compared with LightGBM, the MLP correctly detected substantially more heart attack-risk cases in the reported experiment.
+**Compared with LightGBM, the MLP correctly detected substantially more heart attack-risk cases in the reported experiment.**
 
 This suggests a trade-off between **sensitivity and specificity** that is particularly important in healthcare applications.
 
