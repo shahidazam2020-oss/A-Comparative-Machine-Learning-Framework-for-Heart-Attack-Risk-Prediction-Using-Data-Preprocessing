@@ -308,7 +308,7 @@ Provides detailed counts of:
 * False Positives
 * False Negatives
 
-The paper explicitly evaluates accuracy, precision, recall, F1-score, ROC-AUC, balanced accuracy, and confusion matrices.
+**The paper explicitly evaluates accuracy, precision, recall, F1-score, ROC-AUC, balanced accuracy, and confusion matrices.**
 
 ---
 
