@@ -271,7 +271,7 @@ Fold 5 → Train / Validate
 
 *This allows the models to be repeatedly trained and validated on different subsets of the data.*
 
-The objective is to obtain a more reliable estimate of model performance and reduce the risk of overfitting.
+**The objective is to obtain a more reliable estimate of model performance and reduce the risk of overfitting.**
 
 ---
 
