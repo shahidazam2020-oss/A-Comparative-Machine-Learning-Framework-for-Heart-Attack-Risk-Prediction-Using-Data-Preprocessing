@@ -346,7 +346,7 @@ Reported F1-scores were approximately:
 🚀 Gradient Boosting    → <0.05
 ```
 
-This demonstrates why relying exclusively on accuracy can be misleading in healthcare prediction.
+**This demonstrates why relying exclusively on accuracy can be misleading in healthcare prediction.**
 
 ---
 
