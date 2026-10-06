@@ -314,7 +314,7 @@ Provides detailed counts of:
 
 # 🏆 Key Results
 
-The experiments demonstrate that different models perform better under different evaluation criteria.
+**The experiments demonstrate that different models perform better under different evaluation criteria.**
 
 | Model                  | Approx. Accuracy | Key Observation                    |
 | ---------------------- | ---------------: | ---------------------------------- |
