@@ -584,7 +584,7 @@ This project is intended for **academic and research purposes**. The machine-lea
 
 ```text
 Amin, A., & Azam, S. (2026).
-A Comparative Machine Learning Framework for Heart Attack Risk Prediction
+*A Comparative Machine Learning Framework for Heart Attack Risk Prediction.*
 Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.
 ```
 
