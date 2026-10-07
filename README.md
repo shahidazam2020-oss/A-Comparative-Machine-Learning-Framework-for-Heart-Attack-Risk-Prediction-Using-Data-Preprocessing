@@ -580,7 +580,7 @@ This project is intended for **academic and research purposes**. The machine-lea
 
 # 📚 Citation
 
-If you use this research or repository in your work, please cite:
+**If you use this research or repository in your work, please cite:**
 
 ```text
 Amin, A., & Azam, S. (2026).
