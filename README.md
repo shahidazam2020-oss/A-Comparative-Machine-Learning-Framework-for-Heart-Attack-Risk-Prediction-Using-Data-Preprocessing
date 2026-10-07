@@ -395,7 +395,7 @@ The reported ROC-AUC values were relatively close to random classification:
 🧠 MLP                  → ~0.47
 ```
 
-These results indicate that the models had **limited class-separation capability** on the evaluated dataset, despite differences in accuracy and F1-score.
+*These results indicate that the models had **limited class-separation capability** on the evaluated dataset, despite differences in accuracy and F1-score.*
 
 ---
 
