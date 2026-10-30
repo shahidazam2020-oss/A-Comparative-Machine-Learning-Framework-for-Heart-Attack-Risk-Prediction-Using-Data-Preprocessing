@@ -592,3 +592,29 @@ The experimental framework was designed to evaluate multiple machine learning al
 > **Research Principle:** Fair model comparison requires consistent experimental conditions, appropriate validation, and reliable performance evaluation.
 
 ---
+## 📊 Model Evaluation & Performance Analysis
+
+Machine learning models are evaluated using multiple performance indicators to understand their classification capabilities.
+
+### 📈 Evaluation Dimensions
+
+| Evaluation Metric   | Research Importance                     |
+| :------------------ | :-------------------------------------- |
+| 🎯 Accuracy         | Overall predictive correctness          |
+| 🔍 Precision        | Reliability of positive predictions     |
+| ❤️ Recall           | Identification of actual positive cases |
+| ⚖️ F1-Score         | Balance between Precision and Recall    |
+| 📈 ROC-AUC          | Classification discrimination           |
+| 🧩 Confusion Matrix | Classification error analysis           |
+
+### 🏆 Performance Interpretation
+
+The comparative analysis highlights an important distinction between overall classification accuracy and minority-class identification.
+
+A model with higher accuracy does not necessarily provide better detection of heart attack-risk cases.
+
+Therefore, Recall and F1-Score are particularly important when interpreting the predictive performance of healthcare classification models.
+
+> **Key Insight:** Model selection should consider the intended application and the relative importance of false negatives and false positives, rather than accuracy alone.
+
+---
