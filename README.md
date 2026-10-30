@@ -689,3 +689,38 @@ This research contributes to the broader investigation of machine learning appli
 | 🔍 Explainable AI          | Interpretable predictive systems |
 
 ---
+## 📚 How to Cite This Research
+
+If you use, discuss, or reference this research in your academic work, please cite the original manuscript.
+
+### 📖 Research Publication
+
+**Title:** A Comparative Machine Learning Framework for Heart Attack Risk Prediction Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.
+
+**Authors:** Shahid Azam and Dr. Adnan Amin.
+
+**Year:** 2026.
+
+### 🔗 Publication Access
+
+<div align="center">
+
+<a href="https://www.researchgate.net/publication/408266268_A_Comparative_Machine_Learning_Framework_for_Heart_Attack_Risk_Prediction_Using_Data_Preprocessing_Class_Imbalance_Handling_and_Cross-Validation">
+
+<img src="https://img.shields.io/badge/ResearchGate-View_Publication-00CCBB?style=for-the-badge&logo=researchgate" />
+
+</a>
+
+</div>
+
+### 📝 BibTeX Reference
+
+```bibtex
+@article{azam2026heartattack,
+  title={A Comparative Machine Learning Framework for Heart Attack Risk Prediction Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation},
+  author={Azam, Shahid and Amin, Adnan},
+  year={2026}
+}
+```
+
+## *The BibTeX entry is a provisional citation template, not a verified journal publication record.*
