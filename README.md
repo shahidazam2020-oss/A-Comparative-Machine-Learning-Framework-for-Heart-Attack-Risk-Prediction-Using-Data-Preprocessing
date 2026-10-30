@@ -1,599 +1,568 @@
+<div align="center">
+
 # 🫀 A Comparative Machine Learning Framework for Heart Attack Risk Prediction
 
-<p align="center">
+### Data Preprocessing • Class Imbalance Handling • Cross-Validation • Predictive Modeling
 
-### 🤖 Machine Learning • Healthcare Analytics • Predictive Modeling • Clinical Risk Prediction
-
-A systematic machine learning framework integrating data preprocessing, class-imbalance handling, hyperparameter optimization, and five-fold cross-validation for heart attack risk prediction.
-
+<p>
+  <img src="https://img.shields.io/badge/Research-Machine%20Learning-blue?style=for-the-badge&logo=academia" />
+  <img src="https://img.shields.io/badge/Domain-Healthcare%20AI-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Predictive%20Modeling-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+<br>
+
+<a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing">
+  <img src="https://img.shields.io/badge/📂_GitHub-Explore_Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.researchgate.net/publication/408266268_A_Comparative_Machine_Learning_Framework_for_Heart_Attack_Risk_Prediction_Using_Data_Preprocessing_Class_Imbalance_Handling_and_Cross-Validation">
+  <img src="https://img.shields.io/badge/🔬_ResearchGate-Read_Publication-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="#-research-overview">Overview</a> • <a href="#-research-objectives">Objectives</a> • <a href="#-dataset-overview">Dataset</a> • <a href="#-research-methodology">Methodology</a> • <a href="#-key-findings">Findings</a> • <a href="#-connect-with-me">Connect</a>
+
+</div>
 
 ---
 
-## 📌 Research Overview
+# 📖 Research Overview
 
-Cardiovascular diseases and heart attacks remain major healthcare challenges worldwide. Early identification of individuals at risk can support timely intervention and improved healthcare decision-making.
+Cardiovascular diseases and heart attacks remain significant global healthcare challenges. Early identification of individuals at risk can support timely medical intervention and improve healthcare decision-making.
 
-This research develops a **comparative machine learning framework for heart attack risk prediction** by combining systematic data preprocessing, feature preparation, class-imbalance handling, hyperparameter optimization, and cross-validation.
+This research presents a comparative Machine Learning framework for predicting heart attack risk by integrating systematic data preprocessing, feature preparation, class imbalance handling, hyperparameter optimization, and five-fold cross-validation.
 
-Multiple supervised machine learning algorithms are evaluated to determine their effectiveness in predicting heart attack risk and identifying high-risk cases.
+Seven supervised machine learning algorithms are investigated to compare their predictive capabilities and identify their strengths and limitations in healthcare risk prediction.
 
-The study emphasizes that **accuracy alone is not sufficient for evaluating healthcare prediction models**, particularly when correctly identifying positive/risk cases is clinically important.
+The research particularly emphasizes the importance of evaluating models beyond accuracy, considering metrics such as Recall, Precision, F1-Score, ROC-AUC, and Confusion Matrices.
+
+> **Research Focus:** Developing and evaluating a systematic machine learning framework that emphasizes reliable heart attack risk prediction and minority-class detection.
 
 ---
 
 # 🎯 Research Objectives
 
-**The main objectives of this research are to:**
+The primary objectives of this research include:
 
-* 🫀 Develop a machine learning framework for heart attack risk prediction
-* 🧹 Apply systematic data preprocessing
-* 🔍 Identify relevant predictive features
-* ⚖️ Address class imbalance using SMOTE and class weighting
-* 🤖 Compare multiple machine learning algorithms
-* ⚙️ Optimize model hyperparameters
-* 🔄 Apply five-fold cross-validation
-* 📊 Evaluate models using multiple performance metrics
-* 🎯 Investigate minority-class/heart-attack detection
-* 🏆 Identify models with the most useful predictive characteristics
+* 🫀 Developing a comparative machine learning framework for heart attack risk prediction.
+* 🧹 Applying systematic data preprocessing and cleaning.
+* 🔍 Identifying relevant predictive features.
+* ⚖️ Addressing class imbalance using SMOTE and class weighting.
+* 🤖 Comparing multiple supervised machine learning algorithms.
+* ⚙️ Optimizing model hyperparameters.
+* 🔄 Applying five-fold cross-validation.
+* 📊 Evaluating predictive performance using multiple metrics.
+* ❤️ Investigating minority-class detection capabilities.
+* 🏆 Identifying the strengths and limitations of different models.
 
 ---
 
-# 📊 Dataset
+# 📊 Dataset Overview
 
-*The research uses a **Heart Attack Risk Prediction Dataset obtained from Kaggle**.*
+The research utilizes the Heart Attack Risk Prediction Dataset obtained from Kaggle.
 
-The target variable is:
+### 🎯 Target Variable
 
-```text
-Heart Attack Risk
-```
+`Heart Attack Risk`
 
-**It is treated as a binary classification problem:**
+The prediction task is formulated as a binary classification problem.
 
-```text
-1 → Heart Attack Risk
-0 → No Heart Attack Risk
-```
+| Target Value | Description          |
+| :----------: | -------------------- |
+|       0      | No Heart Attack Risk |
+|       1      | Heart Attack Risk    |
 
-**The study considers demographic, physiological, lifestyle, and clinical-related variables. Examples include:**
+### 🔍 Dataset Features
 
-* Age
-* Sex
-* Cholesterol
-* Systolic blood pressure
-* Diastolic blood pressure
-* Smoking
-* Diabetes
-* Family history
-* Obesity
-* Alcohol consumption
-* Exercise
-* BMI
-* Stress level
-* Previous heart problems
-* Physical activity
-* Sleep
-* Other patient-related characteristics
+The dataset includes demographic, physiological, lifestyle, and clinical-related variables.
 
-**The research methodology describes the target as a binary dependent variable and identifies age, sex, cholesterol, blood pressure, smoking, and diabetes among the predictor variables.**
+| Category          | Features                                          |
+| :---------------- | :------------------------------------------------ |
+| 👤 Demographic    | Age, Sex                                          |
+| ❤️ Cardiovascular | Cholesterol, Systolic BP, Diastolic BP            |
+| 🚬 Lifestyle      | Smoking, Alcohol Consumption, Exercise            |
+| 🩺 Medical        | Diabetes, Family History, Previous Heart Problems |
+| ⚖️ Physical       | BMI, Obesity                                      |
+| 🧠 Other Factors  | Stress Level, Sleep, Physical Activity            |
+
+### 📌 Dataset Information
+
+| Property                    | Details                      |
+| :-------------------------- | :--------------------------- |
+| Dataset                     | Heart Attack Risk Prediction |
+| Source                      | Kaggle                       |
+| Problem Type                | Binary Classification        |
+| Target Variable             | Heart Attack Risk            |
+| Original Observations       | 5,022                        |
+| Original Class Distribution | 2,511 per class              |
 
 ---
 
 # 🔬 Research Methodology
 
-**The study follows a quantitative machine-learning research methodology.**
+The study follows a quantitative machine learning research methodology.
+
+The proposed framework integrates data preprocessing, feature selection, class balancing, model development, optimization, and performance evaluation.
+
+### 🧭 Research Workflow
 
 ```text
-                  🫀 HEART ATTACK DATA
-                          │
-                          ▼
-                  🧹 DATA PREPROCESSING
-                          │
-            ┌─────────────┴─────────────┐
-            │                           │
-            ▼                           ▼
-      Missing Values              Data Cleaning
-      Duplicates                  Outliers
-      Inconsistencies             Feature Preparation
-            │                           │
-            └─────────────┬─────────────┘
-                          ▼
-                  🔍 FEATURE SELECTION
-                          │
-                          ▼
-                  ⚖️ CLASS BALANCING
-                          │
-                ┌─────────┴─────────┐
-                ▼                   ▼
-              SMOTE          Class Weighting
-                │                   │
-                └─────────┬─────────┘
-                          ▼
-                  🤖 MODEL TRAINING
-                          │
-                          ▼
-               ⚙️ HYPERPARAMETER
+              🫀 HEART ATTACK DATASET
+                         |
+                         ▼
+                🧹 DATA PREPROCESSING
+                         |
+                         ▼
+                 🔍 FEATURE SELECTION
+                         |
+                         ▼
+               ⚖️ CLASS IMBALANCE
+                    HANDLING
+                         |
+                ┌────────┴────────┐
+                ▼                 ▼
+              SMOTE         CLASS WEIGHTING
+                └────────┬────────┘
+                         |
+                         ▼
+                🤖 MODEL TRAINING
+                         |
+                         ▼
+              ⚙️ HYPERPARAMETER
                   OPTIMIZATION
-                          │
-                          ▼
-                 🔄 5-FOLD CV
-                          │
-                          ▼
-                  📊 MODEL EVALUATION
-                          │
-          ┌───────────────┼───────────────┐
-          ▼               ▼               ▼
-       Accuracy         Recall          F1
-          │               │               │
-          └───────────────┼───────────────┘
-                          ▼
-                     🏆 COMPARISON
+                         |
+                         ▼
+                 🔄 FIVE-FOLD CV
+                         |
+                         ▼
+                 📊 EVALUATION
+                         |
+                         ▼
+               🏆 MODEL COMPARISON
+                         |
+                         ▼
+               🫀 RISK PREDICTION
 ```
 
-**The dataset was divided into **80% training and 20% testing data**, followed by five-fold cross-validation for more robust performance estimation and reduced overfitting risk.**
+The dataset was divided into 80% training and 20% testing data, with five-fold cross-validation used for model validation.
 
 ---
 
 # 🧹 Data Preprocessing
 
-**Before model development, the dataset was examined for:**
+Data preprocessing is an essential stage in developing reliable machine learning models.
 
-* Missing values
-* Duplicate records
-* Inconsistent observations
-* Potential outliers
-* Data quality issues
+The research examines several data preparation activities:
 
-*Descriptive statistics were used to understand the characteristics of the dataset before model development.*
+* Handling missing values.
+* Identifying duplicate records.
+* Examining inconsistent observations.
+* Investigating potential outliers.
+* Performing feature preparation.
+* Applying feature selection.
+* Preparing data for machine learning algorithms.
 
-*Feature selection was subsequently performed to identify variables considered most relevant to heart attack prediction.*
+The objective is to improve data quality and establish a consistent foundation for model training and evaluation.
 
 ---
 
 # ⚖️ Class Imbalance Handling
 
-Class imbalance is an important issue in healthcare machine learning because models may become biased toward the majority class.
+Class imbalance can affect the ability of machine learning models to identify minority-class observations.
 
-The research incorporates **Synthetic Minority Oversampling Technique (SMOTE)** and **class weighting** to improve the representation and detection of heart attack cases.
+This research incorporates two important approaches:
 
-### 🔵 Original Distribution
+### 1. 🔵 Synthetic Minority Oversampling Technique (SMOTE)
 
-**The dataset contained:**
+SMOTE generates synthetic minority-class observations to improve class representation during model training.
 
-```text
-2511 → No Heart Attack Risk
-2511 → Heart Attack Risk
+### 2. 🟣 Class Weighting
 
-Total = 5022 observations
-```
+Class weighting assigns different importance to classes during model training to help address classification bias.
 
-**The original classes were therefore balanced in the analyzed dataset.**
+### 📊 SMOTE Distribution
 
-### 🟣 SMOTE Distribution
+| Class                    | Original Distribution | After SMOTE |
+| :----------------------- | --------------------: | ----------: |
+| No Heart Attack Risk (0) |                 2,511 |       4,499 |
+| Heart Attack Risk (1)    |                 2,511 |       4,499 |
 
-After SMOTE:
-
-```text
-4499 → Class 0
-4499 → Class 1
-```
-
-*SMOTE increased the training representation to provide a larger balanced training set.*
+**Important:** SMOTE is applied to training data rather than the held-out test data to avoid data leakage.
 
 ---
 
 # 🤖 Machine Learning Models
 
-**The research compares multiple supervised machine learning algorithms.**
+The research compares seven supervised machine learning algorithms.
 
-## 1. 📈 Logistic Regression
+| No. | Algorithm                       | Category              |
+| :-: | :------------------------------ | :-------------------- |
+|  01 | 📈 Logistic Regression          | Linear Classification |
+|  02 | 🌳 Decision Tree                | Tree-Based Learning   |
+|  03 | 🌲 Random Forest                | Ensemble Learning     |
+|  04 | 🚀 Gradient Boosting            | Boosting Algorithm    |
+|  05 | ⚡ LightGBM                      | Gradient Boosting     |
+|  06 | 🔥 AdaBoost                     | Adaptive Boosting     |
+|  07 | 🧠 Multi-Layer Perceptron (MLP) | Neural Network        |
 
-Used as the baseline classification model because of its simplicity, computational efficiency, and interpretability.
+### 📈 Logistic Regression
 
----
+A statistical classification algorithm used as a baseline for predicting binary outcomes.
 
-## 2. 🌲 Random Forest
+### 🌳 Decision Tree
 
-An ensemble learning algorithm capable of modeling nonlinear relationships.
+A tree-based learning algorithm that identifies patterns and relationships through decision rules.
 
-It combines predictions from multiple decision trees to improve robustness and reduce variance.
+### 🌲 Random Forest
 
----
+An ensemble learning technique that combines multiple decision trees to improve prediction robustness.
 
-## 3. 🌳 Decision Tree
+### 🚀 Gradient Boosting
 
-A tree-based classification model used to analyze nonlinear relationships and improve detection of heart attack cases.
+A boosting approach that sequentially develops models to improve predictive performance.
 
----
+### ⚡ LightGBM
 
-## 4. 🚀 Gradient Boosting
+An efficient gradient-boosting framework designed for scalable tree-based learning.
 
-An ensemble technique that sequentially builds models to improve predictive performance.
+### 🔥 AdaBoost
 
----
+An adaptive boosting algorithm that focuses on observations incorrectly classified by previous learners.
 
-## 5. ⚡ LightGBM
+### 🧠 Multi-Layer Perceptron (MLP)
 
-A gradient-boosting framework designed for efficient and scalable tree-based learning.
-
----
-
-## 6. 🔥 AdaBoost
-
-An adaptive boosting algorithm that gives greater importance to observations incorrectly classified by previous learners.
-
----
-
-## 7. 🧠 MLP Neural Network
-
-A Multi-Layer Perceptron neural network used to investigate whether nonlinear neural-network modeling can capture complex relationships between patient characteristics and heart attack risk.
-
-The paper describes the rationale for using these models as a comparative framework, including Random Forest for nonlinear relationships, boosting algorithms for structured healthcare data, and MLP for complex nonlinear interactions.
+A neural network architecture capable of learning complex nonlinear relationships in structured data.
 
 ---
 
 # ⚙️ Hyperparameter Optimization
 
-Hyperparameter optimization was performed to identify appropriate configurations for the machine learning algorithms.
+Hyperparameter optimization is incorporated to identify suitable configurations for the machine learning algorithms.
 
-The optimization process was integrated with model validation to improve predictive performance and reduce the likelihood of selecting models based only on a single train/test split.
+The process aims to improve model performance and establish more effective model configurations.
 
-The final framework therefore combines:
+### Optimization Workflow
 
 ```text
-Model
-  ↓
-Hyperparameter Optimization
-  ↓
-Cross-Validation
-  ↓
-Best Configuration
-  ↓
-Final Evaluation
+       MACHINE LEARNING MODEL
+                 |
+                 ▼
+       HYPERPARAMETER SEARCH
+                 |
+                 ▼
+          MODEL VALIDATION
+                 |
+                 ▼
+        FIVE-FOLD CROSS-VALIDATION
+                 |
+                 ▼
+        OPTIMIZED CONFIGURATION
+                 |
+                 ▼
+          FINAL EVALUATION
 ```
 
 ---
 
 # 🔄 Five-Fold Cross-Validation
 
-*The study applies **5-fold cross-validation***
+Five-fold cross-validation is used to assess model performance across different subsets of the training data.
 
 ```text
-Fold 1 → Train / Validate
-Fold 2 → Train / Validate
-Fold 3 → Train / Validate
-Fold 4 → Train / Validate
-Fold 5 → Train / Validate
-          ↓
-   Average Performance
+       FOLD 1 → TRAIN / VALIDATE
+       FOLD 2 → TRAIN / VALIDATE
+       FOLD 3 → TRAIN / VALIDATE
+       FOLD 4 → TRAIN / VALIDATE
+       FOLD 5 → TRAIN / VALIDATE
+                    |
+                    ▼
+          AVERAGE PERFORMANCE
 ```
 
-**This allows the models to be repeatedly trained and validated on different subsets of the data.**
-
-**The objective is to obtain a more reliable estimate of model performance and reduce the risk of overfitting.**
+This approach provides a more comprehensive assessment of model performance than relying exclusively on a single validation split.
 
 ---
 
-# 📊 Evaluation Metrics
+# 📊 Performance Evaluation Metrics
 
-**Multiple metrics are used because healthcare prediction requires more than simply measuring overall accuracy.**
+Healthcare prediction requires careful evaluation because identifying high-risk cases is particularly important.
 
-### 🎯 Accuracy
+The research incorporates multiple performance metrics.
 
-Measures the proportion of correctly classified observations.
-
-### 🔎 Precision
-
-Measures how many observations predicted as positive were actually positive.
-
-### ❤️ Recall
-
-Measures how many actual heart attack-risk cases were correctly identified.
-
-### ⚖️ F1-Score
-
-Combines precision and recall into a single metric.
-
-### 📈 ROC-AUC
-
-Measures the model's ability to distinguish between positive and negative classes.
-
-### 🧩 Confusion Matrix
-
-Provides detailed counts of:
-
-* True Positives
-* True Negatives
-* False Positives
-* False Negatives
-
-**The paper explicitly evaluates accuracy, precision, recall, F1-score, ROC-AUC, balanced accuracy, and confusion matrices.**
+| Metric               | Purpose                                              |
+| :------------------- | :--------------------------------------------------- |
+| 🎯 Accuracy          | Overall classification correctness                   |
+| 🔎 Precision         | Correctness of positive predictions                  |
+| ❤️ Recall            | Ability to identify actual positive cases            |
+| ⚖️ F1-Score          | Balance between precision and recall                 |
+| 📈 ROC-AUC           | Discrimination between positive and negative classes |
+| 🧩 Confusion Matrix  | Detailed classification outcomes                     |
+| 📊 Balanced Accuracy | Performance across both classes                      |
 
 ---
 
-# 🏆 Key Results
+# 🏆 Key Findings
 
-**The experiments demonstrate that different models perform better under different evaluation criteria.**
+The experimental findings demonstrate that different algorithms perform differently depending on the evaluation criteria.
 
-| Model                  | Approx. Accuracy | Key Observation                    |
-| ---------------------- | ---------------: | ---------------------------------- |
-| 🥇 Random Forest       |         **~64%** | Best overall accuracy              |
-| 🥈 Logistic Regression |         **~64%** | Strong overall classification      |
-| 🥉 Gradient Boosting   |         **~63%** | Strong ensemble performance        |
-| ⚡ LightGBM             |         **~62%** | Strong overall performance         |
-| 🌳 Decision Tree       |         **~54%** | Better minority-class detection    |
-| 🧠 MLP Neural Network  |         **~54%** | Better heart-attack case detection |
+### 📊 Overall Model Comparison
 
-**The reported results show Random Forest and Logistic Regression achieving approximately 0.64 accuracy, while Gradient Boosting and LightGBM achieved above 0.62.**
+| Machine Learning Model | Approx. Accuracy | Key Observation                    |
+| :--------------------- | :--------------: | :--------------------------------- |
+| 🌲 Random Forest       |        64%       | Strong overall classification      |
+| 📈 Logistic Regression |        64%       | Competitive overall performance    |
+| 🚀 Gradient Boosting   |        63%       | Strong ensemble performance        |
+| ⚡ LightGBM             |        62%       | Competitive predictive performance |
+| 🌳 Decision Tree       |        54%       | Better minority-class detection    |
+| 🧠 MLP Neural Network  |        54%       | Better heart attack case detection |
 
----
+*Values are approximate and based on the reported experimental results.*
 
-# ❤️ Minority-Class Detection
+### ❤️ Minority-Class Detection
 
-One of the most important findings is that **the model with the highest accuracy was not necessarily the best at detecting heart attack-risk cases**.
+An important finding is that the algorithm achieving the highest overall accuracy is not necessarily the most effective at identifying heart attack-risk cases.
 
-The Decision Tree and MLP Neural Network achieved higher F1-scores and recall than several other models.
+The Decision Tree and MLP Neural Network demonstrated comparatively stronger minority-class detection through higher Recall and F1-Score.
 
-Reported F1-scores were approximately:
-
-```text
-🌳 Decision Tree       → 0.37
-🧠 MLP Neural Network  → 0.34
-⚡ LightGBM             → 0.12
-📈 Logistic Regression → <0.05
-🌲 Random Forest        → <0.05
-🚀 Gradient Boosting    → <0.05
-```
-
-**This demonstrates why relying exclusively on accuracy can be misleading in healthcare prediction.**
-
----
-
-# 🔥 Random Forest Performance
+### 🔥 Random Forest Performance
 
 Random Forest achieved approximately:
 
-```text
-Accuracy  → 0.643
-Precision → 0.494
-```
+| Metric    | Performance |
+| :-------- | :---------: |
+| Accuracy  |    64.3%    |
+| Precision |    49.4%    |
 
-**It produced the strongest overall positive-class accuracy and precision among the compared models in the reported experiment.**
+### 📈 ROC-AUC Analysis
 
----
+The reported ROC-AUC values were relatively close to random classification.
 
-# 🧠 MLP Neural Network Performance
+This indicates that the models demonstrated limited class-separation capability on the evaluated dataset.
 
-The MLP demonstrated an important advantage in detecting heart attack-risk cases.
+### 💡 Important Research Observation
 
-Its confusion matrix showed:
-
-```text
-❤️ Correct Risk Cases       → 215
-✅ Correct Non-Risk Cases   → 725
-❌ Risk → Non-Risk          → 413
-❌ Non-Risk → Risk          → 400
-```
-
-**Compared with LightGBM, the MLP correctly detected substantially more heart attack-risk cases in the reported experiment.**
-
-This suggests a trade-off between **sensitivity and specificity** that is particularly important in healthcare applications.
+> Accuracy alone is insufficient for evaluating healthcare prediction models. Recall, Precision, F1-Score, and ROC-AUC provide additional insights into the ability of models to identify high-risk cases.
 
 ---
 
-# 📈 ROC-AUC Results
+# 💡 Main Research Contributions
 
-The reported ROC-AUC values were relatively close to random classification:
+The primary contribution of this research is the development of a systematic comparative machine learning framework integrating:
 
-```text
-🌲 Random Forest        → ~0.52
-⚡ LightGBM              → ~0.51
-🚀 Gradient Boosting    → ~0.51
-📈 Logistic Regression  → ~0.50
-🌳 Decision Tree        → ~0.50
-🧠 MLP                  → ~0.47
-```
+* 🧹 Comprehensive data preprocessing.
+* 🔍 Feature selection.
+* ⚖️ Class imbalance handling.
+* ⚙️ Hyperparameter optimization.
+* 🔄 Five-fold cross-validation.
+* 📊 Multi-metric performance evaluation.
+* 🤖 Comparative analysis of seven machine learning algorithms.
 
-**These results indicate that the models had **limited class-separation capability** on the evaluated dataset, despite differences in accuracy and F1-score.**
-
----
-
-# 🔄 Cross-Validation Results
-
-**The five-fold cross-validation results reported approximately:**
-
-```text
-Accuracy  → 60%
-Precision → 35%
-Recall    → 13%
-F1-Score  → 19%
-```
-
-This provides an additional view of model generalizability across different folds.
+The findings highlight the importance of evaluating machine learning models using multiple performance indicators rather than relying exclusively on accuracy.
 
 ---
 
-# 💡 Main Research Findings
-
-### 🥇 Best Overall Classification
-
-**Random Forest and Logistic Regression** achieved the strongest overall accuracy, around 64%.
-
-### ❤️ Best Heart Attack Detection
-
-**Decision Tree and MLP Neural Network** demonstrated stronger minority-class detection through higher recall and F1-score.
-
-### ⚡ Ensemble Performance
-
-Gradient Boosting and LightGBM achieved competitive overall accuracy above 62%.
-
-### 📊 Accuracy Is Not Enough
-
-A model can achieve high overall accuracy while failing to detect a substantial number of actual heart attack-risk cases.
-
-### 🔄 Cross-Validation Matters
-
-Five-fold cross-validation provides a more robust assessment of model generalization.
-
-These findings support the paper's conclusion that **no single model is best across every evaluation criterion**.
-
----
-
-# 🧠 Research Contribution
-
-*The key contribution of this research is the development of a **systematic and repeatable machine-learning framework** that combines:*
-
-```text
-🧹 Data Preprocessing
-        +
-🔍 Feature Selection
-        +
-⚖️ Class Imbalance Handling
-        +
-⚙️ Hyperparameter Optimization
-        +
-🔄 Five-Fold Cross-Validation
-        +
-📊 Multi-Metric Evaluation
-        ↓
-🫀 Heart Attack Risk Prediction
-```
-
-**Rather than evaluating machine learning algorithms using accuracy alone, the framework emphasizes the importance of **recall, precision, F1-score, ROC-AUC, and confusion matrices**, especially for identifying high-risk cases.**
-
----
-
-# 🛠️ Technologies Used
+# 🛠️ Technologies & Tools
 
 | Technology          | Purpose                         |
-| ------------------- | ------------------------------- |
+| :------------------ | :------------------------------ |
 | 🐍 Python           | Machine learning implementation |
+| 📓 Jupyter Notebook | Experimental development        |
 | 🐼 Pandas           | Data processing                 |
-| 🔢 NumPy            | Numerical operations            |
-| 🤖 Scikit-learn     | Machine learning                |
-| ⚖️ Imbalanced-learn | SMOTE/class balancing           |
-| 📊 Matplotlib       | Visualization                   |
+| 🔢 NumPy            | Numerical computation           |
+| 🤖 Scikit-learn     | Machine learning algorithms     |
+| ⚖️ Imbalanced-learn | SMOTE and class balancing       |
+| 📊 Matplotlib       | Data visualization              |
 | 🎨 Seaborn          | Statistical visualization       |
 | 📈 Plotly           | Interactive visualization       |
 | 📋 SPSS             | Statistical analysis            |
-| 📓 Jupyter Notebook | Experimentation                 |
 
 ---
 
-# 📁 Repository Structure
+# 📂 Repository Structure
 
 ```text
-Heart-Attack-Risk-Prediction/
+A-Comparative-Machine-Learning-Framework/
 │
-├── 📄 Research-Paper.docx
-├── 📄 Research-Paper.pdf
-├── 📓 notebooks/
-│   ├── preprocessing.ipynb
-│   ├── model_training.ipynb
-│   └── evaluation.ipynb
+├── 📄 A Comparative Machine Learning Framework for
+│   Heart Attack Risk Prediction.docx
 │
-├── 📊 results/
-│   ├── confusion_matrices/
-│   ├── model_comparison/
-│   ├── roc_curves/
-│   └── cross_validation/
+├── 📓 Data-Analysis-with-Python.ipynb
 │
-├── 🖼️ figures/
+├── 📊 Heart_Attack_Risk_Levels_Dataset.csv
 │
-└── README.md
+└── 📘 README.md
 ```
 
 ---
 
-# 🚀 Research Workflow
+# 📚 Research Publication
 
-```text
-          DATASET
-             │
-             ▼
-     🧹 PREPROCESSING
-             │
-             ▼
-      🔍 FEATURE SELECTION
-             │
-             ▼
-       ⚖️ SMOTE / WEIGHTS
-             │
-             ▼
-     🤖 7 ML ALGORITHMS
-             │
-             ▼
-    ⚙️ HYPERPARAMETER TUNING
-             │
-             ▼
-       🔄 5-FOLD CV
-             │
-             ▼
-     📊 MULTI-METRIC TESTING
-             │
-             ▼
-       🏆 COMPARATIVE
-          ANALYSIS
-             │
-             ▼
-      🫀 HEART ATTACK
-       RISK PREDICTION
-```
+The research manuscript is also available on **ResearchGate** for academic accessibility and research dissemination.
+
+### 📖 Research Title
+
+*A Comparative Machine Learning Framework for Heart Attack Risk Prediction Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.*
+
+<div align="center">
+
+<a href="https://www.researchgate.net/publication/408266268_A_Comparative_Machine_Learning_Framework_for_Heart_Attack_Risk_Prediction_Using_Data_Preprocessing_Class_Imbalance_Handling_and_Cross-Validation">
+
+<img src="https://img.shields.io/badge/RESEARCHGATE-READ_FULL_RESEARCH-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing">
+
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github" />
+
+</a>
+
+</div>
 
 ---
 
-# 📌 Repository Purpose
+# 🚀 Future Improvements
 
-**This repository provides the research materials and supporting resources for the study:**
+Potential directions for extending this research include:
 
-> **“A Comparative Machine Learning Framework for Heart Attack Risk Prediction Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.”**
+* 🔬 External validation using independent healthcare datasets.
+* 🧠 Integration of Explainable AI (XAI) techniques.
+* 📊 SHAP-based feature importance analysis.
+* ⚡ Advanced ensemble learning approaches.
+* 🩺 Investigation of additional cardiovascular risk factors.
+* 🔍 Advanced feature selection techniques.
+* 📈 Model calibration and threshold optimization.
+* 🌐 Development of an interactive prediction interface.
 
-The repository is intended to support:
-
-* 🎓 Academic research
-* 🔬 Reproducible experimentation
-* 🤖 Machine learning research
-* 🫀 Healthcare analytics
-* 📊 Predictive modeling
-* 📚 Further research and extension
+These are potential research extensions and are not claimed as completed implementations.
 
 ---
 
 # ⚠️ Important Research Disclaimer
 
-This project is intended for **academic and research purposes**. The machine-learning models presented in this study are experimental predictive models and **are not intended to replace professional medical diagnosis, clinical judgment, or validated clinical decision-support systems**.
+This project is intended exclusively for academic, educational, and research purposes.
 
-**The reported results are based on the dataset and experimental methodology described in the research paper.**
+The machine learning models presented in this study are experimental predictive models and are not intended to replace professional medical diagnosis, clinical judgment, or validated clinical decision-support systems.
 
----
-
-# 👨‍🔬 Authors
-
-### **Dr. Adnan Amin**
-
-### **Shahid Azam**
-
-**Research Area:** Machine Learning • Healthcare Analytics • Cardiovascular Risk Prediction • Predictive Modeling
+The reported results are specific to the dataset and experimental methodology used in this research. Independent clinical validation is necessary before considering any real-world healthcare application.
 
 ---
 
-# 📚 Citation
+# 👨‍💻 Connect With Me
 
-**If you use this research or repository in your work, please cite:**
+Thank you for exploring my research repository!
 
-```text
-Amin, A., & Azam, S. (2026).
-*A Comparative Machine Learning Framework for Heart Attack Risk Prediction.*
-*Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.*
-```
+I am Shahid Azam, a Computer Science researcher specializing in Artificial Intelligence.
+
+My academic and research interests include Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Healthcare Analytics, and Intelligent Predictive Systems.
+
+I welcome opportunities for academic collaboration, research discussions, and professional networking.
+
+### 🌐 Professional & Academic Profiles
+
+<div align="center">
+
+<a href="https://github.com/shahidazam2020-oss">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.researchgate.net/profile/Shahid-Azam-5">
+<img src="https://img.shields.io/badge/ResearchGate-Explore_Research-00CCBB?style=for-the-badge&logo=researchgate" />
+</a>
+
+</div>
+
+### 🔬 Research Interests
+
+`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Healthcare AI` · `Predictive Modeling` · `Explainable AI` · `Natural Language Processing` · `Large Language Models`
 
 ---
 
-<p align="center">
+# 🤝 CONTRIBUTING
+
+Contributions, suggestions, and constructive feedback are welcome!
+
+This repository aims to support academic knowledge sharing and further research in machine learning and healthcare prediction.
+
+### 🌟 How to Contribute
+
+1. 🍴 Fork this repository.
+2. 📥 Clone your fork.
+3. 🌿 Create a new branch.
+4. ✏️ Make your proposed improvements.
+5. 📤 Submit a Pull Request.
+
+### 💡 Contribution Areas
+
+| Area                | Possible Contributions               |
+| :------------------ | :----------------------------------- |
+| 📚 Research         | Relevant academic publications       |
+| 🤖 Machine Learning | Additional classification algorithms |
+| ⚖️ Class Balancing  | Advanced imbalance-handling methods  |
+| 🔍 Explainability   | SHAP and other XAI techniques        |
+| 📊 Evaluation       | Additional performance metrics       |
+| 📝 Documentation    | Corrections and improvements         |
+
+<div align="center">
+
+<a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing/issues">
+
+<img src="https://img.shields.io/badge/REPORT-Open_an_Issue-orange?style=for-the-badge&logo=github" />
+
+</a>
+
+<a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing/pulls">
+
+<img src="https://img.shields.io/badge/CONTRIBUTE-Pull_Request-success?style=for-the-badge&logo=github" />
+
+</a>
+
+</div>
+
+---
+
+# 📜 License
+
+This repository contains academic research materials, a research manuscript, dataset, and supporting notebook.
+
+No formal license is currently specified for the research materials.
+
+Please contact the author(s) for permission before redistributing or modifying the manuscript or other materials. Any third-party dataset remains subject to its original terms of use.
+
+---
+
+# ⭐ Support This Research
+
+If you find this research useful for your academic studies, research activities, or professional interests:
+
+* ⭐ Star this repository.
+* 🔗 Share the research with your academic network.
+* 📚 Read and explore the publication on ResearchGate.
+* 💬 Provide constructive feedback and suggestions.
+
+Your support and academic engagement are appreciated!
+
+---
+
+<div align="center">
 
 ### 🫀 Machine Learning for Smarter Healthcare
 
-**Data → Intelligence → Prediction → Better Decision Support**
+**Data • Intelligence • Prediction • Research Innovation**
 
-</p>
+<br>
+
+<sub>Research conducted by Shahid Azam and collaborators</sub>
+
+<sub>© 2026 | Academic Research Project</sub>
+
+</div>
