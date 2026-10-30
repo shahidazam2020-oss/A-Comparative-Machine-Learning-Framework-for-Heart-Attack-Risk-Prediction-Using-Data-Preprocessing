@@ -561,3 +561,34 @@ Your support and academic engagement are appreciated!
 <sub>© 2026 | Academic Research Project</sub>
 
 </div>
+
+---
+## 🧪 Experimental Setup & Configuration
+
+The experimental framework was designed to evaluate multiple machine learning algorithms under a consistent data preparation and validation strategy.
+
+### ⚙️ Experimental Configuration
+
+| Configuration           | Description                     |
+| :---------------------- | :------------------------------ |
+| 🎯 Learning Task        | Binary Classification           |
+| 📊 Dataset              | Heart Attack Risk Prediction    |
+| 🔀 Train-Test Split     | 80:20                           |
+| 🔄 Cross-Validation     | 5-Fold                          |
+| ⚖️ Imbalance Handling   | SMOTE and Class Weighting       |
+| 🤖 Algorithms           | 7 Machine Learning Models       |
+| 📈 Evaluation           | Multiple Classification Metrics |
+| 🐍 Programming Language | Python                          |
+
+### 🔬 Experimental Strategy
+
+* Consistent preprocessing across model experiments.
+* Training and testing data separation.
+* Class imbalance handling within the training process.
+* Hyperparameter optimization.
+* Cross-validation-based performance assessment.
+* Comparative evaluation of classification results.
+
+> **Research Principle:** Fair model comparison requires consistent experimental conditions, appropriate validation, and reliable performance evaluation.
+
+---
