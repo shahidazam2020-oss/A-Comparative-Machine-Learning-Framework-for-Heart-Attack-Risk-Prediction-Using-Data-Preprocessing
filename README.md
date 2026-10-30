@@ -646,3 +646,22 @@ The repository is intended to support:
 > Reproducibility depends on using the same dataset version, preprocessing operations, feature configuration, random seeds, and model settings described in the research.
 
 ---
+## 🧠 Research Limitations
+
+Although this research investigates multiple machine learning approaches for heart attack risk prediction, several limitations should be considered.
+
+### ⚠️ Identified Research Considerations
+
+* **Dataset Dependency:** Experimental findings depend on the characteristics and quality of the selected dataset.
+* **Generalizability:** Results may not directly generalize to different populations or healthcare environments.
+* **Class Discrimination:** Relatively low ROC-AUC performance indicates limitations in distinguishing between the two classes.
+* **Feature Dependency:** Predictive performance may depend on the availability and quality of input variables.
+* **Clinical Validation:** The experimental framework has not established clinical effectiveness through independent real-world validation.
+
+### 💡 Research Implications
+
+These considerations highlight the need for independent datasets, improved feature engineering, advanced machine learning methods, explainability techniques, and clinical validation.
+
+> **Research Perspective:** Machine learning predictions should be interpreted carefully, particularly in high-impact healthcare applications.
+
+---
