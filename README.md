@@ -535,19 +535,6 @@ Please contact the author(s) for permission before redistributing or modifying t
 
 ---
 
-# ⭐ Support This Research
-
-If you find this research useful for your academic studies, research activities, or professional interests:
-
-* ⭐ Star this repository.
-* 🔗 Share the research with your academic network.
-* 📚 Read and explore the publication on ResearchGate.
-* 💬 Provide constructive feedback and suggestions.
-
-Your support and academic engagement are appreciated!
-
----
-
 <div align="center">
 
 ### 🫀 Machine Learning for Smarter Healthcare
@@ -746,5 +733,17 @@ The following roadmap highlights potential directions for extending the current 
 Develop more reliable, interpretable, and generalizable machine learning approaches for healthcare risk prediction.
 
 > These items represent potential future research activities, not completed project features.
+
+---
+# ⭐ Support This Research
+
+If you find this research useful for your academic studies, research activities, or professional interests:
+
+* ⭐ Star this repository.
+* 🔗 Share the research with your academic network.
+* 📚 Read and explore the publication on ResearchGate.
+* 💬 Provide constructive feedback and suggestions.
+
+Your support and academic engagement are appreciated!
 
 ---
