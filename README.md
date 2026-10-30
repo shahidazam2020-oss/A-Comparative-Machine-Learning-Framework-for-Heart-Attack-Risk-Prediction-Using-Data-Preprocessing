@@ -404,18 +404,13 @@ The research manuscript is also available on **ResearchGate** for academic acces
 
 ### 📖 Research Title
 
-*A Comparative Machine Learning Framework for Heart Attack Risk Prediction Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.*
+A Comparative Machine Learning Framework for Heart Attack Risk Prediction Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.
 
 <div align="center">
 
 <a href="https://www.researchgate.net/publication/408266268_A_Comparative_Machine_Learning_Framework_for_Heart_Attack_Risk_Prediction_Using_Data_Preprocessing_Class_Imbalance_Handling_and_Cross-Validation">
 
 <img src="https://img.shields.io/badge/RESEARCHGATE-READ_FULL_RESEARCH-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-
-</a>
-
-<br><br>
-
 <a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing">
 
 <img src="https://img.shields.io/badge/GITHUB-EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github" />
