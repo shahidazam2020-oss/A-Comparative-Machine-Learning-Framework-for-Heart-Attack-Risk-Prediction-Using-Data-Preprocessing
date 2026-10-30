@@ -724,3 +724,27 @@ If you use, discuss, or reference this research in your academic work, please ci
 ```
 
 ## *The BibTeX entry is a provisional citation template, not a verified journal publication record.*
+
+---
+## 🗺️ Research Roadmap
+
+The following roadmap highlights potential directions for extending the current research framework.
+
+### 🚀 Planned Research Directions
+
+* [ ] 🔬 Validate models using independent healthcare datasets.
+* [ ] 🧠 Integrate Explainable Artificial Intelligence (XAI).
+* [ ] 📊 Apply SHAP for feature importance analysis.
+* [ ] ⚡ Investigate advanced ensemble learning techniques.
+* [ ] 🔍 Explore feature selection optimization.
+* [ ] 🩺 Investigate additional cardiovascular risk indicators.
+* [ ] 📈 Improve model calibration and threshold selection.
+* [ ] 🌐 Develop an interactive research demonstration.
+
+### 🎯 Long-Term Research Vision
+
+Develop more reliable, interpretable, and generalizable machine learning approaches for healthcare risk prediction.
+
+> These items represent potential future research activities, not completed project features.
+
+---
