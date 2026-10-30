@@ -618,3 +618,31 @@ Therefore, Recall and F1-Score are particularly important when interpreting the 
 > **Key Insight:** Model selection should consider the intended application and the relative importance of false negatives and false positives, rather than accuracy alone.
 
 ---
+## 🔁 Reproducibility & Research Transparency
+
+Reproducibility is an important aspect of scientific machine learning research.
+
+This repository provides supporting research materials to help readers understand the experimental methodology and research framework.
+
+### 📚 Available Research Resources
+
+| Resource                | Purpose                           |
+| :---------------------- | :-------------------------------- |
+| 📄 Research Manuscript  | Research methodology and findings |
+| 📓 Jupyter Notebook     | Experimental implementation       |
+| 📊 Dataset              | Supporting data for analysis      |
+| 📘 README Documentation | Project overview and methodology  |
+
+### 🔬 Research Transparency
+
+The repository is intended to support:
+
+* Understanding the experimental workflow.
+* Reviewing the machine learning methodology.
+* Examining the selected classification algorithms.
+* Exploring preprocessing and class balancing strategies.
+* Understanding model evaluation and reported findings.
+
+> Reproducibility depends on using the same dataset version, preprocessing operations, feature configuration, random seeds, and model settings described in the research.
+
+---
