@@ -438,16 +438,6 @@ These are potential research extensions and are not claimed as completed impleme
 
 ---
 
-# ⚠️ Important Research Disclaimer
-
-This project is intended exclusively for academic, educational, and research purposes.
-
-The machine learning models presented in this study are experimental predictive models and are not intended to replace professional medical diagnosis, clinical judgment, or validated clinical decision-support systems.
-
-The reported results are specific to the dataset and experimental methodology used in this research. Independent clinical validation is necessary before considering any real-world healthcare application.
-
----
-
 # 👨‍💻 Connect With Me
 
 Thank you for exploring my research repository!
@@ -733,6 +723,15 @@ The following roadmap highlights potential directions for extending the current 
 Develop more reliable, interpretable, and generalizable machine learning approaches for healthcare risk prediction.
 
 > These items represent potential future research activities, not completed project features.
+
+---
+# ⚠️ Important Research Disclaimer
+
+This project is intended exclusively for academic, educational, and research purposes.
+
+The machine learning models presented in this study are experimental predictive models and are not intended to replace professional medical diagnosis, clinical judgment, or validated clinical decision-support systems.
+
+The reported results are specific to the dataset and experimental methodology used in this research. Independent clinical validation is necessary before considering any real-world healthcare application.
 
 ---
 # ⭐ Support This Research
