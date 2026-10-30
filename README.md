@@ -513,15 +513,6 @@ This repository aims to support academic knowledge sharing and further research 
 
 </div>
 
----
-
-# 📜 License
-
-This repository contains academic research materials, a research manuscript, dataset, and supporting notebook.
-
-No formal license is currently specified for the research materials.
-
-Please contact the author(s) for permission before redistributing or modifying the manuscript or other materials. Any third-party dataset remains subject to its original terms of use.
 
 ---
 
@@ -734,6 +725,15 @@ The machine learning models presented in this study are experimental predictive 
 The reported results are specific to the dataset and experimental methodology used in this research. Independent clinical validation is necessary before considering any real-world healthcare application.
 
 ---
+
+# 📜 License
+
+This repository contains academic research materials, a research manuscript, dataset, and supporting notebook.
+
+No formal license is currently specified for the research materials.
+
+Please contact the author(s) for permission before redistributing or modifying the manuscript or other materials. Any third-party dataset remains subject to its original terms of use.
+
 # ⭐ Support This Research
 
 If you find this research useful for your academic studies, research activities, or professional interests:
