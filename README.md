@@ -306,7 +306,7 @@
 
 # 🏆 Key Findings
 
-The experimental findings demonstrate that different algorithms perform differently depending on the evaluation criteria.
+**The experimental findings demonstrate that different algorithms perform differently depending on the evaluation criteria.**
 
 ### 📊 Overall Model Comparison
 
