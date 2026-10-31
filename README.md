@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🫀 A Comparative Machine Learning Framework for Heart Attack Risk Prediction
+# 📖 A Comparative Machine Learning Framework for Heart Attack Risk Prediction
 
 ### Data Preprocessing • Class Imbalance Handling • Cross-Validation • Predictive Modeling
 
