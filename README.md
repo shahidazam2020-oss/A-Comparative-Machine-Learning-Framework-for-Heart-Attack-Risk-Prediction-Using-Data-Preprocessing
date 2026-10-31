@@ -68,7 +68,7 @@
 
 `Heart Attack Risk`
 
-The prediction task is formulated as a binary classification problem.
+**The prediction task is formulated as a binary classification problem.**
 
 | Target Value | Description          |
 | :----------: | -------------------- |
