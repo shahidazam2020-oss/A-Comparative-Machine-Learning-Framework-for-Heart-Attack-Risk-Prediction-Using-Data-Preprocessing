@@ -319,7 +319,7 @@
 | 🌳 Decision Tree       |        54%       | Better minority-class detection    |
 | 🧠 MLP Neural Network  |        54%       | Better heart attack case detection |
 
-*Values are approximate and based on the reported experimental results.*
+**Values are approximate and based on the reported experimental results.**
 
 ### ❤️ Minority-Class Detection
 
