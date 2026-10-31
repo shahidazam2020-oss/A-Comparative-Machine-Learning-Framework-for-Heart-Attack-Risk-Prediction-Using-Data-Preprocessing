@@ -282,7 +282,7 @@
           AVERAGE PERFORMANCE
 ```
 
-This approach provides a more comprehensive assessment of model performance than relying exclusively on a single validation split.
+**This approach provides a more comprehensive assessment of model performance than relying exclusively on a single validation split.**
 
 ---
 
