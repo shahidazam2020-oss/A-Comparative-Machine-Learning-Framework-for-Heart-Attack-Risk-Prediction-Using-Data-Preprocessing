@@ -340,7 +340,7 @@ Random Forest achieved approximately:
 
 **The reported ROC-AUC values were relatively close to random classification.**
 
-This indicates that the models demonstrated limited class-separation capability on the evaluated dataset.
+**This indicates that the models demonstrated limited class-separation capability on the evaluated dataset.**
 
 ### 💡 Important Research Observation
 
