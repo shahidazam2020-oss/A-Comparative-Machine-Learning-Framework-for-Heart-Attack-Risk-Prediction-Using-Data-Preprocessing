@@ -35,7 +35,7 @@
 
 **This research presents a comparative Machine Learning framework for predicting heart attack risk by integrating systematic data preprocessing, feature preparation, class imbalance handling, hyperparameter optimization, and five-fold cross-validation.**
 
-Seven supervised machine learning algorithms are investigated to compare their predictive capabilities and identify their strengths and limitations in healthcare risk prediction.
+**Seven supervised machine learning algorithms are investigated to compare their predictive capabilities and identify their strengths and limitations in healthcare risk prediction.**
 
 The research particularly emphasizes the importance of evaluating models beyond accuracy, considering metrics such as Recall, Precision, F1-Score, ROC-AUC, and Confusion Matrices.
 
