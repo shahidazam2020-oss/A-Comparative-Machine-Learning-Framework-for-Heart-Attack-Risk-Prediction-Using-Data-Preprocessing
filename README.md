@@ -210,7 +210,7 @@
 
 ### 📈 Logistic Regression
 
-A statistical classification algorithm used as a baseline for predicting binary outcomes.
+**A statistical classification algorithm used as a baseline for predicting binary outcomes.**
 
 ### 🌳 Decision Tree
 
