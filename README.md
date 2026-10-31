@@ -103,7 +103,7 @@
 
 # 🔬 Research Methodology
 
-The study follows a quantitative machine learning research methodology.
+**The study follows a quantitative machine learning research methodology.**
 
 The proposed framework integrates data preprocessing, feature selection, class balancing, model development, optimization, and performance evaluation.
 
