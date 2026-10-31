@@ -33,7 +33,7 @@
 
 **Cardiovascular diseases and heart attacks remain significant global healthcare challenges. Early identification of individuals at risk can support timely medical intervention and improve healthcare decision-making.**
 
-This research presents a comparative Machine Learning framework for predicting heart attack risk by integrating systematic data preprocessing, feature preparation, class imbalance handling, hyperparameter optimization, and five-fold cross-validation.
+**This research presents a comparative Machine Learning framework for predicting heart attack risk by integrating systematic data preprocessing, feature preparation, class imbalance handling, hyperparameter optimization, and five-fold cross-validation.**
 
 Seven supervised machine learning algorithms are investigated to compare their predictive capabilities and identify their strengths and limitations in healthcare risk prediction.
 
