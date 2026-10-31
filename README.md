@@ -165,7 +165,7 @@
 * Applying feature selection.
 * Preparing data for machine learning algorithms.
 
-The objective is to improve data quality and establish a consistent foundation for model training and evaluation.
+**The objective is to improve data quality and establish a consistent foundation for model training and evaluation.**
 
 ---
 
