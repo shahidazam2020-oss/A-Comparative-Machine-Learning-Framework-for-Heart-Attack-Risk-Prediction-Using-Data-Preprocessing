@@ -153,7 +153,7 @@
 
 # 🧹 Data Preprocessing
 
-Data preprocessing is an essential stage in developing reliable machine learning models.
+**Data preprocessing is an essential stage in developing reliable machine learning models.**
 
 The research examines several data preparation activities:
 
