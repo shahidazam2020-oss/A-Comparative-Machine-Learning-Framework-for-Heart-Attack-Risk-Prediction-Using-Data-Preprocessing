@@ -171,7 +171,7 @@
 
 # ⚖️ Class Imbalance Handling
 
-Class imbalance can affect the ability of machine learning models to identify minority-class observations.
+**Class imbalance can affect the ability of machine learning models to identify minority-class observations.**
 
 This research incorporates two important approaches:
 
