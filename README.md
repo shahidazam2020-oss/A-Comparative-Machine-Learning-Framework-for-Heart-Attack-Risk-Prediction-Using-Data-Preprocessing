@@ -226,7 +226,7 @@
 
 ### ⚡ LightGBM
 
-An efficient gradient-boosting framework designed for scalable tree-based learning.
+**An efficient gradient-boosting framework designed for scalable tree-based learning.**
 
 ### 🔥 AdaBoost
 
