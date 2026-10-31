@@ -288,7 +288,7 @@
 
 # 📊 Performance Evaluation Metrics
 
-Healthcare prediction requires careful evaluation because identifying high-risk cases is particularly important.
+**Healthcare prediction requires careful evaluation because identifying high-risk cases is particularly important.**
 
 The research incorporates multiple performance metrics.
 
