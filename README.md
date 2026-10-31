@@ -230,7 +230,7 @@
 
 ### 🔥 AdaBoost
 
-An adaptive boosting algorithm that focuses on observations incorrectly classified by previous learners.
+**An adaptive boosting algorithm that focuses on observations incorrectly classified by previous learners.**
 
 ### 🧠 Multi-Layer Perceptron (MLP)
 
