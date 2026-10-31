@@ -234,7 +234,7 @@
 
 ### 🧠 Multi-Layer Perceptron (MLP)
 
-A neural network architecture capable of learning complex nonlinear relationships in structured data.
+**A neural network architecture capable of learning complex nonlinear relationships in structured data.**
 
 ---
 
