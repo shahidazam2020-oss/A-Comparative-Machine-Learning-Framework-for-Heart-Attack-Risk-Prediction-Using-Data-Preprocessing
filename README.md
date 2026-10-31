@@ -177,7 +177,7 @@
 
 ### 1. 🔵 Synthetic Minority Oversampling Technique (SMOTE)
 
-SMOTE generates synthetic minority-class observations to improve class representation during model training.
+**SMOTE generates synthetic minority-class observations to improve class representation during model training.**
 
 ### 2. 🟣 Class Weighting
 
