@@ -77,7 +77,7 @@
 
 ### 🔍 Dataset Features
 
-The dataset includes demographic, physiological, lifestyle, and clinical-related variables.
+**The dataset includes demographic, physiological, lifestyle, and clinical-related variables.**
 
 | Category          | Features                                          |
 | :---------------- | :------------------------------------------------ |
