@@ -181,7 +181,7 @@
 
 ### 2. 🟣 Class Weighting
 
-Class weighting assigns different importance to classes during model training to help address classification bias.
+**Class weighting assigns different importance to classes during model training to help address classification bias.**
 
 ### 📊 SMOTE Distribution
 
