@@ -325,7 +325,7 @@
 
 **An important finding is that the algorithm achieving the highest overall accuracy is not necessarily the most effective at identifying heart attack-risk cases.**
 
-The Decision Tree and MLP Neural Network demonstrated comparatively stronger minority-class detection through higher Recall and F1-Score.
+**The Decision Tree and MLP Neural Network demonstrated comparatively stronger minority-class detection through higher Recall and F1-Score.**
 
 ### 🔥 Random Forest Performance
 
