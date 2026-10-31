@@ -222,7 +222,7 @@
 
 ### 🚀 Gradient Boosting
 
-A boosting approach that sequentially develops models to improve predictive performance.
+**A boosting approach that sequentially develops models to improve predictive performance.**
 
 ### ⚡ LightGBM
 
