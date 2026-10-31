@@ -290,7 +290,7 @@
 
 **Healthcare prediction requires careful evaluation because identifying high-risk cases is particularly important.**
 
-The research incorporates multiple performance metrics.
+**The research incorporates multiple performance metrics.**
 
 | Metric               | Purpose                                              |
 | :------------------- | :--------------------------------------------------- |
