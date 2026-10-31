@@ -218,7 +218,7 @@
 
 ### 🌲 Random Forest
 
-An ensemble learning technique that combines multiple decision trees to improve prediction robustness.
+**An ensemble learning technique that combines multiple decision trees to improve prediction robustness.**
 
 ### 🚀 Gradient Boosting
 
