@@ -242,7 +242,7 @@
 
 **Hyperparameter optimization is incorporated to identify suitable configurations for the machine learning algorithms.**
 
-The process aims to improve model performance and establish more effective model configurations.
+**The process aims to improve model performance and establish more effective model configurations.**
 
 ### Optimization Workflow
 
