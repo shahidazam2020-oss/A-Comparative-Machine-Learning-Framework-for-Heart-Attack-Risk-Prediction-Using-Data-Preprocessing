@@ -173,7 +173,7 @@
 
 **Class imbalance can affect the ability of machine learning models to identify minority-class observations.**
 
-This research incorporates two important approaches:
+**This research incorporates two important approaches:**
 
 ### 1. 🔵 Synthetic Minority Oversampling Technique (SMOTE)
 
