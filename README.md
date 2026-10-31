@@ -240,7 +240,7 @@
 
 # ⚙️ Hyperparameter Optimization
 
-Hyperparameter optimization is incorporated to identify suitable configurations for the machine learning algorithms.
+**Hyperparameter optimization is incorporated to identify suitable configurations for the machine learning algorithms.**
 
 The process aims to improve model performance and establish more effective model configurations.
 
