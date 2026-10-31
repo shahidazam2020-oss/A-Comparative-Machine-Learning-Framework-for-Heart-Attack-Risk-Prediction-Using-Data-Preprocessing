@@ -147,7 +147,7 @@
                🫀 RISK PREDICTION
 ```
 
-The dataset was divided into 80% training and 20% testing data, with five-fold cross-validation used for model validation.
+**The dataset was divided into 80% training and 20% testing data, with five-fold cross-validation used for model validation.**
 
 ---
 
