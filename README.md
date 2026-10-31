@@ -196,7 +196,7 @@ Class weighting assigns different importance to classes during model training to
 
 # 🤖 Machine Learning Models
 
-The research compares seven supervised machine learning algorithms.
+**The research compares seven supervised machine learning algorithms.**
 
 | No. | Algorithm                       | Category              |
 | :-: | :------------------------------ | :-------------------- |
