@@ -45,7 +45,7 @@
 
 # 🎯 Research Objectives
 
-The primary objectives of this research include:
+**The primary objectives of this research include:**
 
 * 🫀 Developing a comparative machine learning framework for heart attack risk prediction.
 * 🧹 Applying systematic data preprocessing and cleaning.
