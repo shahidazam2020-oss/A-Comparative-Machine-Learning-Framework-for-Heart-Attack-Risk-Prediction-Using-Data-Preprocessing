@@ -269,7 +269,7 @@
 
 # 🔄 Five-Fold Cross-Validation
 
-Five-fold cross-validation is used to assess model performance across different subsets of the training data.
+**Five-fold cross-validation is used to assess model performance across different subsets of the training data.**
 
 ```text
        FOLD 1 → TRAIN / VALIDATE
