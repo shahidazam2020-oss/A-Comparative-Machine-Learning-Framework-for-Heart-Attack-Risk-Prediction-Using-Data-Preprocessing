@@ -214,7 +214,7 @@
 
 ### 🌳 Decision Tree
 
-A tree-based learning algorithm that identifies patterns and relationships through decision rules.
+**A tree-based learning algorithm that identifies patterns and relationships through decision rules.**
 
 ### 🌲 Random Forest
 
