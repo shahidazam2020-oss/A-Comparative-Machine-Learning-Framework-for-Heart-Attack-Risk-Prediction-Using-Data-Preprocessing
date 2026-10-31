@@ -31,7 +31,7 @@
 
 # 📖 Research Overview
 
-Cardiovascular diseases and heart attacks remain significant global healthcare challenges. Early identification of individuals at risk can support timely medical intervention and improve healthcare decision-making.
+**Cardiovascular diseases and heart attacks remain significant global healthcare challenges. Early identification of individuals at risk can support timely medical intervention and improve healthcare decision-making.**
 
 This research presents a comparative Machine Learning framework for predicting heart attack risk by integrating systematic data preprocessing, feature preparation, class imbalance handling, hyperparameter optimization, and five-fold cross-validation.
 
