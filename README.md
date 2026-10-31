@@ -37,7 +37,7 @@
 
 **Seven supervised machine learning algorithms are investigated to compare their predictive capabilities and identify their strengths and limitations in healthcare risk prediction.**
 
-The research particularly emphasizes the importance of evaluating models beyond accuracy, considering metrics such as Recall, Precision, F1-Score, ROC-AUC, and Confusion Matrices.
+**The research particularly emphasizes the importance of evaluating models beyond accuracy, considering metrics such as Recall, Precision, F1-Score, ROC-AUC, and Confusion Matrices.**
 
 > **Research Focus:** Developing and evaluating a systematic machine learning framework that emphasizes reliable heart attack risk prediction and minority-class detection.
 
