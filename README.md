@@ -484,7 +484,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 
 ### 🏆 Performance Interpretation
 
-The comparative analysis highlights an important distinction between overall classification accuracy and minority-class identification.
+**The comparative analysis highlights an important distinction between overall classification accuracy and minority-class identification.**
 
 A model with higher accuracy does not necessarily provide better detection of heart attack-risk cases.
 
