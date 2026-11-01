@@ -510,7 +510,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 
 ### 🔬 Research Transparency
 
-The repository is intended to support:
+**The repository is intended to support:**
 
 * Understanding the experimental workflow.
 * Reviewing the machine learning methodology.
