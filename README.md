@@ -440,7 +440,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 ---
 ## 🧪 Experimental Setup & Configuration
 
-The experimental framework was designed to evaluate multiple machine learning algorithms under a consistent data preparation and validation strategy.
+**The experimental framework was designed to evaluate multiple machine learning algorithms under a consistent data preparation and validation strategy.**
 
 ### ⚙️ Experimental Configuration
 
