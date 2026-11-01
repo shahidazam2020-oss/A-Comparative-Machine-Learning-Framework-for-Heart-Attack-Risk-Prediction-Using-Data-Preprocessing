@@ -423,7 +423,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 
 # 🚀 Future Improvements
 
-Potential directions for extending this research include:
+**Potential directions for extending this research include:**
 
 * 🔬 External validation using independent healthcare datasets.
 * 🧠 Integration of Explainable AI (XAI) techniques.
