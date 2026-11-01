@@ -350,7 +350,7 @@ Random Forest achieved approximately:
 
 # 💡 Main Research Contributions
 
-The primary contribution of this research is the development of a systematic comparative machine learning framework integrating:
+**The primary contribution of this research is the development of a systematic comparative machine learning framework integrating:**
 
 * 🧹 Comprehensive data preprocessing.
 * 🔍 Feature selection.
