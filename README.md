@@ -495,7 +495,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 ---
 ## 🔁 Reproducibility & Research Transparency
 
-Reproducibility is an important aspect of scientific machine learning research.
+**Reproducibility is an important aspect of scientific machine learning research.**
 
 This repository provides supporting research materials to help readers understand the experimental methodology and research framework.
 
