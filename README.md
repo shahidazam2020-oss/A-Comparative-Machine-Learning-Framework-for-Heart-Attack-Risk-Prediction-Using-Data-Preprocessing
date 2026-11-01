@@ -488,7 +488,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 
 **A model with higher accuracy does not necessarily provide better detection of heart attack-risk cases.**
 
-Therefore, Recall and F1-Score are particularly important when interpreting the predictive performance of healthcare classification models.
+**Therefore, Recall and F1-Score are particularly important when interpreting the predictive performance of healthcare classification models.**
 
 > **Key Insight:** Model selection should consider the intended application and the relative importance of false negatives and false positives, rather than accuracy alone.
 
