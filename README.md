@@ -434,7 +434,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 * 📈 Model calibration and threshold optimization.
 * 🌐 Development of an interactive prediction interface.
 
-These are potential research extensions and are not claimed as completed implementations.
+**These are potential research extensions and are not claimed as completed implementations.**
 
 ---
 
