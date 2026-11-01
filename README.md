@@ -469,7 +469,7 @@ The experimental framework was designed to evaluate multiple machine learning al
 ---
 ## 📊 Model Evaluation & Performance Analysis
 
-Machine learning models are evaluated using multiple performance indicators to understand their classification capabilities.
+**Machine learning models are evaluated using multiple performance indicators to understand their classification capabilities.**
 
 ### 📈 Evaluation Dimensions
 
