@@ -360,7 +360,7 @@ Random Forest achieved approximately:
 * 📊 Multi-metric performance evaluation.
 * 🤖 Comparative analysis of seven machine learning algorithms.
 
-The findings highlight the importance of evaluating machine learning models using multiple performance indicators rather than relying exclusively on accuracy.
+**The findings highlight the importance of evaluating machine learning models using multiple performance indicators rather than relying exclusively on accuracy.**
 
 ---
 
