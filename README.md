@@ -486,7 +486,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 
 **The comparative analysis highlights an important distinction between overall classification accuracy and minority-class identification.**
 
-A model with higher accuracy does not necessarily provide better detection of heart attack-risk cases.
+**A model with higher accuracy does not necessarily provide better detection of heart attack-risk cases.**
 
 Therefore, Recall and F1-Score are particularly important when interpreting the predictive performance of healthcare classification models.
 
