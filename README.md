@@ -404,7 +404,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 
 ### 📖 Research Title
 
-A Comparative Machine Learning Framework for Heart Attack Risk Prediction Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.
+**A Comparative Machine Learning Framework for Heart Attack Risk Prediction Using Data Preprocessing, Class Imbalance Handling, and Cross-Validation.**
 
 <div align="center">
 
