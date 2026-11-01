@@ -436,99 +436,6 @@ The research manuscript is also available on **ResearchGate** for academic acces
 
 **These are potential research extensions and are not claimed as completed implementations.**
 
----
-
-# 👨‍💻 Connect With Me
-
-Thank you for exploring my research repository!
-
-I am Shahid Azam, a Computer Science researcher specializing in Artificial Intelligence.
-
-My academic and research interests include Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Healthcare Analytics, and Intelligent Predictive Systems.
-
-I welcome opportunities for academic collaboration, research discussions, and professional networking.
-
-### 🌐 Professional & Academic Profiles
-
-<div align="center">
-
-<a href="https://github.com/shahidazam2020-oss">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://www.researchgate.net/profile/Shahid-Azam-5">
-<img src="https://img.shields.io/badge/ResearchGate-Explore_Research-00CCBB?style=for-the-badge&logo=researchgate" />
-</a>
-
-</div>
-
-### 🔬 Research Interests
-
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Healthcare AI` · `Predictive Modeling` · `Explainable AI` · `Natural Language Processing` · `Large Language Models`
-
----
-
-# 🤝 CONTRIBUTING
-
-Contributions, suggestions, and constructive feedback are welcome!
-
-This repository aims to support academic knowledge sharing and further research in machine learning and healthcare prediction.
-
-### 🌟 How to Contribute
-
-1. 🍴 Fork this repository.
-2. 📥 Clone your fork.
-3. 🌿 Create a new branch.
-4. ✏️ Make your proposed improvements.
-5. 📤 Submit a Pull Request.
-
-### 💡 Contribution Areas
-
-| Area                | Possible Contributions               |
-| :------------------ | :----------------------------------- |
-| 📚 Research         | Relevant academic publications       |
-| 🤖 Machine Learning | Additional classification algorithms |
-| ⚖️ Class Balancing  | Advanced imbalance-handling methods  |
-| 🔍 Explainability   | SHAP and other XAI techniques        |
-| 📊 Evaluation       | Additional performance metrics       |
-| 📝 Documentation    | Corrections and improvements         |
-
-<div align="center">
-
-<a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing/issues">
-
-<img src="https://img.shields.io/badge/REPORT-Open_an_Issue-orange?style=for-the-badge&logo=github" />
-
-</a>
-
-<a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing/pulls">
-
-<img src="https://img.shields.io/badge/CONTRIBUTE-Pull_Request-success?style=for-the-badge&logo=github" />
-
-</a>
-
-</div>
-
-
----
-
-<div align="center">
-
-### 🫀 Machine Learning for Smarter Healthcare
-
-**Data • Intelligence • Prediction • Research Innovation**
-
-<br>
-
-<sub>Research conducted by Shahid Azam and collaborators</sub>
-
-<sub>© 2026 | Academic Research Project</sub>
-
-</div>
 
 ---
 ## 🧪 Experimental Setup & Configuration
@@ -709,6 +616,101 @@ The following roadmap highlights potential directions for extending the current 
 * [ ] 📈 Improve model calibration and threshold selection.
 * [ ] 🌐 Develop an interactive research demonstration.
 
+---
+
+# 👨‍💻 Connect With Me
+
+Thank you for exploring my research repository!
+
+I am Shahid Azam, a Computer Science researcher specializing in Artificial Intelligence.
+
+My academic and research interests include Machine Learning, Deep Learning, Artificial Intelligence, Natural Language Processing, Healthcare Analytics, and Intelligent Predictive Systems.
+
+I welcome opportunities for academic collaboration, research discussions, and professional networking.
+
+### 🌐 Professional & Academic Profiles
+
+<div align="center">
+
+<a href="https://github.com/shahidazam2020-oss">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.researchgate.net/profile/Shahid-Azam-5">
+<img src="https://img.shields.io/badge/ResearchGate-Explore_Research-00CCBB?style=for-the-badge&logo=researchgate" />
+</a>
+
+</div>
+
+### 🔬 Research Interests
+
+`Artificial Intelligence` · `Machine Learning` · `Deep Learning` · `Healthcare AI` · `Predictive Modeling` · `Explainable AI` · `Natural Language Processing` · `Large Language Models`
+
+---
+
+# 🤝 CONTRIBUTING
+
+Contributions, suggestions, and constructive feedback are welcome!
+
+This repository aims to support academic knowledge sharing and further research in machine learning and healthcare prediction.
+
+### 🌟 How to Contribute
+
+1. 🍴 Fork this repository.
+2. 📥 Clone your fork.
+3. 🌿 Create a new branch.
+4. ✏️ Make your proposed improvements.
+5. 📤 Submit a Pull Request.
+
+### 💡 Contribution Areas
+
+| Area                | Possible Contributions               |
+| :------------------ | :----------------------------------- |
+| 📚 Research         | Relevant academic publications       |
+| 🤖 Machine Learning | Additional classification algorithms |
+| ⚖️ Class Balancing  | Advanced imbalance-handling methods  |
+| 🔍 Explainability   | SHAP and other XAI techniques        |
+| 📊 Evaluation       | Additional performance metrics       |
+| 📝 Documentation    | Corrections and improvements         |
+
+<div align="center">
+
+<a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing/issues">
+
+<img src="https://img.shields.io/badge/REPORT-Open_an_Issue-orange?style=for-the-badge&logo=github" />
+
+</a>
+
+<a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing/pulls">
+
+<img src="https://img.shields.io/badge/CONTRIBUTE-Pull_Request-success?style=for-the-badge&logo=github" />
+
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+### 🫀 Machine Learning for Smarter Healthcare
+
+**Data • Intelligence • Prediction • Research Innovation**
+
+<br>
+
+<sub>Research conducted by Shahid Azam and collaborators</sub>
+
+<sub>© 2026 | Academic Research Project</sub>
+
+</div>
+
+---
 ### 🎯 Long-Term Research Vision
 
 Develop more reliable, interpretable, and generalizable machine learning approaches for healthcare risk prediction.
