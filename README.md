@@ -730,7 +730,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 
 # 📜 License
 
-This repository contains academic research materials, a research manuscript, dataset, and supporting notebook.
+**This repository contains academic research materials, a research manuscript, dataset, and supporting notebook.**
 
 No formal license is currently specified for the research materials.
 
