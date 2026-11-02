@@ -739,7 +739,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 ---
 # ⭐ Support This Research
 
-If you find this research useful for your academic studies, research activities, or professional interests:
+**If you find this research useful for your academic studies, research activities, or professional interests:**
 
 * ⭐ Star this repository.
 * 🔗 Share the research with your academic network.
