@@ -746,6 +746,6 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 * 📚 Read and explore the publication on ResearchGate.
 * 💬 Provide constructive feedback and suggestions.
 
-Your support and academic engagement are appreciated!
+**Your support and academic engagement are appreciated!**
 
 ---
