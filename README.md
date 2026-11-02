@@ -523,7 +523,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 ---
 ## 🧠 Research Limitations
 
-Although this research investigates multiple machine learning approaches for heart attack risk prediction, several limitations should be considered.
+**Although this research investigates multiple machine learning approaches for heart attack risk prediction, several limitations should be considered.**
 
 ### ⚠️ Identified Research Considerations
 
