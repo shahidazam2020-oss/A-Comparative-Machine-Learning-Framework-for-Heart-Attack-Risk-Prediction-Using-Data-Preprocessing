@@ -713,7 +713,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 ---
 ### 🎯 Long-Term Research Vision
 
-Develop more reliable, interpretable, and generalizable machine learning approaches for healthcare risk prediction.
+**Develop more reliable, interpretable, and generalizable machine learning approaches for healthcare risk prediction.**
 
 > These items represent potential future research activities, not completed project features.
 
