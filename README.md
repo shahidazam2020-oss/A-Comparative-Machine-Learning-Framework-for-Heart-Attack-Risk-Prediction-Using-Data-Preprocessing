@@ -720,7 +720,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 ---
 # ⚠️ Important Research Disclaimer
 
-This project is intended exclusively for academic, educational, and research purposes.
+**This project is intended exclusively for academic, educational, and research purposes.**
 
 The machine learning models presented in this study are experimental predictive models and are not intended to replace professional medical diagnosis, clinical judgment, or validated clinical decision-support systems.
 
