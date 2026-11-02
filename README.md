@@ -734,7 +734,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 
 **No formal license is currently specified for the research materials.**
 
-Please contact the author(s) for permission before redistributing or modifying the manuscript or other materials. Any third-party dataset remains subject to its original terms of use.
+**Please contact the author(s) for permission before redistributing or modifying the manuscript or other materials. Any third-party dataset remains subject to its original terms of use.**
 
 ---
 # ⭐ Support This Research
