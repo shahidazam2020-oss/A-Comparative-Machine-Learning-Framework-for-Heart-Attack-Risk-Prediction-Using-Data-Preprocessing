@@ -724,7 +724,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 
 **The machine learning models presented in this study are experimental predictive models and are not intended to replace professional medical diagnosis, clinical judgment, or validated clinical decision-support systems.**
 
-The reported results are specific to the dataset and experimental methodology used in this research. Independent clinical validation is necessary before considering any real-world healthcare application.
+**The reported results are specific to the dataset and experimental methodology used in this research. Independent clinical validation is necessary before considering any real-world healthcare application.**
 
 ---
 
