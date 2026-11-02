@@ -598,7 +598,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 }
 ```
 
-## *The BibTeX entry is a provisional citation template, not a verified journal publication record.*
+## The BibTeX entry is a provisional citation template, not a verified journal publication record.
 
 ---
 ## 🗺️ Research Roadmap
