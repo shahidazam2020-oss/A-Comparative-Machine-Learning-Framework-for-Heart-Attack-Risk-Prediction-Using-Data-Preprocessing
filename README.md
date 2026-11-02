@@ -542,7 +542,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 ---
 ## 🔮 Research Impact & Academic Significance
 
-This research contributes to the broader investigation of machine learning applications in healthcare risk prediction.
+**This research contributes to the broader investigation of machine learning applications in healthcare risk prediction.**
 
 ### 🌟 Academic Significance
 
