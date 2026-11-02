@@ -535,7 +535,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 
 ### 💡 Research Implications
 
-These considerations highlight the need for independent datasets, improved feature engineering, advanced machine learning methods, explainability techniques, and clinical validation.
+**These considerations highlight the need for independent datasets, improved feature engineering, advanced machine learning methods, explainability techniques, and clinical validation.**
 
 > **Research Perspective:** Machine learning predictions should be interpreted carefully, particularly in high-impact healthcare applications.
 
