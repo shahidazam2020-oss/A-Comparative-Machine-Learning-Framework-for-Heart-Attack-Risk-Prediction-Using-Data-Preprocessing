@@ -656,7 +656,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 
 **Contributions, suggestions, and constructive feedback are welcome!**
 
-This repository aims to support academic knowledge sharing and further research in machine learning and healthcare prediction.
+**This repository aims to support academic knowledge sharing and further research in machine learning and healthcare prediction.**
 
 ### 🌟 How to Contribute
 
