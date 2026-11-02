@@ -732,7 +732,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 
 **This repository contains academic research materials, a research manuscript, dataset, and supporting notebook.**
 
-No formal license is currently specified for the research materials.
+**No formal license is currently specified for the research materials.**
 
 Please contact the author(s) for permission before redistributing or modifying the manuscript or other materials. Any third-party dataset remains subject to its original terms of use.
 
