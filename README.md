@@ -603,7 +603,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 ---
 ## 🗺️ Research Roadmap
 
-The following roadmap highlights potential directions for extending the current research framework.
+**The following roadmap highlights potential directions for extending the current research framework.**
 
 ### 🚀 Planned Research Directions
 
