@@ -566,7 +566,7 @@ The research manuscript is also available on **ResearchGate** for academic acces
 ---
 ## 📚 How to Cite This Research
 
-If you use, discuss, or reference this research in your academic work, please cite the original manuscript.
+**If you use, discuss, or reference this research in your academic work, please cite the original manuscript.**
 
 ### 📖 Research Publication
 
