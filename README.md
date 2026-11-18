@@ -3,6 +3,9 @@
 <a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
+   <a href="https://github.com/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/A-Comparative-Machine-Learning-Framework-for-Heart-Attack-Risk-Prediction-Using-Data-Preprocessing?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
 # 📖 A Comparative Machine Learning Framework for Heart Attack Risk Prediction
 
 ### Data Preprocessing • Class Imbalance Handling • Cross-Validation • Predictive Modeling
