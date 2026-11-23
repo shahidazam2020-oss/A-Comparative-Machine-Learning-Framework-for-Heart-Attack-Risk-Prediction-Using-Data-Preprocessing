@@ -761,3 +761,6 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 **Your support and academic engagement are appreciated!**
 
 ---
+<p align="center">
+  <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>
+</p>
