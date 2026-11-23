@@ -768,3 +768,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 <p align="center">
   Made with ❤️ for learning, experimentation, and continuous improvement.
 </p>
+
+<p align="center">
+ <strong>Made with ❤️ by Shahid Azam</strong>
+</p>
