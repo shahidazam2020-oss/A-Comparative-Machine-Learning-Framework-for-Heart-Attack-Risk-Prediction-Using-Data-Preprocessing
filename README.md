@@ -764,3 +764,7 @@ I welcome opportunities for academic collaboration, research discussions, and pr
 <p align="center">
   <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>
 </p>
+
+<p align="center">
+  Made with ❤️ for learning, experimentation, and continuous improvement.
+</p>
